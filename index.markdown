@@ -3,4 +3,15 @@ title: Home
 layout: default
 nav_order: 1
 ---
-This site is for engineers working in Apple supply chain.  
+
+# 欢迎来到果链工程师
+
+这里是果链工程师的 **技能与经验分享平台**，专注于提升工程实践能力与专业素养。  
+
+内容主要覆盖以下主题：
+
+- **GD&T (几何尺寸与公差)**：理解和应用产品设计与检验中的尺寸与公差规范。  
+- **SPC (统计过程控制)**：监控生产过程，分析数据，提升产品质量。  
+- **FEA (有限元分析)**：进行结构分析，预测应力与变形，提高设计可靠性。  
+- **Manufacturing Process (制造工艺)**：各类工艺流程、材料加工与装配技巧分享。
+- **English for Engineers**：工程英文写作、阅读、口语技巧，帮助提升跨国协作能力。

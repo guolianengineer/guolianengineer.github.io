@@ -231,52 +231,59 @@
     "relUrl": "/about/"
   },"33": {
     "doc": "Home",
+    "title": "欢迎来到果链工程师",
+    "content": "这里是果链工程师的 技能与经验分享平台，专注于提升工程实践能力与专业素养。 . 内容主要覆盖以下主题： . | GD&amp;T (几何尺寸与公差)：理解和应用产品设计与检验中的尺寸与公差规范。 | SPC (统计过程控制)：监控生产过程，分析数据，提升产品质量。 | FEA (有限元分析)：进行结构分析，预测应力与变形，提高设计可靠性。 | Manufacturing Process (制造工艺)：各类工艺流程、材料加工与装配技巧分享。 | English for Engineers：工程英文写作、阅读、口语技巧，帮助提升跨国协作能力。 | . ",
+    "url": "/#%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%9E%9C%E9%93%BE%E5%B7%A5%E7%A8%8B%E5%B8%88",
+    
+    "relUrl": "/#欢迎来到果链工程师"
+  },"34": {
+    "doc": "Home",
     "title": "Home",
-    "content": "This site is for engineers working in Apple supply chain. ",
+    "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"34": {
+  },"35": {
     "doc": "English In Use",
     "title": "English In Use",
     "content": "Hello Here is the daily english used in real working. ",
     "url": "/10_english_in_use/",
     
     "relUrl": "/10_english_in_use/"
-  },"35": {
+  },"36": {
     "doc": "Manufacturing",
     "title": "Manufacturing",
     "content": "Manufacturing Technology . Material proproties . CNC . Adhesive Bonding . ",
     "url": "/06_manufacturing_technology/",
     
     "relUrl": "/06_manufacturing_technology/"
-  },"36": {
+  },"37": {
     "doc": "GD&T",
     "title": "GD&T",
     "content": "Geometric and Dimensional Tolerance Here we introduce different functions and roles in CM . ",
     "url": "/03_GD&T/",
     
     "relUrl": "/03_GD&T/"
-  },"37": {
+  },"38": {
     "doc": "SPC",
     "title": "SPC",
     "content": "Statistical Process control . ",
     "url": "/04_SPC/",
     
     "relUrl": "/04_SPC/"
-  },"38": {
+  },"39": {
     "doc": "R&R",
     "title": "R&R",
     "content": "Role and Responsibility . Here we introduce different functions and roles in CM . ",
     "url": "/02_role_and_responsibility/",
     
     "relUrl": "/02_role_and_responsibility/"
-  },"39": {
-    "doc": "FEA",
-    "title": "FEA",
-    "content": "Failure Effect Analysis . FEA tools such as SEM, XRD, MTS, XPS, FTIR, RIB, TEM, etc. ",
-    "url": "/05_FEA/",
+  },"40": {
+    "doc": "FA",
+    "title": "FA",
+    "content": "Failure Analysis Tools . SEM XRD MTS XPS FTIR RIB TEM . ",
+    "url": "/05_FA/",
     
-    "relUrl": "/05_FEA/"
+    "relUrl": "/05_FA/"
   }
 }
