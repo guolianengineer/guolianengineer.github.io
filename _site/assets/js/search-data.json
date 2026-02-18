@@ -1,0 +1,282 @@
+{"0": {
+    "doc": "Design",
+    "title": "1. Drawings",
+    "content": " ",
+    "url": "/10_english_in_use/01_design.html#1-drawings",
+    
+    "relUrl": "/10_english_in_use/01_design.html#1-drawings"
+  },"1": {
+    "doc": "Design",
+    "title": "A. Drawing types and scales",
+    "content": "In engineering, most design information is shown on drawings. Today, drawings are generally not drawn by hand. They are produced on computer, using CAD (computer-aided design) systems. A key factor on a drawing is the scale - that is, the size of items on the drawing in relation to their real size. When all the items on a drawing are shown relative to their real size, the drawing is drawn to scale, and can be called a scale drawing. An example of a scale is 1:10 (one to ten). At 1:10, an object with a length of 100 mm in real life would measure 10 mm on the drawing. Most engineering designs consist of a set of drawings (a number of related drawings): . | General arrangement (GA) drawings GA drawings show whole devices or structures, using a small scale. This means objects on the drawing are small, relative to their real size (for example, a 1:100 drawing of an entire building). | Detail drawings Detail drawings show parts in detail, using a large scale, such as 1:5 or 1:2. Small parts are sometimes shown in a detail as actual size (1:1), or can be enlarged to bigger than actual size (for example, 2:1). | . For electrical circuits, and pipe and duct networks, it is helpful to show designs in a simplified form. In this case, schematic drawings (often referred to as schematics) are used. An everyday example is the map of a train network. Notes: When written, drawing is often abbreviated to dwg. CAD is pronounced as a word: /kaed/. ",
+    "url": "/10_english_in_use/01_design.html#a-drawing-types-and-scales",
+    
+    "relUrl": "/10_english_in_use/01_design.html#a-drawing-types-and-scales"
+  },"2": {
+    "doc": "Design",
+    "title": "B. Types of views used on drawings",
+    "content": "Technicians are discussing different views shown on drawings (looking at components from above, from the side, etc.), as they search for the information they require. We use a view from above showing the general arrangement of all of the roof panels - a plan of the whole area. ",
+    "url": "/10_english_in_use/01_design.html#b-types-of-views-used-on-drawings",
+    
+    "relUrl": "/10_english_in_use/01_design.html#b-types-of-views-used-on-drawings"
+  },"3": {
+    "doc": "Design",
+    "title": "02 Initial design phase",
+    "content": "A structural engineer from a firm of consulting engineers has sent an email to a more senior colleague, with an update on a project for a new airport terminal. ",
+    "url": "/10_english_in_use/01_design.html#02-initial-design-phase",
+    
+    "relUrl": "/10_english_in_use/01_design.html#02-initial-design-phase"
+  },"4": {
+    "doc": "Design",
+    "title": "Design",
+    "content": "Hello Here is the daily english used in real working. ",
+    "url": "/10_english_in_use/01_design.html",
+    
+    "relUrl": "/10_english_in_use/01_design.html"
+  },"5": {
+    "doc": "EPM",
+    "title": "Engineering Project Manager",
+    "content": " ",
+    "url": "/02_role_and_responsibility/01_engineering_project_manager.html#engineering-project-manager",
+    
+    "relUrl": "/02_role_and_responsibility/01_engineering_project_manager.html#engineering-project-manager"
+  },"6": {
+    "doc": "EPM",
+    "title": "Summary",
+    "content": " ",
+    "url": "/02_role_and_responsibility/01_engineering_project_manager.html#summary",
+    
+    "relUrl": "/02_role_and_responsibility/01_engineering_project_manager.html#summary"
+  },"7": {
+    "doc": "EPM",
+    "title": "EPM",
+    "content": " ",
+    "url": "/02_role_and_responsibility/01_engineering_project_manager.html",
+    
+    "relUrl": "/02_role_and_responsibility/01_engineering_project_manager.html"
+  },"8": {
+    "doc": "Basic concept of GD&T",
+    "title": "1. Basic concept of GD&amp;T",
+    "content": " ",
+    "url": "/03_GD&T/01_introduction_to_GD&T.html#1-basic-concept-of-gdt",
+    
+    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#1-basic-concept-of-gdt"
+  },"9": {
+    "doc": "Basic concept of GD&T",
+    "title": "1.1 originates",
+    "content": "For many in the manufacturing sector, geometric dimensioning and tolerancing (GD&amp;T) is a new subject. During World War II, the United States manufactured and shipped spare parts overseas for the war effort. Many of these parts, even though they were made to specifications, would not assemble. The military recognized that defective parts caused serious problems for military personnel. After the war, a committee representing government, industry, and education spent considerable time and effort investigating this defective parts problem; this group needed to find a way to ensure that parts would fit and function properly every time. The result was the development of GD&amp;T. Ultimately, the USASI Y14.5–1966 (United States of America Standards Institute, predecessor to the American National Standards Institute) document was produced based on earlier standards and industry practices. The following are revisions to that standard: . ANSI Y14.5–1973 (American National Standards Institute) ANSI Y14.5M–1982 ASME Y14.5M–1994 (American Society of Mechanical Engineers) ASME Y14.5–2009 ASME Y14.5–2018 . The 2018 revision is the current, authoritative reference document that specifies the proper application of GD&amp;T. Most government contractors are now required to generate drawings that are toleranced with GD&amp;T. Because of tighter tolerancing requirements, shorter time to production, and the need to communicate design intent more accurately, many companies other than military suppliers are recognizing the importance of tolerancing their drawings with GD&amp;T. Traditional tolerancing methods have been in use since the mid-1800s. These methods do a good job of dimensioning and tolerancing the size of features and are still used in that capacity today, but they do a poor job of locating and orienting features of size. GD&amp;T is used extensively for tolerancing size, shape, form, orientation, and location of features. Tolerancing with GD&amp;T has a number of advantages over conventional tolerancing methods; three dramatic advantages are illustrated in this chapter. The purpose of this introductory chapter is to provide an understanding of what GD&amp;T is and why it was developed, when to use it, and what advantages it has over conventional tolerancing methods. With a knowledge of this subject, technical practitioners will be more likely to understand tolerancing in general. With this new skill, engineers will have a greater understanding of how parts assemble, do a better job of communicating design requirements, and ultimately be able to make a greater contribution to their companies’ bottom line. ",
+    "url": "/03_GD&T/01_introduction_to_GD&T.html#11-originates",
+    
+    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#11-originates"
+  },"10": {
+    "doc": "Basic concept of GD&T",
+    "title": "1.1. Chapter Objectives",
+    "content": "After completing this chapter, the learner will be able to: . | Define GD&amp;T | Explain when to use GD&amp;T | Identify three advantages of GD&amp;T over coordinate tolerancing | . ",
+    "url": "/03_GD&T/01_introduction_to_GD&T.html#11-chapter-objectives",
+    
+    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#11-chapter-objectives"
+  },"11": {
+    "doc": "Basic concept of GD&T",
+    "title": "1.2. What Is GD&amp;T?",
+    "content": "GD&amp;T is a symbolic language. It is used to specify the size, shape, form, orientation, and location of features on a part. Features toleranced with GD&amp;T reflect the actual relationship between mating parts. Drawings with properly applied geometric tolerancing provide the best opportunity for uniform interpretation and cost-effective assembly. GD&amp;T was created to ensure the proper assembly of mating parts, to improve quality, and to reduce cost. GD&amp;T is a design tool. Before designers can apply geometric tolerancing properly, they must carefully consider the fit and function of each feature of every part. GD&amp;T, in effect, serves as a checklist to remind the designer to consider all aspects of each feature. GD&amp;T allows the designer to specify the maximum available tolerance and, consequently, design the most economical parts. Properly applied geometric dimensioning and tolerancing ensures that every part will assemble every time. GD&amp;T communicates design requirements. This tolerancing scheme identifies all applicable datum features, that is, reference surfaces, and the features being controlled to these datum features. A properly toleranced drawing not only is a picture that communicates the shape and size of the part but also tells a story that explains the tolerance relationships between features. ",
+    "url": "/03_GD&T/01_introduction_to_GD&T.html#12-what-is-gdt",
+    
+    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#12-what-is-gdt"
+  },"12": {
+    "doc": "Basic concept of GD&T",
+    "title": "1.3. When Should GD&amp;T Be Used?",
+    "content": "Many designers ask, when should I use GD&amp;T? Because GD&amp;T was designed to position features of size, the simplest answer is to locate all features of size with GD&amp;T controls. Designers should tolerance parts with GD&amp;T when: . | Drawing delineation and interpretation need to be the same | Features are critical to function or interchangeability | It is important to stop scrapping perfectly good parts | It is important to reduce drawing changes | Automated equipment is used | Functional gaging is required | It is important to increase productivity | Companies want across-the-board savings | . ",
+    "url": "/03_GD&T/01_introduction_to_GD&T.html#13-when-should-gdt-be-used",
+    
+    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#13-when-should-gdt-be-used"
+  },"13": {
+    "doc": "Basic concept of GD&T",
+    "title": "Basic concept of GD&T",
+    "content": " ",
+    "url": "/03_GD&T/01_introduction_to_GD&T.html",
+    
+    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html"
+  },"14": {
+    "doc": "MDE",
+    "title": "Manufacturing Design Engineer",
+    "content": " ",
+    "url": "/02_role_and_responsibility/02_manufacturing_design_engineer.html#manufacturing-design-engineer",
+    
+    "relUrl": "/02_role_and_responsibility/02_manufacturing_design_engineer.html#manufacturing-design-engineer"
+  },"15": {
+    "doc": "MDE",
+    "title": "Summary",
+    "content": "Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. We bring passion and dedication to your job and there’s no telling what you could accomplish. In this highly visible role, you will lead selection, implementation &amp; optimization of iPhone manufacturing processes for mechanical enclosure machining, surface treatment. Lead team to design outstanding process based on product drawing and cosmetic requirements; mapping out proper process flow and ERS which includes selecting processing equipment, designing corresponding fixtures, initiating DOEs to find out the best recipe. ",
+    "url": "/02_role_and_responsibility/02_manufacturing_design_engineer.html#summary",
+    
+    "relUrl": "/02_role_and_responsibility/02_manufacturing_design_engineer.html#summary"
+  },"16": {
+    "doc": "MDE",
+    "title": "Description",
+    "content": "Apply your Mechanical Engineering experience and work multi-functionally with Product Design Engineering and Industrial Design to assess product features for manufacturability, and recommend capable production processes and equipment. With multiple material machining experience, have expertise in CNC process development, assess CNC machining process flow, review CNC fixture design DFM and drive improvement, apply proper datum to minimize tolerance stack-up, scope machining program to improve process capability and optimize c/t, develop advanced cutters with proper coating for some special use such like high shinny surface, fine texture surface, minimize burrs by cutter improvement. Lead the machine calibration criteria setup and implementation, figure out how to recover the machine accuracy by maintenance and or retrofit, down-select machine base on machine capability and process requirement, work with vendor to develop brand-new equipment from RFQ to machine validation, finally qualify machine and implementation to fulfill process requirement. Working with suppliers to define and refine mechanical tool and fixtures, which can secure the dimension and cosmetic requirement, establish process capability and readiness. Lead the c/t reduction in the NPI stage to hit the MP target. Review/define vendor’s in process control spec base on downstream process and 2D drawing requirement, define part tolerance and specifications by demonstrating process capability to Product Designers and Industrial Designers. Identify, research, develop, and qualify premier equipment manufacturers and suppliers to develop sophisticated equipment for special process use and fulfill supply chain requirement. Provide leadership at manufacturing sites during development and product production ramp. Coordination of activities and direction through clear communication between Asia and US-based teams, and vendors is a necessity. Work closely with Manufacture Design Engineers in the development of above said processes. Work with Global Supply Managers to assess facility, floor layout, provide engineering support to secure deliver material to downstream CM vendor on time and on cost. Work with Manufacture Quality Engineers to drive yield improvement through SPC, Pareto data review to take activities accordingly. ",
+    "url": "/02_role_and_responsibility/02_manufacturing_design_engineer.html#description",
+    
+    "relUrl": "/02_role_and_responsibility/02_manufacturing_design_engineer.html#description"
+  },"17": {
+    "doc": "MDE",
+    "title": "Minimum Qualifications",
+    "content": ". | BS or equivalent experience or above in Mechanical / Industrial Engineering and/or relevant manufacturing work experience. | 5+ years relevant hands-on experience and technical knowledge in fixture design, CNC process and cutter design in consumer electronics industry. | Familiar with CAD/CAM/JMP software and GD&amp;T to make data driven decisions. | Good written and oral communication skills, proficient in both English and Mandarin. | . ",
+    "url": "/02_role_and_responsibility/02_manufacturing_design_engineer.html#minimum-qualifications",
+    
+    "relUrl": "/02_role_and_responsibility/02_manufacturing_design_engineer.html#minimum-qualifications"
+  },"18": {
+    "doc": "MDE",
+    "title": "Preferred Qualifications",
+    "content": ". | Has experience in either Titanium or metal components manufacturing processes including MIM, additive manufacturing (e.g. LPBF, DMD). | Other process knowledge such as raw material, assembly, testing, and experiences in developing customized machine (non-standard machine) are preferred. | Experience in AIML and lean factory. | Familiar with FEA tools such as SEM, XRD, MTS, XPS, FTIR, RIB, TEM, etc. | Familiar with Phyton/C++/SQL software. | Familiar with CAE or simulation tools. | On-site build support; must be willing to work from OEM factories. | A great teammate who is self-motivated, results oriented and detailed oriented. | Ability and willingness to work independently and travel frequently in Asia. | . Apple is an equal opportunity employer that is committed to inclusion and diversity, and thus we treat all applicants fairly and equally. Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. ",
+    "url": "/02_role_and_responsibility/02_manufacturing_design_engineer.html#preferred-qualifications",
+    
+    "relUrl": "/02_role_and_responsibility/02_manufacturing_design_engineer.html#preferred-qualifications"
+  },"19": {
+    "doc": "MDE",
+    "title": "MDE",
+    "content": " ",
+    "url": "/02_role_and_responsibility/02_manufacturing_design_engineer.html",
+    
+    "relUrl": "/02_role_and_responsibility/02_manufacturing_design_engineer.html"
+  },"20": {
+    "doc": "Measurement",
+    "title": "01 Drawing types and scales",
+    "content": "In engineering, most design information is shown on drawings. Today, drawings are generally not drawn by hand. They are produced on computer, using CAD (computer-aided design) systems. ",
+    "url": "/10_english_in_use/02_measurement.html#01-drawing-types-and-scales",
+    
+    "relUrl": "/10_english_in_use/02_measurement.html#01-drawing-types-and-scales"
+  },"21": {
+    "doc": "Measurement",
+    "title": "02 Initial design phase",
+    "content": "A structural engineer from a firm of consulting engineers has sent an email to a more senior colleague, with an update on a project for a new airport terminal. ",
+    "url": "/10_english_in_use/02_measurement.html#02-initial-design-phase",
+    
+    "relUrl": "/10_english_in_use/02_measurement.html#02-initial-design-phase"
+  },"22": {
+    "doc": "Measurement",
+    "title": "Measurement",
+    "content": "Hello Here is the daily english used in real working. ",
+    "url": "/10_english_in_use/02_measurement.html",
+    
+    "relUrl": "/10_english_in_use/02_measurement.html"
+  },"23": {
+    "doc": "MQE",
+    "title": "Manufacturing Quality Engineer",
+    "content": " ",
+    "url": "/02_role_and_responsibility/03_manufacturing_quality_engineer%20copy.html#manufacturing-quality-engineer",
+    
+    "relUrl": "/02_role_and_responsibility/03_manufacturing_quality_engineer%20copy.html#manufacturing-quality-engineer"
+  },"24": {
+    "doc": "MQE",
+    "title": "Summary",
+    "content": "Imagine what you could do here! At Apple, new insights have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there’s no telling what you could accomplish. We are strengthening the team, and we are seeking a dynamic Mechanical Quality Engineer. We feature a collaborative environment with creative, smart people and groundbreaking technologies. Join us and make a difference! In this highly visible role, you will have the chance to create a significant impact on Apple Products, and leave a footprint for years to come. We have an opportunity for an accomplished quality engineer to lead development, and ramp for a next generation Apple product. ",
+    "url": "/02_role_and_responsibility/03_manufacturing_quality_engineer%20copy.html#summary",
+    
+    "relUrl": "/02_role_and_responsibility/03_manufacturing_quality_engineer%20copy.html#summary"
+  },"25": {
+    "doc": "MQE",
+    "title": "Description",
+    "content": "Our quality engineering team enables the mass creation of impossible products as a partner in the development of Apple’s renowned designs. Key Responsibilities Will Include . | You will partner with multi-functional teams to evaluate design and processes at the concept phase | Develop measurement technologies, control strategies, information systems, and manufacturing methods that achieve adventurous specifications at mass production scale | You will develop and implement groundbreaking quality inspection tools to evaluate cosmetic and dimensional part characteristics | Compile and evaluate data to determine appropriate limits and variables for process and part specifications | Lead activities to balance unparalleled quality with scalable yields - You will collaborate with internal and external groups to ensure that proper definition of quality expectations and that appropriate assurance techniques are used for the product | Coordinate all Quality Engineering functions for a program, serving as project manager to lead efforts at supplier locations | Establish audit procedures appropriate to program and supplier to ensure consistency to Apple quality standards | Evaluate and communicate yields of new and existing processes | Drive corrective actions multi-functionally with internal and external team members | . ",
+    "url": "/02_role_and_responsibility/03_manufacturing_quality_engineer%20copy.html#description",
+    
+    "relUrl": "/02_role_and_responsibility/03_manufacturing_quality_engineer%20copy.html#description"
+  },"26": {
+    "doc": "MQE",
+    "title": "Minimum Qualifications",
+    "content": "BS or equivalent experience in Mechanical Engineering, Industrial Engineering, Manufacturing Engineering, Industrial Technology, or similar Experience in manufacturing and quality control Experience developing process quality plans, supplier quality audits, and driving corrective actions and failure analysis efforts . ",
+    "url": "/02_role_and_responsibility/03_manufacturing_quality_engineer%20copy.html#minimum-qualifications",
+    
+    "relUrl": "/02_role_and_responsibility/03_manufacturing_quality_engineer%20copy.html#minimum-qualifications"
+  },"27": {
+    "doc": "MQE",
+    "title": "Preferred Qualifications",
+    "content": ". | Working knowledge of mechanical quality and reliability concepts, supplier management, and general manufacturing operations | Experience with the development and evaluation of measurement systems | Project management experience and a deep understanding of problem solving tools including design of experiments, root cause analysis and statistical analytical tools | Experience with any of the following: mechanical enclosures, castings, plastic parts, injection molding, tooling, jigs, fixtures, or automotive high volume quality manufacturing engineering | Exceptional ability to establish relationships; data-driven and willing to take action; enthusiastic and motivated; and detailed while managing several work streams. | Knowledge on Data Science, including Statistics, Machine Learning, Regression are preferred | . Apple is an equal opportunity employer that is committed to inclusion and diversity, and thus we treat all applicants fairly and equally. Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. ",
+    "url": "/02_role_and_responsibility/03_manufacturing_quality_engineer%20copy.html#preferred-qualifications",
+    
+    "relUrl": "/02_role_and_responsibility/03_manufacturing_quality_engineer%20copy.html#preferred-qualifications"
+  },"28": {
+    "doc": "MQE",
+    "title": "MQE",
+    "content": " ",
+    "url": "/02_role_and_responsibility/03_manufacturing_quality_engineer%20copy.html",
+    
+    "relUrl": "/02_role_and_responsibility/03_manufacturing_quality_engineer%20copy.html"
+  },"29": {
+    "doc": "GSM",
+    "title": "Global Supply Manager",
+    "content": " ",
+    "url": "/02_role_and_responsibility/04_global_supply_manager.html#global-supply-manager",
+    
+    "relUrl": "/02_role_and_responsibility/04_global_supply_manager.html#global-supply-manager"
+  },"30": {
+    "doc": "GSM",
+    "title": "Summary",
+    "content": " ",
+    "url": "/02_role_and_responsibility/04_global_supply_manager.html#summary",
+    
+    "relUrl": "/02_role_and_responsibility/04_global_supply_manager.html#summary"
+  },"31": {
+    "doc": "GSM",
+    "title": "GSM",
+    "content": " ",
+    "url": "/02_role_and_responsibility/04_global_supply_manager.html",
+    
+    "relUrl": "/02_role_and_responsibility/04_global_supply_manager.html"
+  },"32": {
+    "doc": "About",
+    "title": "About",
+    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
+    "url": "/about/",
+    
+    "relUrl": "/about/"
+  },"33": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "This site is for engineers working in Apple supply chain. ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"34": {
+    "doc": "English In Use",
+    "title": "English In Use",
+    "content": "Hello Here is the daily english used in real working. ",
+    "url": "/10_english_in_use/",
+    
+    "relUrl": "/10_english_in_use/"
+  },"35": {
+    "doc": "Manufacturing",
+    "title": "Manufacturing",
+    "content": "Manufacturing Technology . Material proproties . CNC . Adhesive Bonding . ",
+    "url": "/06_manufacturing_technology/",
+    
+    "relUrl": "/06_manufacturing_technology/"
+  },"36": {
+    "doc": "GD&T",
+    "title": "GD&T",
+    "content": "Geometric and Dimensional Tolerance Here we introduce different functions and roles in CM . ",
+    "url": "/03_GD&T/",
+    
+    "relUrl": "/03_GD&T/"
+  },"37": {
+    "doc": "SPC",
+    "title": "SPC",
+    "content": "Statistical Process control . ",
+    "url": "/04_SPC/",
+    
+    "relUrl": "/04_SPC/"
+  },"38": {
+    "doc": "R&R",
+    "title": "R&R",
+    "content": "Role and Responsibility . Here we introduce different functions and roles in CM . ",
+    "url": "/02_role_and_responsibility/",
+    
+    "relUrl": "/02_role_and_responsibility/"
+  },"39": {
+    "doc": "FEA",
+    "title": "FEA",
+    "content": "Failure Effect Analysis . FEA tools such as SEM, XRD, MTS, XPS, FTIR, RIB, TEM, etc. ",
+    "url": "/05_FEA/",
+    
+    "relUrl": "/05_FEA/"
+  }
+}
