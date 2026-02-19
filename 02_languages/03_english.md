@@ -1,10 +1,10 @@
 ---
 layout: default
-title: MQE
-parent: R&R
+title: English
+parent: Languages
 nav_order: 3
 ---
-# Manufacturing Quality Engineer
+# Engineering English
 
 ## Summary
 

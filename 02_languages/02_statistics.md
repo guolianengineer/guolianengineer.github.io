@@ -1,10 +1,10 @@
 ---
 layout: default
-title: MDE
-parent: R&R
+title: Statistics
+parent: Languages
 nav_order: 2
 ---
-# Manufacturing Design Engineer
+# Statistic basics
 
 ## Summary
 

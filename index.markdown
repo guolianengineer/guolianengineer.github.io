@@ -4,14 +4,77 @@ layout: default
 nav_order: 1
 ---
 
-# 欢迎来到果链工程师
+# Apple Supply Chain Operations Knowledge Base
 
-这里是果链工程师的 **技能与经验分享平台**，专注于提升工程实践能力与专业素养。  
+This site documents practical knowledge, methods, and systems used in real-world engineering and product development environments.
 
-内容主要覆盖以下主题：
+---
 
-- **GD&T (几何尺寸与公差)**：理解和应用产品设计与检验中的尺寸与公差规范。  
-- **SPC (统计过程控制)**：监控生产过程，分析数据，提升产品质量。  
-- **FEA (有限元分析)**：进行结构分析，预测应力与变形，提高设计可靠性。  
-- **Manufacturing Process (制造工艺)**：各类工艺流程、材料加工与装配技巧分享。
-- **English for Engineers**：工程英文写作、阅读、口语技巧，帮助提升跨国协作能力。
+## Languages  
+Three fundamental languages is used in Apple supply chain. GD&T, Statistics, English.  
+- **GD&T** : Geometric Dimensioning & Tolerancing,GD&T is a symbolic language used to describe design intent on engineering drawings. 
+- **Statistics** : Statistics is the language used to understand, measure, and control variation.  While GD&T defines what is acceptable geometrically, Statistics determines whether production can consistently achieve it.
+- **English** : English is the working language of international engineering environments.Clear technical English reduces ambiguity, improves efficiency, and strengthens collaboration across global teams.
+
+---
+
+## Manufacturing Technology  
+*(How products are physically realized and assembled)*
+
+Understanding how things are made is essential to good design.  
+This section focuses on production processes and practical manufacturing constraints.
+
+Includes:
+- Welding  
+- Bonding / Adhesives  
+- Fastening systems  
+- Machining & forming  
+- Surface treatment  
+
+---
+
+## Product Development System  
+*(How ideas move from concept to mass production)*
+
+Beyond technical skills, engineering success depends on structured development processes.
+
+Includes:
+- Team roles (PM, ME, EE, SQE, DQE, etc.)  
+- Design workflow  
+- Development phases (EVT / DVT / PVT / MP)  
+- Templates used in real projects  (FMEA / Cost mdeol / Yield bridge. etc.)
+
+---
+
+## Engineering Tools & Characterization  
+*(How we validate, measure, and analyze materials and products)*
+
+Engineering decisions rely on data and verification.
+
+Includes:
+- SEM  
+- XRD  
+- MTS  
+- XPS / FTIR  
+- TEM  
+- Reliability testing  
+- Failure analysis methods  
+
+---
+
+## Company Operations  
+*(How companies and supply chains are structured and operated)*
+
+Engineering does not exist in isolation.  
+Understanding operational logic improves decision-making and long-term growth.
+
+Includes:
+- Organizational structure  
+- Supply chain systems  
+- Cost structure & business logic  
+- Vendor management  
+- Decision-making frameworks  
+
+---
+
+> This knowledge base is continuously expanded and refined through real project experience.
