@@ -202,26 +202,26 @@
     
     "relUrl": "/02_languages/03_english.html"
   },"29": {
-    "doc": "关于我",
-    "title": "一名果链工程师",
-    "content": ". | 制造运营：从事过PE，EPM，GSM工作。 | 制造信息化：从事过企业信息化咨询工作。 | . ",
-    "url": "/about/#%E4%B8%80%E5%90%8D%E6%9E%9C%E9%93%BE%E5%B7%A5%E7%A8%8B%E5%B8%88",
-    
-    "relUrl": "/about/#一名果链工程师"
-  },"30": {
-    "doc": "关于我",
-    "title": "关于我",
-    "content": " ",
-    "url": "/about/",
-    
-    "relUrl": "/about/"
-  },"31": {
     "doc": "首页",
     "title": "果链工程师手册",
-    "content": "记录如下一些内容： . | 果链的工程师需要的技能、学习资源、一些Case。 | 欢迎提问，欢迎Github | . ",
+    "content": "记录如下一些内容： . | 果链的工程师需要的技能、学习资源、一些Case。 | 其他暂时还没想到的内容。 | . ",
     "url": "/#%E6%9E%9C%E9%93%BE%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%89%8B%E5%86%8C",
     
     "relUrl": "/#果链工程师手册"
+  },"30": {
+    "doc": "首页",
+    "title": "果链基本介绍",
+    "content": ". | 果链是什么 | 苹果与果链企业如何合作 | 供应商如何运营（以果链龙头立讯为例，包括企业架构，职能角色等） | . ",
+    "url": "/#%E6%9E%9C%E9%93%BE%E5%9F%BA%E6%9C%AC%E4%BB%8B%E7%BB%8D",
+    
+    "relUrl": "/#果链基本介绍"
+  },"31": {
+    "doc": "首页",
+    "title": "新产品开发流程",
+    "content": "包括： . | 团队角色（PM、ME、EE、SQE、DQE 等） | 设计流程 | 开发阶段（EVT / DVT / PVT / MP） | 实际项目中使用的模板（FMEA / 成本模型 / 良率分析等） | . ",
+    "url": "/#%E6%96%B0%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B",
+    
+    "relUrl": "/#新产品开发流程"
   },"32": {
     "doc": "首页",
     "title": "三种语言",
@@ -231,60 +231,60 @@
     "relUrl": "/#三种语言"
   },"33": {
     "doc": "首页",
-    "title": "产品开发体系",
-    "content": "(想法如何从概念走向量产) . 除了技术能力，工程成功同样依赖结构化的开发流程。 . 包括： . | 团队角色（PM、ME、EE、SQE、DQE 等） | 设计流程 | 开发阶段（EVT / DVT / PVT / MP） | 实际项目中使用的模板（FMEA / 成本模型 / 良率分析等） | . ",
-    "url": "/#%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91%E4%BD%93%E7%B3%BB",
-    
-    "relUrl": "/#产品开发体系"
-  },"34": {
-    "doc": "首页",
     "title": "制造技术",
     "content": "(产品如何被实际制造与装配) . 理解产品如何被制造，是做好设计的前提。 本部分聚焦于生产工艺与实际制造约束。 . 包括： . | 焊接 | 粘接 / 胶黏技术 | 紧固系统 | 机加工与成形 | 表面处理 | . ",
     "url": "/#%E5%88%B6%E9%80%A0%E6%8A%80%E6%9C%AF",
     
     "relUrl": "/#制造技术"
-  },"35": {
+  },"34": {
     "doc": "首页",
-    "title": "工程工具与表征",
+    "title": "工程分析工具",
     "content": "(我们如何验证、测量与分析材料和产品) . 工程决策依赖数据与验证。 . 包括： . | SEM（扫描电子显微镜） | XRD（X射线衍射） | MTS（材料测试系统） | XPS / FTIR | TEM（透射电子显微镜） | 可靠性测试 | 失效分析方法 | . ",
-    "url": "/#%E5%B7%A5%E7%A8%8B%E5%B7%A5%E5%85%B7%E4%B8%8E%E8%A1%A8%E5%BE%81",
+    "url": "/#%E5%B7%A5%E7%A8%8B%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7",
     
-    "relUrl": "/#工程工具与表征"
-  },"36": {
-    "doc": "首页",
-    "title": "公司运营",
-    "content": "(公司与供应链如何组织与运作) . 工程并非孤立存在。 理解运营逻辑有助于提升决策质量与长期成长。 . 包括： . | 组织结构 | 供应链系统 | 成本结构与商业逻辑 | 供应商管理 | 决策框架 | . ",
-    "url": "/#%E5%85%AC%E5%8F%B8%E8%BF%90%E8%90%A5",
-    
-    "relUrl": "/#公司运营"
-  },"37": {
+    "relUrl": "/#工程分析工具"
+  },"35": {
     "doc": "首页",
     "title": "首页",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"38": {
+  },"36": {
     "doc": "制造技术",
     "title": "制造技术",
     "content": "Manufacturing Technology . Material proproties . CNC . Adhesive Bonding . ",
     "url": "/06_manufacturing_technology/",
     
     "relUrl": "/06_manufacturing_technology/"
-  },"39": {
-    "doc": "统计制程控制",
-    "title": "统计制程控制",
-    "content": "Statistical Process control . ",
-    "url": "/04_SPC/",
-    
-    "relUrl": "/04_SPC/"
-  },"40": {
+  },"37": {
     "doc": "GD&T",
     "title": "GD&T",
     "content": "Geometric and Dimensional Tolerance Here we introduce different functions and roles in CM . ",
     "url": "/03_GD&T/",
     
     "relUrl": "/03_GD&T/"
+  },"38": {
+    "doc": "统计制程控制",
+    "title": "统计制程控制",
+    "content": "Statistical Process control . ",
+    "url": "/04_SPC/",
+    
+    "relUrl": "/04_SPC/"
+  },"39": {
+    "doc": "果链语言",
+    "title": "三种语言",
+    "content": "苹果供应链中使用三种基础语言：GD&amp;T、统计学、英语。 . | GD&amp;T：几何尺寸与公差（Geometric Dimensioning &amp; Tolerancing）。GD&amp;T 是一种用于在工程图纸上表达设计意图的符号语言。 . | 统计学：统计学是理解、测量和控制变异的语言。GD&amp;T 定义了几何上的“可接受标准”，而统计学则决定生产过程是否能够稳定且持续地达到这一标准。 . | 英语：英语是国际工程环境中的工作语言。清晰、准确的技术英语能够减少歧义，提高效率，并增强全球团队之间的协作。 . | . ",
+    "url": "/02_languages/#%E4%B8%89%E7%A7%8D%E8%AF%AD%E8%A8%80",
+    
+    "relUrl": "/02_languages/#三种语言"
+  },"40": {
+    "doc": "果链语言",
+    "title": "果链语言",
+    "content": " ",
+    "url": "/02_languages/",
+    
+    "relUrl": "/02_languages/"
   },"41": {
     "doc": "English In Use",
     "title": "English In Use",
@@ -299,19 +299,5 @@
     "url": "/05_FA/",
     
     "relUrl": "/05_FA/"
-  },"43": {
-    "doc": "果链语言",
-    "title": "三种语言",
-    "content": "苹果供应链中使用三种基础语言：GD&amp;T、统计学、英语。 . | GD&amp;T：几何尺寸与公差（Geometric Dimensioning &amp; Tolerancing）。GD&amp;T 是一种用于在工程图纸上表达设计意图的符号语言。 . | 统计学：统计学是理解、测量和控制变异的语言。GD&amp;T 定义了几何上的“可接受标准”，而统计学则决定生产过程是否能够稳定且持续地达到这一标准。 . | 英语：英语是国际工程环境中的工作语言。清晰、准确的技术英语能够减少歧义，提高效率，并增强全球团队之间的协作。 . | . ",
-    "url": "/02_languages/#%E4%B8%89%E7%A7%8D%E8%AF%AD%E8%A8%80",
-    
-    "relUrl": "/02_languages/#三种语言"
-  },"44": {
-    "doc": "果链语言",
-    "title": "果链语言",
-    "content": " ",
-    "url": "/02_languages/",
-    
-    "relUrl": "/02_languages/"
   }
 }
