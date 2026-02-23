@@ -1,47 +1,83 @@
 ---
+title: GD&T基础
 layout: default
-title: Basic concept of GD&T
 parent: GD&T
 nav_order: 1
 ---
-# 1. Basic concept of GD&T
-## 1.1 originates
-For many in the manufacturing sector, geometric dimensioning and tolerancing (GD&T) is a new subject. During World War II, the United States manufactured and shipped spare parts overseas for the war effort. Many of these parts, even though they were made to specifications, would not assemble. The military recognized that defective parts caused serious problems for military personnel. After the war, a committee representing government, industry, and education spent considerable time and effort investigating this defective parts problem; this group needed to find a way to ensure that parts would fit and function properly every time. The result was the development of GD&T.  
+# 1. GD&T 基本概念
 
-Ultimately, the USASI Y14.5–1966 (United States of America Standards Institute, predecessor to the American National Standards Institute) document was produced based on earlier standards and industry practices. The following are revisions to that standard:  
+## 1.1 起源
 
-ANSI Y14.5–1973 (American National Standards Institute)  
-ANSI Y14.5M–1982  
-ASME Y14.5M–1994 (American Society of Mechanical Engineers)  
-ASME Y14.5–2009  
-ASME Y14.5–2018  
+对于许多制造行业从业者来说，几何尺寸与公差（GD&T）仍然是一个相对较新的课题。二战期间，美国为战争需要在海外制造并运输大量备件。然而，许多零件虽然按照规格制造，却无法顺利装配。军方意识到，不合格零件给前线人员带来了严重问题。
 
-The 2018 revision is the current, authoritative reference document that specifies the proper application of GD&T. Most government contractors are now required to generate drawings that are toleranced with GD&T. Because of tighter tolerancing requirements, shorter time to production, and the need to communicate design intent more accurately, many companies other than military suppliers are recognizing the importance of tolerancing their drawings with GD&T.  
+战后，一个由政府、工业界和教育界代表组成的委员会投入了大量时间和精力来研究这一缺陷零件问题。他们需要找到一种方法，确保零件每次都能正确装配并正常工作。GD&T 由此诞生。
 
-Traditional tolerancing methods have been in use since the mid-1800s. These methods do a good job of dimensioning and tolerancing the size of features and are still used in that capacity today, but they do a poor job of locating and orienting features of size. GD&T is used extensively for tolerancing size, shape, form, orientation, and location of features. Tolerancing with GD&T has a number of advantages over conventional tolerancing methods; three dramatic advantages are illustrated in this chapter.  
+最终，USASI Y14.5–1966（美国标准协会，后来的美国国家标准学会 ANSI）文件在早期标准和行业实践基础上正式发布。之后经历了多次修订：
 
-The purpose of this introductory chapter is to provide an understanding of what GD&T is and why it was developed, when to use it, and what advantages it has over conventional tolerancing methods. With a knowledge of this subject, technical practitioners will be more likely to understand tolerancing in general. With this new skill, engineers will have a greater understanding of how parts assemble, do a better job of communicating design requirements, and ultimately be able to make a greater contribution to their companies' bottom line.
+- ANSI Y14.5–1973  
+- ANSI Y14.5M–1982  
+- ASME Y14.5M–1994  
+- ASME Y14.5–2009  
+- ASME Y14.5–2018  
 
-## 1.1. Chapter Objectives
-After completing this chapter, the learner will be able to:  
-- Define GD&T  
-- Explain when to use GD&T  
-- Identify three advantages of GD&T over coordinate tolerancing  
+2018 版是目前现行且权威的参考标准，规定了 GD&T 的正确应用方式。如今，大多数政府承包商都被要求在图纸中使用 GD&T 进行公差标注。由于公差要求越来越严格、量产周期缩短，以及更精确表达设计意图的需求增加，越来越多非军工企业也开始认识到在图纸中使用 GD&T 的重要性。
 
-## 1.2. What Is GD&T?
-GD&T is a symbolic language. It is used to specify the size, shape, form, orientation, and location of features on a part. Features toleranced with GD&T reflect the actual relationship between mating parts. Drawings with properly applied geometric tolerancing provide the best opportunity for uniform interpretation and cost-effective assembly. GD&T was created to ensure the proper assembly of mating parts, to improve quality, and to reduce cost.  
+传统公差方法自 19 世纪中期以来一直被使用。这些方法在尺寸标注方面表现良好，并至今仍被采用，但在控制尺寸特征的位置和方向方面能力有限。GD&T 则广泛用于控制特征的尺寸、形状、形位、方向和位置。
 
-GD&T is a design tool. Before designers can apply geometric tolerancing properly, they must carefully consider the fit and function of each feature of every part. GD&T, in effect, serves as a checklist to remind the designer to consider all aspects of each feature. GD&T allows the designer to specify the maximum available tolerance and, consequently, design the most economical parts. Properly applied geometric dimensioning and tolerancing ensures that every part will assemble every time.  
+与传统公差方法相比，GD&T 具有多项优势。本章将展示其中三项显著优势。
 
-GD&T communicates design requirements. This tolerancing scheme identifies all applicable datum features, that is, reference surfaces, and the features being controlled to these datum features. A properly toleranced drawing not only is a picture that communicates the shape and size of the part but also tells a story that explains the tolerance relationships between features.  
+本章的目的在于帮助读者理解：
+- 什么是 GD&T  
+- 为什么要开发 GD&T  
+- 何时使用 GD&T  
+- GD&T 相较传统公差方法的优势  
 
-## 1.3. When Should GD&T Be Used?
-Many designers ask, when should I use GD&T? Because GD&T was designed to position features of size, the simplest answer is to locate all features of size with GD&T controls. Designers should tolerance parts with GD&T when:
-- Drawing delineation and interpretation need to be the same
-- Features are critical to function or interchangeability
-- It is important to stop scrapping perfectly good parts
-- It is important to reduce drawing changes
-- Automated equipment is used
-- Functional gaging is required
-- It is important to increase productivity
-- Companies want across-the-board savings
+掌握这一知识后，技术人员将更全面理解公差概念。工程师也将更清楚零件如何装配，更有效地表达设计要求，并最终为公司创造更大的价值。
+
+---
+
+## 1.1 本章学习目标
+
+完成本章后，学习者将能够：
+
+- 定义 GD&T  
+- 说明何时使用 GD&T  
+- 识别 GD&T 相对于坐标公差的三项优势  
+
+---
+
+## 1.2 什么是 GD&T？
+
+GD&T 是一种符号语言，用于规定零件特征的尺寸、形状、形位、方向和位置。
+
+采用 GD&T 标注公差的特征能够真实反映配合零件之间的实际关系。正确应用几何公差的图纸，有助于实现统一理解和低成本装配。
+
+GD&T 的创建目标包括：
+- 确保配合零件正确装配  
+- 提高质量  
+- 降低成本  
+
+GD&T 是一种设计工具。在正确应用几何公差之前，设计人员必须认真考虑每个零件每个特征的配合与功能。某种程度上，GD&T 相当于一份“检查清单”，提醒设计者全面思考每个特征的各个方面。
+
+GD&T 允许设计人员使用最大可用公差，从而设计出最经济的零件。正确应用 GD&T 可以确保零件每次都能正确装配。
+
+GD&T 还能清晰传达设计要求。它识别所有相关的基准特征（即参考表面），以及受这些基准控制的特征。一个标注合理的图纸不仅展示零件的形状和尺寸，还讲述了各特征之间的公差关系。
+
+---
+
+## 1.3 何时应使用 GD&T？
+
+许多设计人员会问：什么时候应该使用 GD&T？
+
+由于 GD&T 的主要目的之一是定位尺寸特征，最简单的回答是：所有尺寸特征都应使用 GD&T 进行定位控制。
+
+在以下情况下，设计人员应使用 GD&T：
+
+- 需要确保图纸表达和理解的一致性  
+- 特征对功能或互换性至关重要  
+- 需要避免误报废合格零件  
+- 需要减少图纸变更  
+- 使用自动化设备生产  
+- 需要功能量规检测  
+- 需要提高生产效率  
+- 企业希望实现整体成本节约  

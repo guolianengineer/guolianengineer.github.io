@@ -1,80 +1,80 @@
 ---
-title: Home
+title: 首页
 layout: default
 nav_order: 1
 ---
 
-# Apple Supply Chain Operations Knowledge Base
-
-This site documents practical knowledge, methods, and systems used in real-world engineering and product development environments.
-
----
-
-## Languages  
-Three fundamental languages is used in Apple supply chain. GD&T, Statistics, English.  
-- **GD&T** : Geometric Dimensioning & Tolerancing,GD&T is a symbolic language used to describe design intent on engineering drawings. 
-- **Statistics** : Statistics is the language used to understand, measure, and control variation.  While GD&T defines what is acceptable geometrically, Statistics determines whether production can consistently achieve it.
-- **English** : English is the working language of international engineering environments.Clear technical English reduces ambiguity, improves efficiency, and strengthens collaboration across global teams.
+# 果链工程师手册
+记录如下一些内容：
+- 果链的工程师需要的技能、学习资源、一些Case。
+- 欢迎提问，欢迎Github
 
 ---
 
-## Manufacturing Technology  
-*(How products are physically realized and assembled)*
+## 三种语言  
+苹果供应链中使用三种基础语言：GD&T、统计学、英语。  
 
-Understanding how things are made is essential to good design.  
-This section focuses on production processes and practical manufacturing constraints.
-
-Includes:
-- Welding  
-- Bonding / Adhesives  
-- Fastening systems  
-- Machining & forming  
-- Surface treatment  
+- **GD&T**：几何尺寸与公差（Geometric Dimensioning & Tolerancing）。GD&T 是一种用于在工程图纸上表达设计意图的符号语言。  
+- **统计学**：统计学是理解、测量和控制变异的语言。GD&T 定义了几何上“什么是可接受的”，而统计学则决定生产过程是否能够稳定且持续地达到这一标准。  
+- **英语**：英语是国际工程环境中的工作语言。清晰、准确的技术英语可以减少歧义，提高效率，并增强全球团队之间的协作。
 
 ---
 
-## Product Development System  
-*(How ideas move from concept to mass production)*
+## 产品开发体系  
+*(想法如何从概念走向量产)*
 
-Beyond technical skills, engineering success depends on structured development processes.
+除了技术能力，工程成功同样依赖结构化的开发流程。
 
-Includes:
-- Team roles (PM, ME, EE, SQE, DQE, etc.)  
-- Design workflow  
-- Development phases (EVT / DVT / PVT / MP)  
-- Templates used in real projects  (FMEA / Cost mdeol / Yield bridge. etc.)
+包括：  
+- 团队角色（PM、ME、EE、SQE、DQE 等）  
+- 设计流程  
+- 开发阶段（EVT / DVT / PVT / MP）  
+- 实际项目中使用的模板（FMEA / 成本模型 / 良率分析等）
 
 ---
 
-## Engineering Tools & Characterization  
-*(How we validate, measure, and analyze materials and products)*
+## 制造技术  
+*(产品如何被实际制造与装配)*
 
-Engineering decisions rely on data and verification.
+理解产品如何被制造，是做好设计的前提。  
+本部分聚焦于生产工艺与实际制造约束。
 
-Includes:
-- SEM  
-- XRD  
-- MTS  
+包括：  
+- 焊接  
+- 粘接 / 胶黏技术  
+- 紧固系统  
+- 机加工与成形  
+- 表面处理  
+
+---
+
+## 工程工具与表征  
+*(我们如何验证、测量与分析材料和产品)*
+
+工程决策依赖数据与验证。
+
+包括：  
+- SEM（扫描电子显微镜）  
+- XRD（X射线衍射）  
+- MTS（材料测试系统）  
 - XPS / FTIR  
-- TEM  
-- Reliability testing  
-- Failure analysis methods  
+- TEM（透射电子显微镜）  
+- 可靠性测试  
+- 失效分析方法  
 
 ---
 
-## Company Operations  
-*(How companies and supply chains are structured and operated)*
+## 公司运营  
+*(公司与供应链如何组织与运作)*
 
-Engineering does not exist in isolation.  
-Understanding operational logic improves decision-making and long-term growth.
+工程并非孤立存在。  
+理解运营逻辑有助于提升决策质量与长期成长。
 
-Includes:
-- Organizational structure  
-- Supply chain systems  
-- Cost structure & business logic  
-- Vendor management  
-- Decision-making frameworks  
+包括：  
+- 组织结构  
+- 供应链系统  
+- 成本结构与商业逻辑  
+- 供应商管理  
+- 决策框架  
 
 ---
-
-> This knowledge base is continuously expanded and refined through real project experience.

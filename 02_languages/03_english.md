@@ -1,7 +1,7 @@
 ---
+parent: 果链语言
 layout: default
-title: English
-parent: Languages
+title: 英语
 nav_order: 3
 ---
 # Engineering English

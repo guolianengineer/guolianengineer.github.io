@@ -1,9 +1,9 @@
 ---
+title: 失效分析
 layout: default
-title: FA
 nav_order: 5
 ---
-Failure Analysis Tools  
+失效分析工具
 
 SEM  
 XRD  

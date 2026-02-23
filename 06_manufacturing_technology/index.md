@@ -1,6 +1,6 @@
 ---
+title: 制造技术
 layout: default
-title: Manufacturing
 nav_order: 6
 ---
 Manufacturing Technology

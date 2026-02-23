@@ -1,6 +1,6 @@
 ---
+title: 统计制程控制
 layout: default
-title: SPC
 nav_order: 4
 ---
 

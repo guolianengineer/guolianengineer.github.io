@@ -1,7 +1,7 @@
 ---
+parent: 果链语言
 layout: default
-title: Statistics
-parent: Languages
+title: 统计学
 nav_order: 2
 ---
 # Statistic basics

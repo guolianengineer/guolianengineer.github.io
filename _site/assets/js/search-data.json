@@ -55,43 +55,43 @@
     
     "relUrl": "/10_english_in_use/01_design.html"
   },"8": {
-    "doc": "Basic concept of GD&T",
-    "title": "1. Basic concept of GD&amp;T",
+    "doc": "GD&T基础",
+    "title": "1. GD&amp;T 基本概念",
     "content": " ",
-    "url": "/03_GD&T/01_introduction_to_GD&T.html#1-basic-concept-of-gdt",
+    "url": "/03_GD&T/01_introduction_to_GD&T.html#1-gdt-%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5",
     
-    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#1-basic-concept-of-gdt"
+    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#1-gdt-基本概念"
   },"9": {
-    "doc": "Basic concept of GD&T",
-    "title": "1.1 originates",
-    "content": "For many in the manufacturing sector, geometric dimensioning and tolerancing (GD&amp;T) is a new subject. During World War II, the United States manufactured and shipped spare parts overseas for the war effort. Many of these parts, even though they were made to specifications, would not assemble. The military recognized that defective parts caused serious problems for military personnel. After the war, a committee representing government, industry, and education spent considerable time and effort investigating this defective parts problem; this group needed to find a way to ensure that parts would fit and function properly every time. The result was the development of GD&amp;T. Ultimately, the USASI Y14.5–1966 (United States of America Standards Institute, predecessor to the American National Standards Institute) document was produced based on earlier standards and industry practices. The following are revisions to that standard: . ANSI Y14.5–1973 (American National Standards Institute) ANSI Y14.5M–1982 ASME Y14.5M–1994 (American Society of Mechanical Engineers) ASME Y14.5–2009 ASME Y14.5–2018 . The 2018 revision is the current, authoritative reference document that specifies the proper application of GD&amp;T. Most government contractors are now required to generate drawings that are toleranced with GD&amp;T. Because of tighter tolerancing requirements, shorter time to production, and the need to communicate design intent more accurately, many companies other than military suppliers are recognizing the importance of tolerancing their drawings with GD&amp;T. Traditional tolerancing methods have been in use since the mid-1800s. These methods do a good job of dimensioning and tolerancing the size of features and are still used in that capacity today, but they do a poor job of locating and orienting features of size. GD&amp;T is used extensively for tolerancing size, shape, form, orientation, and location of features. Tolerancing with GD&amp;T has a number of advantages over conventional tolerancing methods; three dramatic advantages are illustrated in this chapter. The purpose of this introductory chapter is to provide an understanding of what GD&amp;T is and why it was developed, when to use it, and what advantages it has over conventional tolerancing methods. With a knowledge of this subject, technical practitioners will be more likely to understand tolerancing in general. With this new skill, engineers will have a greater understanding of how parts assemble, do a better job of communicating design requirements, and ultimately be able to make a greater contribution to their companies’ bottom line. ",
-    "url": "/03_GD&T/01_introduction_to_GD&T.html#11-originates",
+    "doc": "GD&T基础",
+    "title": "1.1 起源",
+    "content": "对于许多制造行业从业者来说，几何尺寸与公差（GD&amp;T）仍然是一个相对较新的课题。二战期间，美国为战争需要在海外制造并运输大量备件。然而，许多零件虽然按照规格制造，却无法顺利装配。军方意识到，不合格零件给前线人员带来了严重问题。 . 战后，一个由政府、工业界和教育界代表组成的委员会投入了大量时间和精力来研究这一缺陷零件问题。他们需要找到一种方法，确保零件每次都能正确装配并正常工作。GD&amp;T 由此诞生。 . 最终，USASI Y14.5–1966（美国标准协会，后来的美国国家标准学会 ANSI）文件在早期标准和行业实践基础上正式发布。之后经历了多次修订： . | ANSI Y14.5–1973 | ANSI Y14.5M–1982 | ASME Y14.5M–1994 | ASME Y14.5–2009 | ASME Y14.5–2018 | . 2018 版是目前现行且权威的参考标准，规定了 GD&amp;T 的正确应用方式。如今，大多数政府承包商都被要求在图纸中使用 GD&amp;T 进行公差标注。由于公差要求越来越严格、量产周期缩短，以及更精确表达设计意图的需求增加，越来越多非军工企业也开始认识到在图纸中使用 GD&amp;T 的重要性。 . 传统公差方法自 19 世纪中期以来一直被使用。这些方法在尺寸标注方面表现良好，并至今仍被采用，但在控制尺寸特征的位置和方向方面能力有限。GD&amp;T 则广泛用于控制特征的尺寸、形状、形位、方向和位置。 . 与传统公差方法相比，GD&amp;T 具有多项优势。本章将展示其中三项显著优势。 . 本章的目的在于帮助读者理解： . | 什么是 GD&amp;T | 为什么要开发 GD&amp;T | 何时使用 GD&amp;T | GD&amp;T 相较传统公差方法的优势 | . 掌握这一知识后，技术人员将更全面理解公差概念。工程师也将更清楚零件如何装配，更有效地表达设计要求，并最终为公司创造更大的价值。 . ",
+    "url": "/03_GD&T/01_introduction_to_GD&T.html#11-%E8%B5%B7%E6%BA%90",
     
-    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#11-originates"
+    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#11-起源"
   },"10": {
-    "doc": "Basic concept of GD&T",
-    "title": "1.1. Chapter Objectives",
-    "content": "After completing this chapter, the learner will be able to: . | Define GD&amp;T | Explain when to use GD&amp;T | Identify three advantages of GD&amp;T over coordinate tolerancing | . ",
-    "url": "/03_GD&T/01_introduction_to_GD&T.html#11-chapter-objectives",
+    "doc": "GD&T基础",
+    "title": "1.1 本章学习目标",
+    "content": "完成本章后，学习者将能够： . | 定义 GD&amp;T | 说明何时使用 GD&amp;T | 识别 GD&amp;T 相对于坐标公差的三项优势 | . ",
+    "url": "/03_GD&T/01_introduction_to_GD&T.html#11-%E6%9C%AC%E7%AB%A0%E5%AD%A6%E4%B9%A0%E7%9B%AE%E6%A0%87",
     
-    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#11-chapter-objectives"
+    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#11-本章学习目标"
   },"11": {
-    "doc": "Basic concept of GD&T",
-    "title": "1.2. What Is GD&amp;T?",
-    "content": "GD&amp;T is a symbolic language. It is used to specify the size, shape, form, orientation, and location of features on a part. Features toleranced with GD&amp;T reflect the actual relationship between mating parts. Drawings with properly applied geometric tolerancing provide the best opportunity for uniform interpretation and cost-effective assembly. GD&amp;T was created to ensure the proper assembly of mating parts, to improve quality, and to reduce cost. GD&amp;T is a design tool. Before designers can apply geometric tolerancing properly, they must carefully consider the fit and function of each feature of every part. GD&amp;T, in effect, serves as a checklist to remind the designer to consider all aspects of each feature. GD&amp;T allows the designer to specify the maximum available tolerance and, consequently, design the most economical parts. Properly applied geometric dimensioning and tolerancing ensures that every part will assemble every time. GD&amp;T communicates design requirements. This tolerancing scheme identifies all applicable datum features, that is, reference surfaces, and the features being controlled to these datum features. A properly toleranced drawing not only is a picture that communicates the shape and size of the part but also tells a story that explains the tolerance relationships between features. ",
-    "url": "/03_GD&T/01_introduction_to_GD&T.html#12-what-is-gdt",
+    "doc": "GD&T基础",
+    "title": "1.2 什么是 GD&amp;T？",
+    "content": "GD&amp;T 是一种符号语言，用于规定零件特征的尺寸、形状、形位、方向和位置。 . 采用 GD&amp;T 标注公差的特征能够真实反映配合零件之间的实际关系。正确应用几何公差的图纸，有助于实现统一理解和低成本装配。 . GD&amp;T 的创建目标包括： . | 确保配合零件正确装配 | 提高质量 | 降低成本 | . GD&amp;T 是一种设计工具。在正确应用几何公差之前，设计人员必须认真考虑每个零件每个特征的配合与功能。某种程度上，GD&amp;T 相当于一份“检查清单”，提醒设计者全面思考每个特征的各个方面。 . GD&amp;T 允许设计人员使用最大可用公差，从而设计出最经济的零件。正确应用 GD&amp;T 可以确保零件每次都能正确装配。 . GD&amp;T 还能清晰传达设计要求。它识别所有相关的基准特征（即参考表面），以及受这些基准控制的特征。一个标注合理的图纸不仅展示零件的形状和尺寸，还讲述了各特征之间的公差关系。 . ",
+    "url": "/03_GD&T/01_introduction_to_GD&T.html#12-%E4%BB%80%E4%B9%88%E6%98%AF-gdt",
     
-    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#12-what-is-gdt"
+    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#12-什么是-gdt"
   },"12": {
-    "doc": "Basic concept of GD&T",
-    "title": "1.3. When Should GD&amp;T Be Used?",
-    "content": "Many designers ask, when should I use GD&amp;T? Because GD&amp;T was designed to position features of size, the simplest answer is to locate all features of size with GD&amp;T controls. Designers should tolerance parts with GD&amp;T when: . | Drawing delineation and interpretation need to be the same | Features are critical to function or interchangeability | It is important to stop scrapping perfectly good parts | It is important to reduce drawing changes | Automated equipment is used | Functional gaging is required | It is important to increase productivity | Companies want across-the-board savings | . ",
-    "url": "/03_GD&T/01_introduction_to_GD&T.html#13-when-should-gdt-be-used",
+    "doc": "GD&T基础",
+    "title": "1.3 何时应使用 GD&amp;T？",
+    "content": "许多设计人员会问：什么时候应该使用 GD&amp;T？ . 由于 GD&amp;T 的主要目的之一是定位尺寸特征，最简单的回答是：所有尺寸特征都应使用 GD&amp;T 进行定位控制。 . 在以下情况下，设计人员应使用 GD&amp;T： . | 需要确保图纸表达和理解的一致性 | 特征对功能或互换性至关重要 | 需要避免误报废合格零件 | 需要减少图纸变更 | 使用自动化设备生产 | 需要功能量规检测 | 需要提高生产效率 | 企业希望实现整体成本节约 | . ",
+    "url": "/03_GD&T/01_introduction_to_GD&T.html#13-%E4%BD%95%E6%97%B6%E5%BA%94%E4%BD%BF%E7%94%A8-gdt",
     
-    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#13-when-should-gdt-be-used"
+    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#13-何时应使用-gdt"
   },"13": {
-    "doc": "Basic concept of GD&T",
-    "title": "Basic concept of GD&T",
+    "doc": "GD&T基础",
+    "title": "GD&T基础",
     "content": " ",
     "url": "/03_GD&T/01_introduction_to_GD&T.html",
     
@@ -118,184 +118,198 @@
     
     "relUrl": "/10_english_in_use/02_measurement.html"
   },"17": {
-    "doc": "Statistics",
+    "doc": "统计学",
     "title": "Statistic basics",
     "content": " ",
     "url": "/02_languages/02_statistics.html#statistic-basics",
     
     "relUrl": "/02_languages/02_statistics.html#statistic-basics"
   },"18": {
-    "doc": "Statistics",
+    "doc": "统计学",
     "title": "Summary",
     "content": "Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. We bring passion and dedication to your job and there’s no telling what you could accomplish. In this highly visible role, you will lead selection, implementation &amp; optimization of iPhone manufacturing processes for mechanical enclosure machining, surface treatment. Lead team to design outstanding process based on product drawing and cosmetic requirements; mapping out proper process flow and ERS which includes selecting processing equipment, designing corresponding fixtures, initiating DOEs to find out the best recipe. ",
     "url": "/02_languages/02_statistics.html#summary",
     
     "relUrl": "/02_languages/02_statistics.html#summary"
   },"19": {
-    "doc": "Statistics",
+    "doc": "统计学",
     "title": "Description",
     "content": "Apply your Mechanical Engineering experience and work multi-functionally with Product Design Engineering and Industrial Design to assess product features for manufacturability, and recommend capable production processes and equipment. With multiple material machining experience, have expertise in CNC process development, assess CNC machining process flow, review CNC fixture design DFM and drive improvement, apply proper datum to minimize tolerance stack-up, scope machining program to improve process capability and optimize c/t, develop advanced cutters with proper coating for some special use such like high shinny surface, fine texture surface, minimize burrs by cutter improvement. Lead the machine calibration criteria setup and implementation, figure out how to recover the machine accuracy by maintenance and or retrofit, down-select machine base on machine capability and process requirement, work with vendor to develop brand-new equipment from RFQ to machine validation, finally qualify machine and implementation to fulfill process requirement. Working with suppliers to define and refine mechanical tool and fixtures, which can secure the dimension and cosmetic requirement, establish process capability and readiness. Lead the c/t reduction in the NPI stage to hit the MP target. Review/define vendor’s in process control spec base on downstream process and 2D drawing requirement, define part tolerance and specifications by demonstrating process capability to Product Designers and Industrial Designers. Identify, research, develop, and qualify premier equipment manufacturers and suppliers to develop sophisticated equipment for special process use and fulfill supply chain requirement. Provide leadership at manufacturing sites during development and product production ramp. Coordination of activities and direction through clear communication between Asia and US-based teams, and vendors is a necessity. Work closely with Manufacture Design Engineers in the development of above said processes. Work with Global Supply Managers to assess facility, floor layout, provide engineering support to secure deliver material to downstream CM vendor on time and on cost. Work with Manufacture Quality Engineers to drive yield improvement through SPC, Pareto data review to take activities accordingly. ",
     "url": "/02_languages/02_statistics.html#description",
     
     "relUrl": "/02_languages/02_statistics.html#description"
   },"20": {
-    "doc": "Statistics",
+    "doc": "统计学",
     "title": "Minimum Qualifications",
     "content": ". | BS or equivalent experience or above in Mechanical / Industrial Engineering and/or relevant manufacturing work experience. | 5+ years relevant hands-on experience and technical knowledge in fixture design, CNC process and cutter design in consumer electronics industry. | Familiar with CAD/CAM/JMP software and GD&amp;T to make data driven decisions. | Good written and oral communication skills, proficient in both English and Mandarin. | . ",
     "url": "/02_languages/02_statistics.html#minimum-qualifications",
     
     "relUrl": "/02_languages/02_statistics.html#minimum-qualifications"
   },"21": {
-    "doc": "Statistics",
+    "doc": "统计学",
     "title": "Preferred Qualifications",
     "content": ". | Has experience in either Titanium or metal components manufacturing processes including MIM, additive manufacturing (e.g. LPBF, DMD). | Other process knowledge such as raw material, assembly, testing, and experiences in developing customized machine (non-standard machine) are preferred. | Experience in AIML and lean factory. | Familiar with FEA tools such as SEM, XRD, MTS, XPS, FTIR, RIB, TEM, etc. | Familiar with Phyton/C++/SQL software. | Familiar with CAE or simulation tools. | On-site build support; must be willing to work from OEM factories. | A great teammate who is self-motivated, results oriented and detailed oriented. | Ability and willingness to work independently and travel frequently in Asia. | . Apple is an equal opportunity employer that is committed to inclusion and diversity, and thus we treat all applicants fairly and equally. Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. ",
     "url": "/02_languages/02_statistics.html#preferred-qualifications",
     
     "relUrl": "/02_languages/02_statistics.html#preferred-qualifications"
   },"22": {
-    "doc": "Statistics",
-    "title": "Statistics",
+    "doc": "统计学",
+    "title": "统计学",
     "content": " ",
     "url": "/02_languages/02_statistics.html",
     
     "relUrl": "/02_languages/02_statistics.html"
   },"23": {
-    "doc": "English",
+    "doc": "英语",
     "title": "Engineering English",
     "content": " ",
     "url": "/02_languages/03_english.html#engineering-english",
     
     "relUrl": "/02_languages/03_english.html#engineering-english"
   },"24": {
-    "doc": "English",
+    "doc": "英语",
     "title": "Summary",
     "content": "Imagine what you could do here! At Apple, new insights have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there’s no telling what you could accomplish. We are strengthening the team, and we are seeking a dynamic Mechanical Quality Engineer. We feature a collaborative environment with creative, smart people and groundbreaking technologies. Join us and make a difference! In this highly visible role, you will have the chance to create a significant impact on Apple Products, and leave a footprint for years to come. We have an opportunity for an accomplished quality engineer to lead development, and ramp for a next generation Apple product. ",
     "url": "/02_languages/03_english.html#summary",
     
     "relUrl": "/02_languages/03_english.html#summary"
   },"25": {
-    "doc": "English",
+    "doc": "英语",
     "title": "Description",
     "content": "Our quality engineering team enables the mass creation of impossible products as a partner in the development of Apple’s renowned designs. Key Responsibilities Will Include . | You will partner with multi-functional teams to evaluate design and processes at the concept phase | Develop measurement technologies, control strategies, information systems, and manufacturing methods that achieve adventurous specifications at mass production scale | You will develop and implement groundbreaking quality inspection tools to evaluate cosmetic and dimensional part characteristics | Compile and evaluate data to determine appropriate limits and variables for process and part specifications | Lead activities to balance unparalleled quality with scalable yields - You will collaborate with internal and external groups to ensure that proper definition of quality expectations and that appropriate assurance techniques are used for the product | Coordinate all Quality Engineering functions for a program, serving as project manager to lead efforts at supplier locations | Establish audit procedures appropriate to program and supplier to ensure consistency to Apple quality standards | Evaluate and communicate yields of new and existing processes | Drive corrective actions multi-functionally with internal and external team members | . ",
     "url": "/02_languages/03_english.html#description",
     
     "relUrl": "/02_languages/03_english.html#description"
   },"26": {
-    "doc": "English",
+    "doc": "英语",
     "title": "Minimum Qualifications",
     "content": "BS or equivalent experience in Mechanical Engineering, Industrial Engineering, Manufacturing Engineering, Industrial Technology, or similar Experience in manufacturing and quality control Experience developing process quality plans, supplier quality audits, and driving corrective actions and failure analysis efforts . ",
     "url": "/02_languages/03_english.html#minimum-qualifications",
     
     "relUrl": "/02_languages/03_english.html#minimum-qualifications"
   },"27": {
-    "doc": "English",
+    "doc": "英语",
     "title": "Preferred Qualifications",
     "content": ". | Working knowledge of mechanical quality and reliability concepts, supplier management, and general manufacturing operations | Experience with the development and evaluation of measurement systems | Project management experience and a deep understanding of problem solving tools including design of experiments, root cause analysis and statistical analytical tools | Experience with any of the following: mechanical enclosures, castings, plastic parts, injection molding, tooling, jigs, fixtures, or automotive high volume quality manufacturing engineering | Exceptional ability to establish relationships; data-driven and willing to take action; enthusiastic and motivated; and detailed while managing several work streams. | Knowledge on Data Science, including Statistics, Machine Learning, Regression are preferred | . Apple is an equal opportunity employer that is committed to inclusion and diversity, and thus we treat all applicants fairly and equally. Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. ",
     "url": "/02_languages/03_english.html#preferred-qualifications",
     
     "relUrl": "/02_languages/03_english.html#preferred-qualifications"
   },"28": {
-    "doc": "English",
-    "title": "English",
+    "doc": "英语",
+    "title": "英语",
     "content": " ",
     "url": "/02_languages/03_english.html",
     
     "relUrl": "/02_languages/03_english.html"
   },"29": {
-    "doc": "About",
-    "title": "About",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
+    "doc": "关于我",
+    "title": "一名果链工程师",
+    "content": ". | 制造运营：从事过PE，EPM，GSM工作。 | 制造信息化：从事过企业信息化咨询工作。 | . ",
+    "url": "/about/#%E4%B8%80%E5%90%8D%E6%9E%9C%E9%93%BE%E5%B7%A5%E7%A8%8B%E5%B8%88",
+    
+    "relUrl": "/about/#一名果链工程师"
+  },"30": {
+    "doc": "关于我",
+    "title": "关于我",
+    "content": " ",
     "url": "/about/",
     
     "relUrl": "/about/"
-  },"30": {
-    "doc": "Home",
-    "title": "Apple Supply Chain Operations Knowledge Base",
-    "content": "This site documents practical knowledge, methods, and systems used in real-world engineering and product development environments. ",
-    "url": "/#apple-supply-chain-operations-knowledge-base",
-    
-    "relUrl": "/#apple-supply-chain-operations-knowledge-base"
   },"31": {
-    "doc": "Home",
-    "title": "Languages",
-    "content": "Three fundamental languages is used in Apple supply chain. GD&amp;T, Statistics, English. | GD&amp;T : Geometric Dimensioning &amp; Tolerancing,GD&amp;T is a symbolic language used to describe design intent on engineering drawings. | Statistics : Statistics is the language used to understand, measure, and control variation. While GD&amp;T defines what is acceptable geometrically, Statistics determines whether production can consistently achieve it. | English : English is the working language of international engineering environments.Clear technical English reduces ambiguity, improves efficiency, and strengthens collaboration across global teams. | . ",
-    "url": "/#languages",
+    "doc": "首页",
+    "title": "果链工程师手册",
+    "content": "记录如下一些内容： . | 果链的工程师需要的技能、学习资源、一些Case。 | 欢迎提问，欢迎Github | . ",
+    "url": "/#%E6%9E%9C%E9%93%BE%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%89%8B%E5%86%8C",
     
-    "relUrl": "/#languages"
+    "relUrl": "/#果链工程师手册"
   },"32": {
-    "doc": "Home",
-    "title": "Manufacturing Technology",
-    "content": "(How products are physically realized and assembled) . Understanding how things are made is essential to good design. This section focuses on production processes and practical manufacturing constraints. Includes: . | Welding | Bonding / Adhesives | Fastening systems | Machining &amp; forming | Surface treatment | . ",
-    "url": "/#manufacturing-technology",
+    "doc": "首页",
+    "title": "三种语言",
+    "content": "苹果供应链中使用三种基础语言：GD&amp;T、统计学、英语。 . | GD&amp;T：几何尺寸与公差（Geometric Dimensioning &amp; Tolerancing）。GD&amp;T 是一种用于在工程图纸上表达设计意图的符号语言。 | 统计学：统计学是理解、测量和控制变异的语言。GD&amp;T 定义了几何上“什么是可接受的”，而统计学则决定生产过程是否能够稳定且持续地达到这一标准。 | 英语：英语是国际工程环境中的工作语言。清晰、准确的技术英语可以减少歧义，提高效率，并增强全球团队之间的协作。 | . ",
+    "url": "/#%E4%B8%89%E7%A7%8D%E8%AF%AD%E8%A8%80",
     
-    "relUrl": "/#manufacturing-technology"
+    "relUrl": "/#三种语言"
   },"33": {
-    "doc": "Home",
-    "title": "Product Development System",
-    "content": "(How ideas move from concept to mass production) . Beyond technical skills, engineering success depends on structured development processes. Includes: . | Team roles (PM, ME, EE, SQE, DQE, etc.) | Design workflow | Development phases (EVT / DVT / PVT / MP) | Templates used in real projects (FMEA / Cost mdeol / Yield bridge. etc.) | . ",
-    "url": "/#product-development-system",
+    "doc": "首页",
+    "title": "产品开发体系",
+    "content": "(想法如何从概念走向量产) . 除了技术能力，工程成功同样依赖结构化的开发流程。 . 包括： . | 团队角色（PM、ME、EE、SQE、DQE 等） | 设计流程 | 开发阶段（EVT / DVT / PVT / MP） | 实际项目中使用的模板（FMEA / 成本模型 / 良率分析等） | . ",
+    "url": "/#%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91%E4%BD%93%E7%B3%BB",
     
-    "relUrl": "/#product-development-system"
+    "relUrl": "/#产品开发体系"
   },"34": {
-    "doc": "Home",
-    "title": "Engineering Tools &amp; Characterization",
-    "content": "(How we validate, measure, and analyze materials and products) . Engineering decisions rely on data and verification. Includes: . | SEM | XRD | MTS | XPS / FTIR | TEM | Reliability testing | Failure analysis methods | . ",
-    "url": "/#engineering-tools--characterization",
+    "doc": "首页",
+    "title": "制造技术",
+    "content": "(产品如何被实际制造与装配) . 理解产品如何被制造，是做好设计的前提。 本部分聚焦于生产工艺与实际制造约束。 . 包括： . | 焊接 | 粘接 / 胶黏技术 | 紧固系统 | 机加工与成形 | 表面处理 | . ",
+    "url": "/#%E5%88%B6%E9%80%A0%E6%8A%80%E6%9C%AF",
     
-    "relUrl": "/#engineering-tools--characterization"
+    "relUrl": "/#制造技术"
   },"35": {
-    "doc": "Home",
-    "title": "Company Operations",
-    "content": "(How companies and supply chains are structured and operated) . Engineering does not exist in isolation. Understanding operational logic improves decision-making and long-term growth. Includes: . | Organizational structure | Supply chain systems | Cost structure &amp; business logic | Vendor management | Decision-making frameworks | . This knowledge base is continuously expanded and refined through real project experience. ",
-    "url": "/#company-operations",
+    "doc": "首页",
+    "title": "工程工具与表征",
+    "content": "(我们如何验证、测量与分析材料和产品) . 工程决策依赖数据与验证。 . 包括： . | SEM（扫描电子显微镜） | XRD（X射线衍射） | MTS（材料测试系统） | XPS / FTIR | TEM（透射电子显微镜） | 可靠性测试 | 失效分析方法 | . ",
+    "url": "/#%E5%B7%A5%E7%A8%8B%E5%B7%A5%E5%85%B7%E4%B8%8E%E8%A1%A8%E5%BE%81",
     
-    "relUrl": "/#company-operations"
+    "relUrl": "/#工程工具与表征"
   },"36": {
-    "doc": "Home",
-    "title": "Home",
+    "doc": "首页",
+    "title": "公司运营",
+    "content": "(公司与供应链如何组织与运作) . 工程并非孤立存在。 理解运营逻辑有助于提升决策质量与长期成长。 . 包括： . | 组织结构 | 供应链系统 | 成本结构与商业逻辑 | 供应商管理 | 决策框架 | . ",
+    "url": "/#%E5%85%AC%E5%8F%B8%E8%BF%90%E8%90%A5",
+    
+    "relUrl": "/#公司运营"
+  },"37": {
+    "doc": "首页",
+    "title": "首页",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"37": {
-    "doc": "Manufacturing",
-    "title": "Manufacturing",
+  },"38": {
+    "doc": "制造技术",
+    "title": "制造技术",
     "content": "Manufacturing Technology . Material proproties . CNC . Adhesive Bonding . ",
     "url": "/06_manufacturing_technology/",
     
     "relUrl": "/06_manufacturing_technology/"
-  },"38": {
-    "doc": "SPC",
-    "title": "SPC",
+  },"39": {
+    "doc": "统计制程控制",
+    "title": "统计制程控制",
     "content": "Statistical Process control . ",
     "url": "/04_SPC/",
     
     "relUrl": "/04_SPC/"
-  },"39": {
+  },"40": {
     "doc": "GD&T",
     "title": "GD&T",
     "content": "Geometric and Dimensional Tolerance Here we introduce different functions and roles in CM . ",
     "url": "/03_GD&T/",
     
     "relUrl": "/03_GD&T/"
-  },"40": {
+  },"41": {
     "doc": "English In Use",
     "title": "English In Use",
     "content": "Hello Here is the daily english used in real working. ",
     "url": "/10_english_in_use/",
     
     "relUrl": "/10_english_in_use/"
-  },"41": {
-    "doc": "FA",
-    "title": "FA",
-    "content": "Failure Analysis Tools . SEM XRD MTS XPS FTIR RIB TEM . ",
+  },"42": {
+    "doc": "失效分析",
+    "title": "失效分析",
+    "content": "失效分析工具 . SEM XRD MTS XPS FTIR RIB TEM . ",
     "url": "/05_FA/",
     
     "relUrl": "/05_FA/"
-  },"42": {
-    "doc": "Languages",
-    "title": "Languages",
-    "content": "Three fundamental languages is used in Apple supply chain. GD&amp;T, Statistics, English. | GD&amp;T : Geometric Dimensioning &amp; Tolerancing,GD&amp;T is a symbolic language used to describe design intent on engineering drawings. | Statistics : Statistics is the language used to understand, measure, and control variation. While GD&amp;T defines what is acceptable geometrically, Statistics determines whether production can consistently achieve it. | English : English is the working language of international engineering environments.Clear technical English reduces ambiguity, improves efficiency, and strengthens collaboration across global teams. | . ",
+  },"43": {
+    "doc": "果链语言",
+    "title": "三种语言",
+    "content": "苹果供应链中使用三种基础语言：GD&amp;T、统计学、英语。 . | GD&amp;T：几何尺寸与公差（Geometric Dimensioning &amp; Tolerancing）。GD&amp;T 是一种用于在工程图纸上表达设计意图的符号语言。 . | 统计学：统计学是理解、测量和控制变异的语言。GD&amp;T 定义了几何上的“可接受标准”，而统计学则决定生产过程是否能够稳定且持续地达到这一标准。 . | 英语：英语是国际工程环境中的工作语言。清晰、准确的技术英语能够减少歧义，提高效率，并增强全球团队之间的协作。 . | . ",
+    "url": "/02_languages/#%E4%B8%89%E7%A7%8D%E8%AF%AD%E8%A8%80",
+    
+    "relUrl": "/02_languages/#三种语言"
+  },"44": {
+    "doc": "果链语言",
+    "title": "果链语言",
+    "content": " ",
     "url": "/02_languages/",
     
     "relUrl": "/02_languages/"
