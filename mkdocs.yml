@@ -1,11 +1,11 @@
-site_name: 果链工程师 (Guolian Engineer)
+site_name: 果链工程师
 site_url: https://www.guoliangongchengshi.com
 site_description: Apple Supply Chain Engineering Knowledge Base
 site_author: 果链工程师
 
-repo_name: guolianengineer/guolianengineer.github.io
-repo_url: https://github.com/guolianengineer/guolianengineer.github.io
-edit_uri: edit/main/docs/
+# repo_name: guolianengineer/guolianengineer.github.io
+# repo_url: https://github.com/guolianengineer/guolianengineer.github.io
+# edit_uri: edit/main/docs/
 
 # Copyright
 copyright: Copyright &copy; 2024 - 2026 果链工程师
