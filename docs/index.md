@@ -6,79 +6,79 @@ hide:
 
 <div class="hero">
   <h1>Guolian Engineer</h1>
-  <p>The Comprehensive Knowledge Base for Apple Supply Chain Engineering</p>
-  <p>From NPI to Mass Production, Blueprint to Process — The Ultimate Field Guide for Engineers.</p>
+  <p>Apple 供应链工程师的实战知识库</p>
+  <p>从 NPI 到量产，从图纸到工艺，打造工程师的终极红宝书。</p>
   
   <a href="03_Manufacturing/" class="md-button md-button--primary">
-    Explore Knowledge Base
+    浏览知识库
   </a>
   <a href="blog/" class="md-button">
-    Read Blog
+    阅读博客
   </a>
 </div>
 
 <div class="grid cards" markdown>
 
--   :material-book-open-page-variant: **Manufacturing Technology**
+-   :material-book-open-page-variant: **制造技术 (Manufacturing)**
     
     ---
     
-    A complete manufacturing process system based on Kalpakjian's classic textbook, covering eight major modules including materials, casting, forming, machining, micromanufacturing, joining, and surface treatment.
+    基于 Kalpakjian 经典教材的完整制造工艺体系，涵盖材料、铸造、成形、切削、微纳制造、连接、表面处理等八大模块。
     
-    [:octicons-arrow-right-24: Start Learning](03_Manufacturing/index.md)
+    [:octicons-arrow-right-24: 开始学习](03_Manufacturing/index.md)
 
--   :material-rocket-launch: **NPI Guide**
+-   :material-rocket-launch: **NPI 开发指南**
     
     ---
     
-    Practical guide for New Product Introduction (NPI), analyzing key milestones and deliverables from EVT, DVT, PVT to MP.
+    新产品导入 (New Product Introduction) 全流程实战指南，解析从 EVT、DVT、PVT 到 MP 的每一个关键节点与交付物。
     
-    [:octicons-arrow-right-24: View Guide](01_NPI_Guide/index.md)
+    [:octicons-arrow-right-24: 查看指南](01_NPI_Guide/index.md)
 
--   :material-ruler-square: **GD&T**
+-   :material-ruler-square: **图纸与公差 (GD&T)**
     
     ---
     
-    In-depth analysis of ASME Y14.5 standards, mastering the essence of Geometric Dimensioning and Tolerancing to communicate design intent precisely.
+    深入解析 ASME Y14.5 标准，掌握几何尺寸与公差的精髓，学会用工程语言精准沟通设计意图。
     
-    [:octicons-arrow-right-24: Learn GD&T](02_GD_T/index.md)
+    [:octicons-arrow-right-24: 学习 GD&T](02_GD_T/index.md)
 
--   :material-post: **Engineering Blog**
+-   :material-post: **工程博客 (Blog)**
     
     ---
     
-    Sharing the latest industry trends, engineering insights, Failure Analysis (FA) cases, and first-hand experience from the Apple supply chain.
+    分享最新的行业动态、工程心得、失效分析案例 (FA) 以及 Apple 供应链的一手经验。
     
-    [:octicons-arrow-right-24: Read Articles](blog/index.md)
+    [:octicons-arrow-right-24: 阅读文章](blog/index.md)
 
 </div>
 
-## :material-star: Featured Content
+## :material-star: 精选内容 (Featured Content)
 
 <div class="grid cards" markdown>
 
--   **Process Control**
+-   **制程控制 (Process Control)**
     
-    CPK, SPC, DOE... Master the core statistical tools for process control.
+    CPK, SPC, DOE... 掌握制程控制的核心统计学工具。
     
-    [Learn More](04_Process_Control/index.md)
+    [了解更多](04_Process_Control/index.md)
 
--   **Case Studies**
+-   **案例分析 (Case Studies)**
     
-    Real-world engineering case studies, learning from failures.
+    真实的工程案例分析，从失败中汲取教训。
     
-    [Read Cases](07_Case_Studies/index.md)
+    [阅读案例](07_Case_Studies/index.md)
 
--   **Engineering English**
+-   **工程英语 (Engineering English)**
     
-    Professional terminology, meeting communication, email writing — enhance your soft skills.
+    专业术语、会议沟通、邮件写作，提升职场软实力。
     
-    [Improve Skills](06_English/index.md)
+    [提升技能](06_English/index.md)
 
 </div>
 
 ---
 
 <p align="center">
-  <small>Created by <strong>Guolian Engineer</strong> with :material-heart: using <strong>MkDocs Material</strong></small>
+  <small>Created by <strong>果链工程师</strong> with :material-heart: using <strong>MkDocs Material</strong></small>
 </p>

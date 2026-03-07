@@ -1,56 +1,31 @@
+# Chapter 32: Brazing, Soldering, Adhesive-bonding, and Mechanical Fastening
+**第三十二章：钎焊、胶接与机械连接**
 
-# Joining Processes (Chapter 32)
-**连接工艺（第32章）**
+## 32.1 Introduction (引言)
 
-Brazing, Soldering, Adhesive-bonding, and Mechanical Fastening Processes.
-> 钎焊、软钎焊、胶接和机械紧固工艺。
+## 32.2 Brazing (硬钎焊)
+*   Filler metals (钎料)
+*   Fluxes (钎剂)
 
-## Cases (案例)
-*   **[Preventing Glue Overflow in Lens Bonding (防止镜片粘接溢胶)](./Cases/case_glue_overflow.md)**
+## 32.3 Soldering (软钎焊/锡焊)
+*   Lead-free solders (无铅焊料)
+*   Reflow soldering (回流焊)
+*   Wave soldering (波峰焊)
 
----
+## 32.4 Adhesive Bonding (胶接)
+*   Types of adhesives (胶黏剂类型): Epoxies, Cyanoacrylates, Anaerobics
+*   Surface preparation (表面处理)
 
-## 1. Adhesive Bonding (胶接)
+## 32.5 Mechanical Fastening (机械连接)
+*   Threaded fasteners (螺纹紧固件)
+*   Rivets (铆钉)
+*   Stitching and stapling (缝合与钉合)
+*   Seaming (卷边)
+*   Crimping (压接)
+*   Snap-in fasteners (卡扣)
 
-Using glue (adhesive) to join two surfaces.
-> 使用胶水（粘合剂）连接两个表面。
+## 32.6 Joining Plastics, Ceramics, and Glasses (塑料、陶瓷与玻璃的连接)
 
-### Common Adhesives (常用胶水)
-*   **PSA (Pressure Sensitive Adhesive)**: Double-sided tape. Easy to apply, reworkable.
-    *   压敏胶（双面胶）。易于使用，可返工。
-*   **Epoxy (环氧树脂)**: Strong structural bond, requires curing time.
-    *   强结构粘接，需要固化时间。
-*   **UV Glue (UV 胶)**: Cures instantly under UV light. Used for glass bonding.
-    *   在紫外光下瞬间固化。用于玻璃粘接。
+## 32.7 Economics of Joining Operations (连接工艺经济性)
 
-### Process Control (制程控制)
-*   **Surface Energy (表面能)**: Dyne pen test.
-    *   达因笔测试。
-*   **Plasma Treatment (等离子处理)**: Cleans and activates surface to improve adhesion.
-    *   清洁并活化表面以提高附着力。
-*   **Dispensing Path (点胶路径)**: Controlled by robot.
-    *   由机器人控制。
-
----
-
-## 2. Mechanical Fastening (机械紧固)
-
-### Key Concepts (关键概念)
-*   **Torque (扭矩)**: The rotational force applied to the screw.
-    *   施加在螺丝上的旋转力。
-*   **Preload (预紧力)**: The tension created in the screw that holds parts together.
-    *   螺丝中产生的将零件保持在一起的张力。
-*   **Threadlocker (螺纹锁固剂)**: Loctite. Prevents loosening due to vibration.
-    *   乐泰胶。防止因振动而松动。
-
-### Failure Modes (失效模式)
-*   **Stripping (滑牙)**: Internal threads are damaged.
-    *   内螺纹损坏。
-*   **Cam-out (滑头)**: Driver slips out of the screw head.
-    *   批头从螺丝头滑出。
-
----
-
-## 3. Brazing & Soldering (钎焊与软钎焊)
-*(Content to be added based on Chapter 32)*
-> *(待补充第32章内容)*
+## 32.8 Summary (小结)
