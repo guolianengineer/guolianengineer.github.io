@@ -61,45 +61,59 @@ nav:
   - 图纸与公差: 02_GD_T/index.md
   - 制造技术: 
       - 概览: 03_Manufacturing/index.md
-      - "Part I: Materials": 
+      - "Part I: Fundamentals of Materials: Behavior and Manufacturing Properties": 
           - 概览: 03_Manufacturing/Part_I_Materials/index.md
-          - "Ch. 1 Structure of Metals": 03_Manufacturing/Part_I_Materials/Chapter_01_Structure_of_Metals/index.md
-          - "Ch. 2 Mechanical Behavior": 03_Manufacturing/Part_I_Materials/Chapter_02_Mechanical_Behavior/index.md
-          - "Ch. 3 Physical Properties": 03_Manufacturing/Part_I_Materials/Chapter_03_Physical_Properties/index.md
-          - "Ch. 4 Metal Alloys": 03_Manufacturing/Part_I_Materials/Chapter_04_Metal_Alloys/index.md
-          - "Ch. 5 Ferrous Metals": 03_Manufacturing/Part_I_Materials/Chapter_05_Ferrous_Metals/index.md
-          - "Ch. 6 Nonferrous Metals": 03_Manufacturing/Part_I_Materials/Chapter_06_Nonferrous_Metals/index.md
-          - "Ch. 7 Polymers": 03_Manufacturing/Part_I_Materials/Chapter_07_Polymers/index.md
-          - "Ch. 8 Ceramics": 03_Manufacturing/Part_I_Materials/Chapter_08_Ceramics/index.md
-          - "Ch. 9 Composites": 03_Manufacturing/Part_I_Materials/Chapter_09_Composites/index.md
-      - "Part II: Casting":
+          - "Chapter 1: The Structure of Metals": 03_Manufacturing/Part_I_Materials/Chapter_01_Structure_of_Metals/index.md
+          - "Chapter 2: Mechanical Behavior, Testing, and Manufacturing Properties of Materials": 03_Manufacturing/Part_I_Materials/Chapter_02_Mechanical_Behavior/index.md
+          - "Chapter 3: Physical Properties of Materials": 03_Manufacturing/Part_I_Materials/Chapter_03_Physical_Properties/index.md
+          - "Chapter 4: Metal Alloys: Structure and Strengthening by Heat Treatment": 03_Manufacturing/Part_I_Materials/Chapter_04_Metal_Alloys/index.md
+          - "Chapter 5: Ferrous Metals and Alloys": 03_Manufacturing/Part_I_Materials/Chapter_05_Ferrous_Metals/index.md
+          - "Chapter 6: Nonferrous Metals and Alloys": 03_Manufacturing/Part_I_Materials/Chapter_06_Nonferrous_Metals/index.md
+          - "Chapter 7: Polymers: Structure, General Properties, and Applications": 03_Manufacturing/Part_I_Materials/Chapter_07_Polymers/index.md
+          - "Chapter 8: Ceramics, Glass, Graphite, Diamond, and Nanomaterials": 03_Manufacturing/Part_I_Materials/Chapter_08_Ceramics/index.md
+          - "Chapter 9: Composite Materials": 03_Manufacturing/Part_I_Materials/Chapter_09_Composites/index.md
+      - "Part II: Metal-casting Processes and Equipment":
           - 概览: 03_Manufacturing/Part_II_Casting/index.md
-          - "Ch. 10 Casting Fundamentals": 03_Manufacturing/Part_II_Casting/Chapter_10_Casting_Fundamentals/index.md
-          - "Ch. 11 Casting Processes": 03_Manufacturing/Part_II_Casting/Chapter_11_Casting_Processes/index.md
-          - "Ch. 12 Casting Design": 03_Manufacturing/Part_II_Casting/Chapter_12_Casting_Design/index.md
-      - "Part III: Forming":
+          - "Chapter 10: Fundamentals of Metal Casting": 03_Manufacturing/Part_II_Casting/Chapter_10_Casting_Fundamentals/index.md
+          - "Chapter 11: Metal-casting Processes and Equipment": 03_Manufacturing/Part_II_Casting/Chapter_11_Casting_Processes/index.md
+          - "Chapter 12: Metal Casting: Design, Materials, and Economics": 03_Manufacturing/Part_II_Casting/Chapter_12_Casting_Design/index.md
+      - "Part III: Forming and Shaping Processes and Equipment":
           - 概览: 03_Manufacturing/Part_III_Forming/index.md
-          - "Ch. 13 Rolling": 03_Manufacturing/Part_III_Forming/Chapter_13_Rolling/index.md
-          - "Ch. 14 Forging": 03_Manufacturing/Part_III_Forming/Chapter_14_Forging/index.md
-          - "Ch. 15 Extrusion Drawing": 03_Manufacturing/Part_III_Forming/Chapter_15_Extrusion_Drawing/index.md
-          - "Ch. 16 Sheet Metal": 03_Manufacturing/Part_III_Forming/Chapter_16_Sheet_Metal/index.md
-          - "Ch. 17 Powder Metallurgy": 03_Manufacturing/Part_III_Forming/Chapter_17_Powder_Metallurgy/index.md
-          - "Ch. 18 Ceramics Glass": 03_Manufacturing/Part_III_Forming/Chapter_18_Ceramics_Glass_Processing/index.md
-          - "Ch. 19 Plastics": 03_Manufacturing/Part_III_Forming/Chapter_19_Plastics_Processing/index.md
-          - "Ch. 20 Additive Mfg": 03_Manufacturing/Part_III_Forming/Chapter_20_Additive_Manufacturing/index.md
-      - "Part IV: Machining":
+          - "Chapter 13: Metal-rolling Processes and Equipment": 03_Manufacturing/Part_III_Forming/Chapter_13_Rolling/index.md
+          - "Chapter 14: Metal-forging Processes and Equipment": 03_Manufacturing/Part_III_Forming/Chapter_14_Forging/index.md
+          - "Chapter 15: Metal Extrusion and Drawing Processes and Equipment": 03_Manufacturing/Part_III_Forming/Chapter_15_Extrusion_Drawing/index.md
+          - "Chapter 16: Sheet-metal Forming Processes and Equipment": 03_Manufacturing/Part_III_Forming/Chapter_16_Sheet_Metal/index.md
+          - "Chapter 17: Powder-metal Processes and Equipment": 03_Manufacturing/Part_III_Forming/Chapter_17_Powder_Metallurgy/index.md
+          - "Chapter 18: Ceramics, Glasses, and Superconductors: Processing and Equipment": 03_Manufacturing/Part_III_Forming/Chapter_18_Ceramics_Glass_Processing/index.md
+          - "Chapter 19: Plastics and Composite Materials: Forming and Shaping": 03_Manufacturing/Part_III_Forming/Chapter_19_Plastics_Processing/index.md
+          - "Chapter 20: Additive Manufacturing": 03_Manufacturing/Part_III_Forming/Chapter_20_Additive_Manufacturing/index.md
+      - "Part IV: Machining Processes and Machine Tools":
           - 概览: 03_Manufacturing/Part_IV_Machining/index.md
-          - CNC Machining: 03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/index.md
-      - "Part V: Micromanufacturing":
+          - "Chapter 21: Fundamentals of Machining": 03_Manufacturing/Part_IV_Machining/Chapter_21_Fundamentals_Machining/index.md
+          - "Chapter 22: Cutting-tool Materials and Cutting Fluids": 03_Manufacturing/Part_IV_Machining/Chapter_22_Cutting_Tools/index.md
+          - "Chapter 23: Machining Processes: Turning and Hole Making": 03_Manufacturing/Part_IV_Machining/Chapter_23_Turning_Hole_Making/index.md
+          - "Chapter 24: Machining Processes: Milling, Broaching, Sawing, Filing": 03_Manufacturing/Part_IV_Machining/Chapter_24_Milling_Broaching/index.md
+          - "Chapter 25: Machining Centers, Machine-tool Structures, and Machining Economics": 03_Manufacturing/Part_IV_Machining/Chapter_25_Machining_Centers/index.md
+          - "Chapter 26: Abrasive Machining and Finishing Operations": 03_Manufacturing/Part_IV_Machining/Chapter_26_Abrasive_Machining/index.md
+          - "Chapter 27: Advanced Machining Processes": 03_Manufacturing/Part_IV_Machining/Chapter_27_Advanced_Machining/index.md
+          - "CNC Machining (数控加工)": 03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/index.md
+      - "Part V: Micromanufacturing and Fabrication of Microelectronic Devices":
           - 概览: 03_Manufacturing/Part_V_Micromanufacturing/index.md
-      - "Part VI: Joining":
+          - "Chapter 28: Fabrication of Microelectronic Devices": 03_Manufacturing/Part_V_Micromanufacturing/Chapter_28_Microelectronics/index.md
+          - "Chapter 29: Fabrication of Microelectromechanical Devices and Systems (MEMS)": 03_Manufacturing/Part_V_Micromanufacturing/Chapter_29_MEMS/index.md
+      - "Part VI: Joining Processes and Equipment":
           - 概览: 03_Manufacturing/Part_VI_Joining_Processes/index.md
-          - Joining Processes: 03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/index.md
-      - "Part VII: Surface Tech":
+          - "Chapter 30: Fusion Welding Processes": 03_Manufacturing/Part_VI_Joining_Processes/Chapter_30_Fusion_Welding/index.md
+          - "Chapter 31: Solid-State Welding Processes": 03_Manufacturing/Part_VI_Joining_Processes/Chapter_31_Solid_State_Welding/index.md
+          - "Chapter 32: Brazing, Soldering, Adhesive-bonding, and Mechanical Fastening": 03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/index.md
+      - "Part VII: Surface Technology":
           - 概览: 03_Manufacturing/Part_VII_Surface_Technology/index.md
-          - Surface Treatments: 03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/index.md
-      - "Part VIII: Quality":
+          - "Chapter 33: Surface Roughness and Measurement; Friction, Wear, and Lubrication": 03_Manufacturing/Part_VII_Surface_Technology/Chapter_33_Surface_Roughness/index.md
+          - "Chapter 34: Surface Treatments, Coatings, and Cleaning": 03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/index.md
+      - "Part VIII: Engineering Metrology, Instrumentation, and Quality Assurance":
           - 概览: 03_Manufacturing/Part_VIII_Quality_Assurance/index.md
+          - "Chapter 35: Engineering Metrology and Instrumentation": 03_Manufacturing/Part_VIII_Quality_Assurance/Chapter_35_Metrology/index.md
+          - "Chapter 36: Quality Assurance, Testing, and Inspection": 03_Manufacturing/Part_VIII_Quality_Assurance/Chapter_36_Quality_Assurance/index.md
   - 制程控制: 04_Process_Control/index.md
   - 失效分析: 05_FA/index.md
   - 工程英语: 06_English/index.md
