@@ -5,6 +5,7 @@ gem "jekyll", "~> 4.4"
 group :jekyll_plugins do
   gem "just-the-docs"
   gem "jekyll-feed"
+  gem "jekyll-polyglot"
 end
 
 # source "https://rubygems.org"

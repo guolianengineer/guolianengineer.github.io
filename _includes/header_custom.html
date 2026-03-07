@@ -1,0 +1,12 @@
+<div class="header-controls">
+  <div class="lang-switcher" style="margin-left: 20px; display: inline-block;">
+    {% assign current_lang = site.active_lang | default: site.default_lang %}
+    {% if current_lang == "cn" %}
+      <span style="font-weight: bold; color: #7253ed;">中文</span> | 
+      <a href="{{ site.url }}/en{{ page.url }}" style="color: inherit; text-decoration: none;">EN</a>
+    {% else %}
+      <a href="{{ site.url }}{{ page.url }}" style="color: inherit; text-decoration: none;">中文</a> | 
+      <span style="font-weight: bold; color: #7253ed;">EN</span>
+    {% endif %}
+  </div>
+</div>

@@ -1,8 +1,8 @@
 ---
-parent: 果链语言
+parent: 工程英语
 layout: default
-title: 统计学
-nav_order: 2
+title: Process Engineer JD
+nav_order: 3
 ---
 # Statistic basics
 

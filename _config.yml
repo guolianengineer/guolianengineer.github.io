@@ -14,6 +14,12 @@ logo                     : "/assets/images/site_logo.png"
 theme: just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-polyglot
+
+languages: ["cn", "en"]
+default_lang: "cn"
+exclude_from_localization: ["assets", "Gemfile", "Gemfile.lock", "node_modules"]
+parallel_localization: true
 
 # Enable or disable the site search
 # Supports true (default) or false

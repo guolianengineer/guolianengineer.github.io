@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Design
-parent: English In Use
+parent: 工程英语
 nav_order: 1
 ---
 
