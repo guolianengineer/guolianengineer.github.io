@@ -1,303 +1,1115 @@
 {"0": {
-    "doc": "GD&T",
-    "title": "Geometric Dimensioning &amp; Tolerancing",
-    "content": " ",
-    "url": "/02_languages/01_GD&T.html#geometric-dimensioning--tolerancing",
-    
-    "relUrl": "/02_languages/01_GD&T.html#geometric-dimensioning--tolerancing"
-  },"1": {
-    "doc": "GD&T",
-    "title": "Summary",
-    "content": " ",
-    "url": "/02_languages/01_GD&T.html#summary",
-    
-    "relUrl": "/02_languages/01_GD&T.html#summary"
-  },"2": {
-    "doc": "GD&T",
-    "title": "GD&T",
-    "content": " ",
-    "url": "/02_languages/01_GD&T.html",
-    
-    "relUrl": "/02_languages/01_GD&T.html"
-  },"3": {
     "doc": "Design",
     "title": "1. Drawings",
     "content": " ",
-    "url": "/10_english_in_use/01_design.html#1-drawings",
+    "url": "/06_English/01_design.html#1-drawings",
     
-    "relUrl": "/10_english_in_use/01_design.html#1-drawings"
-  },"4": {
+    "relUrl": "/06_English/01_design.html#1-drawings"
+  },"1": {
     "doc": "Design",
     "title": "A. Drawing types and scales",
     "content": "In engineering, most design information is shown on drawings. Today, drawings are generally not drawn by hand. They are produced on computer, using CAD (computer-aided design) systems. A key factor on a drawing is the scale - that is, the size of items on the drawing in relation to their real size. When all the items on a drawing are shown relative to their real size, the drawing is drawn to scale, and can be called a scale drawing. An example of a scale is 1:10 (one to ten). At 1:10, an object with a length of 100 mm in real life would measure 10 mm on the drawing. Most engineering designs consist of a set of drawings (a number of related drawings): . | General arrangement (GA) drawings GA drawings show whole devices or structures, using a small scale. This means objects on the drawing are small, relative to their real size (for example, a 1:100 drawing of an entire building). | Detail drawings Detail drawings show parts in detail, using a large scale, such as 1:5 or 1:2. Small parts are sometimes shown in a detail as actual size (1:1), or can be enlarged to bigger than actual size (for example, 2:1). | . For electrical circuits, and pipe and duct networks, it is helpful to show designs in a simplified form. In this case, schematic drawings (often referred to as schematics) are used. An everyday example is the map of a train network. Notes: When written, drawing is often abbreviated to dwg. CAD is pronounced as a word: /kaed/. ",
-    "url": "/10_english_in_use/01_design.html#a-drawing-types-and-scales",
+    "url": "/06_English/01_design.html#a-drawing-types-and-scales",
     
-    "relUrl": "/10_english_in_use/01_design.html#a-drawing-types-and-scales"
-  },"5": {
+    "relUrl": "/06_English/01_design.html#a-drawing-types-and-scales"
+  },"2": {
     "doc": "Design",
     "title": "B. Types of views used on drawings",
     "content": "Technicians are discussing different views shown on drawings (looking at components from above, from the side, etc.), as they search for the information they require. We use a view from above showing the general arrangement of all of the roof panels - a plan of the whole area. ",
-    "url": "/10_english_in_use/01_design.html#b-types-of-views-used-on-drawings",
+    "url": "/06_English/01_design.html#b-types-of-views-used-on-drawings",
     
-    "relUrl": "/10_english_in_use/01_design.html#b-types-of-views-used-on-drawings"
-  },"6": {
+    "relUrl": "/06_English/01_design.html#b-types-of-views-used-on-drawings"
+  },"3": {
     "doc": "Design",
     "title": "02 Initial design phase",
     "content": "A structural engineer from a firm of consulting engineers has sent an email to a more senior colleague, with an update on a project for a new airport terminal. ",
-    "url": "/10_english_in_use/01_design.html#02-initial-design-phase",
+    "url": "/06_English/01_design.html#02-initial-design-phase",
     
-    "relUrl": "/10_english_in_use/01_design.html#02-initial-design-phase"
-  },"7": {
+    "relUrl": "/06_English/01_design.html#02-initial-design-phase"
+  },"4": {
     "doc": "Design",
     "title": "Design",
     "content": "Hello Here is the daily english used in real working. ",
-    "url": "/10_english_in_use/01_design.html",
+    "url": "/06_English/01_design.html",
     
-    "relUrl": "/10_english_in_use/01_design.html"
-  },"8": {
+    "relUrl": "/06_English/01_design.html"
+  },"5": {
     "doc": "GD&T基础",
     "title": "1. GD&amp;T 基本概念",
     "content": " ",
-    "url": "/03_GD&T/01_introduction_to_GD&T.html#1-gdt-%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5",
+    "url": "/02_GD_T/01_introduction_to_GD&T.html#1-gdt-%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5",
     
-    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#1-gdt-基本概念"
-  },"9": {
+    "relUrl": "/02_GD_T/01_introduction_to_GD&T.html#1-gdt-基本概念"
+  },"6": {
     "doc": "GD&T基础",
     "title": "1.1 起源",
     "content": "对于许多制造行业从业者来说，几何尺寸与公差（GD&amp;T）仍然是一个相对较新的课题。二战期间，美国为战争需要在海外制造并运输大量备件。然而，许多零件虽然按照规格制造，却无法顺利装配。军方意识到，不合格零件给前线人员带来了严重问题。 . 战后，一个由政府、工业界和教育界代表组成的委员会投入了大量时间和精力来研究这一缺陷零件问题。他们需要找到一种方法，确保零件每次都能正确装配并正常工作。GD&amp;T 由此诞生。 . 最终，USASI Y14.5–1966（美国标准协会，后来的美国国家标准学会 ANSI）文件在早期标准和行业实践基础上正式发布。之后经历了多次修订： . | ANSI Y14.5–1973 | ANSI Y14.5M–1982 | ASME Y14.5M–1994 | ASME Y14.5–2009 | ASME Y14.5–2018 | . 2018 版是目前现行且权威的参考标准，规定了 GD&amp;T 的正确应用方式。如今，大多数政府承包商都被要求在图纸中使用 GD&amp;T 进行公差标注。由于公差要求越来越严格、量产周期缩短，以及更精确表达设计意图的需求增加，越来越多非军工企业也开始认识到在图纸中使用 GD&amp;T 的重要性。 . 传统公差方法自 19 世纪中期以来一直被使用。这些方法在尺寸标注方面表现良好，并至今仍被采用，但在控制尺寸特征的位置和方向方面能力有限。GD&amp;T 则广泛用于控制特征的尺寸、形状、形位、方向和位置。 . 与传统公差方法相比，GD&amp;T 具有多项优势。本章将展示其中三项显著优势。 . 本章的目的在于帮助读者理解： . | 什么是 GD&amp;T | 为什么要开发 GD&amp;T | 何时使用 GD&amp;T | GD&amp;T 相较传统公差方法的优势 | . 掌握这一知识后，技术人员将更全面理解公差概念。工程师也将更清楚零件如何装配，更有效地表达设计要求，并最终为公司创造更大的价值。 . ",
-    "url": "/03_GD&T/01_introduction_to_GD&T.html#11-%E8%B5%B7%E6%BA%90",
+    "url": "/02_GD_T/01_introduction_to_GD&T.html#11-%E8%B5%B7%E6%BA%90",
     
-    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#11-起源"
-  },"10": {
+    "relUrl": "/02_GD_T/01_introduction_to_GD&T.html#11-起源"
+  },"7": {
     "doc": "GD&T基础",
     "title": "1.1 本章学习目标",
     "content": "完成本章后，学习者将能够： . | 定义 GD&amp;T | 说明何时使用 GD&amp;T | 识别 GD&amp;T 相对于坐标公差的三项优势 | . ",
-    "url": "/03_GD&T/01_introduction_to_GD&T.html#11-%E6%9C%AC%E7%AB%A0%E5%AD%A6%E4%B9%A0%E7%9B%AE%E6%A0%87",
+    "url": "/02_GD_T/01_introduction_to_GD&T.html#11-%E6%9C%AC%E7%AB%A0%E5%AD%A6%E4%B9%A0%E7%9B%AE%E6%A0%87",
     
-    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#11-本章学习目标"
-  },"11": {
+    "relUrl": "/02_GD_T/01_introduction_to_GD&T.html#11-本章学习目标"
+  },"8": {
     "doc": "GD&T基础",
     "title": "1.2 什么是 GD&amp;T？",
     "content": "GD&amp;T 是一种符号语言，用于规定零件特征的尺寸、形状、形位、方向和位置。 . 采用 GD&amp;T 标注公差的特征能够真实反映配合零件之间的实际关系。正确应用几何公差的图纸，有助于实现统一理解和低成本装配。 . GD&amp;T 的创建目标包括： . | 确保配合零件正确装配 | 提高质量 | 降低成本 | . GD&amp;T 是一种设计工具。在正确应用几何公差之前，设计人员必须认真考虑每个零件每个特征的配合与功能。某种程度上，GD&amp;T 相当于一份“检查清单”，提醒设计者全面思考每个特征的各个方面。 . GD&amp;T 允许设计人员使用最大可用公差，从而设计出最经济的零件。正确应用 GD&amp;T 可以确保零件每次都能正确装配。 . GD&amp;T 还能清晰传达设计要求。它识别所有相关的基准特征（即参考表面），以及受这些基准控制的特征。一个标注合理的图纸不仅展示零件的形状和尺寸，还讲述了各特征之间的公差关系。 . ",
-    "url": "/03_GD&T/01_introduction_to_GD&T.html#12-%E4%BB%80%E4%B9%88%E6%98%AF-gdt",
+    "url": "/02_GD_T/01_introduction_to_GD&T.html#12-%E4%BB%80%E4%B9%88%E6%98%AF-gdt",
     
-    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#12-什么是-gdt"
-  },"12": {
+    "relUrl": "/02_GD_T/01_introduction_to_GD&T.html#12-什么是-gdt"
+  },"9": {
     "doc": "GD&T基础",
     "title": "1.3 何时应使用 GD&amp;T？",
     "content": "许多设计人员会问：什么时候应该使用 GD&amp;T？ . 由于 GD&amp;T 的主要目的之一是定位尺寸特征，最简单的回答是：所有尺寸特征都应使用 GD&amp;T 进行定位控制。 . 在以下情况下，设计人员应使用 GD&amp;T： . | 需要确保图纸表达和理解的一致性 | 特征对功能或互换性至关重要 | 需要避免误报废合格零件 | 需要减少图纸变更 | 使用自动化设备生产 | 需要功能量规检测 | 需要提高生产效率 | 企业希望实现整体成本节约 | . ",
-    "url": "/03_GD&T/01_introduction_to_GD&T.html#13-%E4%BD%95%E6%97%B6%E5%BA%94%E4%BD%BF%E7%94%A8-gdt",
+    "url": "/02_GD_T/01_introduction_to_GD&T.html#13-%E4%BD%95%E6%97%B6%E5%BA%94%E4%BD%BF%E7%94%A8-gdt",
     
-    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html#13-何时应使用-gdt"
-  },"13": {
+    "relUrl": "/02_GD_T/01_introduction_to_GD&T.html#13-何时应使用-gdt"
+  },"10": {
     "doc": "GD&T基础",
     "title": "GD&T基础",
     "content": " ",
-    "url": "/03_GD&T/01_introduction_to_GD&T.html",
+    "url": "/02_GD_T/01_introduction_to_GD&T.html",
     
-    "relUrl": "/03_GD&T/01_introduction_to_GD&T.html"
-  },"14": {
+    "relUrl": "/02_GD_T/01_introduction_to_GD&T.html"
+  },"11": {
     "doc": "Measurement",
     "title": "01 Drawing types and scales",
     "content": "In engineering, most design information is shown on drawings. Today, drawings are generally not drawn by hand. They are produced on computer, using CAD (computer-aided design) systems. ",
-    "url": "/10_english_in_use/02_measurement.html#01-drawing-types-and-scales",
+    "url": "/06_English/02_measurement.html#01-drawing-types-and-scales",
     
-    "relUrl": "/10_english_in_use/02_measurement.html#01-drawing-types-and-scales"
-  },"15": {
+    "relUrl": "/06_English/02_measurement.html#01-drawing-types-and-scales"
+  },"12": {
     "doc": "Measurement",
     "title": "02 Initial design phase",
     "content": "A structural engineer from a firm of consulting engineers has sent an email to a more senior colleague, with an update on a project for a new airport terminal. ",
-    "url": "/10_english_in_use/02_measurement.html#02-initial-design-phase",
+    "url": "/06_English/02_measurement.html#02-initial-design-phase",
     
-    "relUrl": "/10_english_in_use/02_measurement.html#02-initial-design-phase"
-  },"16": {
+    "relUrl": "/06_English/02_measurement.html#02-initial-design-phase"
+  },"13": {
     "doc": "Measurement",
     "title": "Measurement",
     "content": "Hello Here is the daily english used in real working. ",
-    "url": "/10_english_in_use/02_measurement.html",
+    "url": "/06_English/02_measurement.html",
     
-    "relUrl": "/10_english_in_use/02_measurement.html"
-  },"17": {
-    "doc": "统计学",
+    "relUrl": "/06_English/02_measurement.html"
+  },"14": {
+    "doc": "Process Engineer JD",
     "title": "Statistic basics",
     "content": " ",
-    "url": "/02_languages/02_statistics.html#statistic-basics",
+    "url": "/06_English/03_process_engineer_jd.html#statistic-basics",
     
-    "relUrl": "/02_languages/02_statistics.html#statistic-basics"
-  },"18": {
-    "doc": "统计学",
+    "relUrl": "/06_English/03_process_engineer_jd.html#statistic-basics"
+  },"15": {
+    "doc": "Process Engineer JD",
     "title": "Summary",
     "content": "Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. We bring passion and dedication to your job and there’s no telling what you could accomplish. In this highly visible role, you will lead selection, implementation &amp; optimization of iPhone manufacturing processes for mechanical enclosure machining, surface treatment. Lead team to design outstanding process based on product drawing and cosmetic requirements; mapping out proper process flow and ERS which includes selecting processing equipment, designing corresponding fixtures, initiating DOEs to find out the best recipe. ",
-    "url": "/02_languages/02_statistics.html#summary",
+    "url": "/06_English/03_process_engineer_jd.html#summary",
     
-    "relUrl": "/02_languages/02_statistics.html#summary"
-  },"19": {
-    "doc": "统计学",
+    "relUrl": "/06_English/03_process_engineer_jd.html#summary"
+  },"16": {
+    "doc": "Process Engineer JD",
     "title": "Description",
     "content": "Apply your Mechanical Engineering experience and work multi-functionally with Product Design Engineering and Industrial Design to assess product features for manufacturability, and recommend capable production processes and equipment. With multiple material machining experience, have expertise in CNC process development, assess CNC machining process flow, review CNC fixture design DFM and drive improvement, apply proper datum to minimize tolerance stack-up, scope machining program to improve process capability and optimize c/t, develop advanced cutters with proper coating for some special use such like high shinny surface, fine texture surface, minimize burrs by cutter improvement. Lead the machine calibration criteria setup and implementation, figure out how to recover the machine accuracy by maintenance and or retrofit, down-select machine base on machine capability and process requirement, work with vendor to develop brand-new equipment from RFQ to machine validation, finally qualify machine and implementation to fulfill process requirement. Working with suppliers to define and refine mechanical tool and fixtures, which can secure the dimension and cosmetic requirement, establish process capability and readiness. Lead the c/t reduction in the NPI stage to hit the MP target. Review/define vendor’s in process control spec base on downstream process and 2D drawing requirement, define part tolerance and specifications by demonstrating process capability to Product Designers and Industrial Designers. Identify, research, develop, and qualify premier equipment manufacturers and suppliers to develop sophisticated equipment for special process use and fulfill supply chain requirement. Provide leadership at manufacturing sites during development and product production ramp. Coordination of activities and direction through clear communication between Asia and US-based teams, and vendors is a necessity. Work closely with Manufacture Design Engineers in the development of above said processes. Work with Global Supply Managers to assess facility, floor layout, provide engineering support to secure deliver material to downstream CM vendor on time and on cost. Work with Manufacture Quality Engineers to drive yield improvement through SPC, Pareto data review to take activities accordingly. ",
-    "url": "/02_languages/02_statistics.html#description",
+    "url": "/06_English/03_process_engineer_jd.html#description",
     
-    "relUrl": "/02_languages/02_statistics.html#description"
-  },"20": {
-    "doc": "统计学",
+    "relUrl": "/06_English/03_process_engineer_jd.html#description"
+  },"17": {
+    "doc": "Process Engineer JD",
     "title": "Minimum Qualifications",
     "content": ". | BS or equivalent experience or above in Mechanical / Industrial Engineering and/or relevant manufacturing work experience. | 5+ years relevant hands-on experience and technical knowledge in fixture design, CNC process and cutter design in consumer electronics industry. | Familiar with CAD/CAM/JMP software and GD&amp;T to make data driven decisions. | Good written and oral communication skills, proficient in both English and Mandarin. | . ",
-    "url": "/02_languages/02_statistics.html#minimum-qualifications",
+    "url": "/06_English/03_process_engineer_jd.html#minimum-qualifications",
     
-    "relUrl": "/02_languages/02_statistics.html#minimum-qualifications"
-  },"21": {
-    "doc": "统计学",
+    "relUrl": "/06_English/03_process_engineer_jd.html#minimum-qualifications"
+  },"18": {
+    "doc": "Process Engineer JD",
     "title": "Preferred Qualifications",
     "content": ". | Has experience in either Titanium or metal components manufacturing processes including MIM, additive manufacturing (e.g. LPBF, DMD). | Other process knowledge such as raw material, assembly, testing, and experiences in developing customized machine (non-standard machine) are preferred. | Experience in AIML and lean factory. | Familiar with FEA tools such as SEM, XRD, MTS, XPS, FTIR, RIB, TEM, etc. | Familiar with Phyton/C++/SQL software. | Familiar with CAE or simulation tools. | On-site build support; must be willing to work from OEM factories. | A great teammate who is self-motivated, results oriented and detailed oriented. | Ability and willingness to work independently and travel frequently in Asia. | . Apple is an equal opportunity employer that is committed to inclusion and diversity, and thus we treat all applicants fairly and equally. Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. ",
-    "url": "/02_languages/02_statistics.html#preferred-qualifications",
+    "url": "/06_English/03_process_engineer_jd.html#preferred-qualifications",
     
-    "relUrl": "/02_languages/02_statistics.html#preferred-qualifications"
-  },"22": {
-    "doc": "统计学",
-    "title": "统计学",
+    "relUrl": "/06_English/03_process_engineer_jd.html#preferred-qualifications"
+  },"19": {
+    "doc": "Process Engineer JD",
+    "title": "Process Engineer JD",
     "content": " ",
-    "url": "/02_languages/02_statistics.html",
+    "url": "/06_English/03_process_engineer_jd.html",
     
-    "relUrl": "/02_languages/02_statistics.html"
-  },"23": {
-    "doc": "英语",
+    "relUrl": "/06_English/03_process_engineer_jd.html"
+  },"20": {
+    "doc": "Quality Engineer JD",
     "title": "Engineering English",
     "content": " ",
-    "url": "/02_languages/03_english.html#engineering-english",
+    "url": "/06_English/04_quality_engineer_jd.html#engineering-english",
     
-    "relUrl": "/02_languages/03_english.html#engineering-english"
-  },"24": {
-    "doc": "英语",
+    "relUrl": "/06_English/04_quality_engineer_jd.html#engineering-english"
+  },"21": {
+    "doc": "Quality Engineer JD",
     "title": "Summary",
     "content": "Imagine what you could do here! At Apple, new insights have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there’s no telling what you could accomplish. We are strengthening the team, and we are seeking a dynamic Mechanical Quality Engineer. We feature a collaborative environment with creative, smart people and groundbreaking technologies. Join us and make a difference! In this highly visible role, you will have the chance to create a significant impact on Apple Products, and leave a footprint for years to come. We have an opportunity for an accomplished quality engineer to lead development, and ramp for a next generation Apple product. ",
-    "url": "/02_languages/03_english.html#summary",
+    "url": "/06_English/04_quality_engineer_jd.html#summary",
     
-    "relUrl": "/02_languages/03_english.html#summary"
-  },"25": {
-    "doc": "英语",
+    "relUrl": "/06_English/04_quality_engineer_jd.html#summary"
+  },"22": {
+    "doc": "Quality Engineer JD",
     "title": "Description",
     "content": "Our quality engineering team enables the mass creation of impossible products as a partner in the development of Apple’s renowned designs. Key Responsibilities Will Include . | You will partner with multi-functional teams to evaluate design and processes at the concept phase | Develop measurement technologies, control strategies, information systems, and manufacturing methods that achieve adventurous specifications at mass production scale | You will develop and implement groundbreaking quality inspection tools to evaluate cosmetic and dimensional part characteristics | Compile and evaluate data to determine appropriate limits and variables for process and part specifications | Lead activities to balance unparalleled quality with scalable yields - You will collaborate with internal and external groups to ensure that proper definition of quality expectations and that appropriate assurance techniques are used for the product | Coordinate all Quality Engineering functions for a program, serving as project manager to lead efforts at supplier locations | Establish audit procedures appropriate to program and supplier to ensure consistency to Apple quality standards | Evaluate and communicate yields of new and existing processes | Drive corrective actions multi-functionally with internal and external team members | . ",
-    "url": "/02_languages/03_english.html#description",
+    "url": "/06_English/04_quality_engineer_jd.html#description",
     
-    "relUrl": "/02_languages/03_english.html#description"
-  },"26": {
-    "doc": "英语",
+    "relUrl": "/06_English/04_quality_engineer_jd.html#description"
+  },"23": {
+    "doc": "Quality Engineer JD",
     "title": "Minimum Qualifications",
     "content": "BS or equivalent experience in Mechanical Engineering, Industrial Engineering, Manufacturing Engineering, Industrial Technology, or similar Experience in manufacturing and quality control Experience developing process quality plans, supplier quality audits, and driving corrective actions and failure analysis efforts . ",
-    "url": "/02_languages/03_english.html#minimum-qualifications",
+    "url": "/06_English/04_quality_engineer_jd.html#minimum-qualifications",
     
-    "relUrl": "/02_languages/03_english.html#minimum-qualifications"
-  },"27": {
-    "doc": "英语",
+    "relUrl": "/06_English/04_quality_engineer_jd.html#minimum-qualifications"
+  },"24": {
+    "doc": "Quality Engineer JD",
     "title": "Preferred Qualifications",
     "content": ". | Working knowledge of mechanical quality and reliability concepts, supplier management, and general manufacturing operations | Experience with the development and evaluation of measurement systems | Project management experience and a deep understanding of problem solving tools including design of experiments, root cause analysis and statistical analytical tools | Experience with any of the following: mechanical enclosures, castings, plastic parts, injection molding, tooling, jigs, fixtures, or automotive high volume quality manufacturing engineering | Exceptional ability to establish relationships; data-driven and willing to take action; enthusiastic and motivated; and detailed while managing several work streams. | Knowledge on Data Science, including Statistics, Machine Learning, Regression are preferred | . Apple is an equal opportunity employer that is committed to inclusion and diversity, and thus we treat all applicants fairly and equally. Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. ",
-    "url": "/02_languages/03_english.html#preferred-qualifications",
+    "url": "/06_English/04_quality_engineer_jd.html#preferred-qualifications",
     
-    "relUrl": "/02_languages/03_english.html#preferred-qualifications"
-  },"28": {
-    "doc": "英语",
-    "title": "英语",
+    "relUrl": "/06_English/04_quality_engineer_jd.html#preferred-qualifications"
+  },"25": {
+    "doc": "Quality Engineer JD",
+    "title": "Quality Engineer JD",
     "content": " ",
-    "url": "/02_languages/03_english.html",
+    "url": "/06_English/04_quality_engineer_jd.html",
     
-    "relUrl": "/02_languages/03_english.html"
+    "relUrl": "/06_English/04_quality_engineer_jd.html"
+  },"26": {
+    "doc": "CNC Chatter Fix",
+    "title": "Case Study: Eliminating Chatter on Aluminum Enclosure",
+    "content": "案例：消除铝合金外壳的铣削颤纹 . ",
+    "url": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/Cases/case_chatter.html#case-study-eliminating-chatter-on-aluminum-enclosure",
+    
+    "relUrl": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/Cases/case_chatter.html#case-study-eliminating-chatter-on-aluminum-enclosure"
+  },"27": {
+    "doc": "CNC Chatter Fix",
+    "title": "Background (背景)",
+    "content": "During the CNC milling of a thin-walled aluminum enclosure, severe chatter marks were observed on the side walls. 在铝合金薄壁外壳的 CNC 铣削过程中，侧壁出现了严重的颤纹。 . ",
+    "url": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/Cases/case_chatter.html#background-%E8%83%8C%E6%99%AF",
+    
+    "relUrl": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/Cases/case_chatter.html#background-背景"
+  },"28": {
+    "doc": "CNC Chatter Fix",
+    "title": "Root Cause Analysis (根本原因分析)",
+    "content": ". | Tool Stick-out (刀具悬伸): The end mill stick-out was 45mm, too long for a 6mm diameter tool. | 铣刀悬伸长达 45mm，对于直径 6mm 的刀具来说太长了。 | . | Fixture Rigidity (治具刚性): The clamping force was insufficient in the center area. | 治具中心区域的夹紧力不足。 | . | . ",
+    "url": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/Cases/case_chatter.html#root-cause-analysis-%E6%A0%B9%E6%9C%AC%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90",
+    
+    "relUrl": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/Cases/case_chatter.html#root-cause-analysis-根本原因分析"
   },"29": {
+    "doc": "CNC Chatter Fix",
+    "title": "Solution (解决方案)",
+    "content": ". | Optimized Toolpath (优化刀路): Used a “trochoidal milling” strategy to reduce cutting forces. | 采用“摆线铣”策略以降低切削力。 | . | Fixture Improvement (治具改进): Added a support block in the center. | 在中心增加了支撑块。 | . | . ",
+    "url": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/Cases/case_chatter.html#solution-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88",
+    
+    "relUrl": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/Cases/case_chatter.html#solution-解决方案"
+  },"30": {
+    "doc": "CNC Chatter Fix",
+    "title": "Result (结果)",
+    "content": "Chatter marks eliminated. Surface finish improved from Ra 1.6 to Ra 0.4. 颤纹消除。表面粗糙度从 Ra 1.6 提升至 Ra 0.4。 . ",
+    "url": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/Cases/case_chatter.html#result-%E7%BB%93%E6%9E%9C",
+    
+    "relUrl": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/Cases/case_chatter.html#result-结果"
+  },"31": {
+    "doc": "CNC Chatter Fix",
+    "title": "CNC Chatter Fix",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/Cases/case_chatter.html",
+    
+    "relUrl": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/Cases/case_chatter.html"
+  },"32": {
+    "doc": "Anodizing Color Match",
+    "title": "Case Study: Anodizing Color Matching for Space Grey",
+    "content": "案例：深空灰阳极氧化色差管控 . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/Cases/case_color_match.html#case-study-anodizing-color-matching-for-space-grey",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/Cases/case_color_match.html#case-study-anodizing-color-matching-for-space-grey"
+  },"33": {
+    "doc": "Anodizing Color Match",
+    "title": "Problem (问题)",
+    "content": "High rejection rate (15%) due to color variation in “Space Grey” anodized parts. 由于“深空灰”阳极氧化零件的颜色变异，导致拒收率高达 15%。 . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/Cases/case_color_match.html#problem-%E9%97%AE%E9%A2%98",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/Cases/case_color_match.html#problem-问题"
+  },"34": {
+    "doc": "Anodizing Color Match",
+    "title": "Analysis (分析)",
+    "content": ". | Bath Parameter: Temperature fluctuation was +/- 2°C (Standard: +/- 1°C). | 槽液温度波动为 +/- 2°C（标准：+/- 1°C）。 | . | Dye Concentration: Manual replenishment caused inconsistency. | 人工补料导致染料浓度不一致。 | . | . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/Cases/case_color_match.html#analysis-%E5%88%86%E6%9E%90",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/Cases/case_color_match.html#analysis-分析"
+  },"35": {
+    "doc": "Anodizing Color Match",
+    "title": "Action (对策)",
+    "content": ". | Installed automated dosing system for dye. | 安装了染料自动添加系统。 | . | Upgraded chiller to control temperature within +/- 0.5°C. | 升级了冷水机，将温度控制在 +/- 0.5°C 以内。 | . | . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/Cases/case_color_match.html#action-%E5%AF%B9%E7%AD%96",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/Cases/case_color_match.html#action-对策"
+  },"36": {
+    "doc": "Anodizing Color Match",
+    "title": "Anodizing Color Match",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/Cases/case_color_match.html",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/Cases/case_color_match.html"
+  },"37": {
+    "doc": "Glue Overflow",
+    "title": "Case Study: Preventing Glue Overflow in Lens Bonding",
+    "content": "案例：防止镜片粘接溢胶 . ",
+    "url": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/Cases/case_glue_overflow.html#case-study-preventing-glue-overflow-in-lens-bonding",
+    
+    "relUrl": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/Cases/case_glue_overflow.html#case-study-preventing-glue-overflow-in-lens-bonding"
+  },"38": {
+    "doc": "Glue Overflow",
+    "title": "Issue (问题)",
+    "content": "Glue overflowed onto the visible surface of the camera lens during assembly. 组装过程中，胶水溢出到了相机镜片的可视表面。 . ",
+    "url": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/Cases/case_glue_overflow.html#issue-%E9%97%AE%E9%A2%98",
+    
+    "relUrl": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/Cases/case_glue_overflow.html#issue-问题"
+  },"39": {
+    "doc": "Glue Overflow",
+    "title": "Solution (解决方案)",
+    "content": ". | Design Change: Added a “glue trench” (overflow channel) to the housing design. | 设计变更：在外壳设计中增加了“溢胶槽”。 | . | Process Optimization: Reduced dispensing volume by 10% and increased robot speed. | 工艺优化：减少 10% 的点胶量并提高了机器人速度。 | . | . ",
+    "url": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/Cases/case_glue_overflow.html#solution-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88",
+    
+    "relUrl": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/Cases/case_glue_overflow.html#solution-解决方案"
+  },"40": {
+    "doc": "Glue Overflow",
+    "title": "Glue Overflow",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/Cases/case_glue_overflow.html",
+    
+    "relUrl": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/Cases/case_glue_overflow.html"
+  },"41": {
     "doc": "首页",
     "title": "果链工程师手册",
     "content": "记录如下一些内容： . | 果链的工程师需要的技能、学习资源、一些Case。 | 其他暂时还没想到的内容。 | . ",
     "url": "/#%E6%9E%9C%E9%93%BE%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%89%8B%E5%86%8C",
     
     "relUrl": "/#果链工程师手册"
-  },"30": {
+  },"42": {
     "doc": "首页",
     "title": "果链基本介绍",
     "content": ". | 果链是什么 | 苹果与果链企业如何合作 | 供应商如何运营（以果链龙头立讯为例，包括企业架构，职能角色等） | . ",
     "url": "/#%E6%9E%9C%E9%93%BE%E5%9F%BA%E6%9C%AC%E4%BB%8B%E7%BB%8D",
     
     "relUrl": "/#果链基本介绍"
-  },"31": {
+  },"43": {
     "doc": "首页",
     "title": "新产品开发流程",
     "content": "包括： . | 团队角色（PM、ME、EE、SQE、DQE 等） | 设计流程 | 开发阶段（EVT / DVT / PVT / MP） | 实际项目中使用的模板（FMEA / 成本模型 / 良率分析等） | . ",
     "url": "/#%E6%96%B0%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B",
     
     "relUrl": "/#新产品开发流程"
-  },"32": {
+  },"44": {
     "doc": "首页",
     "title": "三种语言",
     "content": "苹果供应链中使用三种基础语言：GD&amp;T、统计学、英语。 . | GD&amp;T：几何尺寸与公差（Geometric Dimensioning &amp; Tolerancing）。GD&amp;T 是一种用于在工程图纸上表达设计意图的符号语言。 | 统计学：统计学是理解、测量和控制变异的语言。GD&amp;T 定义了几何上“什么是可接受的”，而统计学则决定生产过程是否能够稳定且持续地达到这一标准。 | 英语：英语是国际工程环境中的工作语言。清晰、准确的技术英语可以减少歧义，提高效率，并增强全球团队之间的协作。 | . ",
     "url": "/#%E4%B8%89%E7%A7%8D%E8%AF%AD%E8%A8%80",
     
     "relUrl": "/#三种语言"
-  },"33": {
+  },"45": {
     "doc": "首页",
     "title": "制造技术",
     "content": "(产品如何被实际制造与装配) . 理解产品如何被制造，是做好设计的前提。 本部分聚焦于生产工艺与实际制造约束。 . 包括： . | 焊接 | 粘接 / 胶黏技术 | 紧固系统 | 机加工与成形 | 表面处理 | . ",
     "url": "/#%E5%88%B6%E9%80%A0%E6%8A%80%E6%9C%AF",
     
     "relUrl": "/#制造技术"
-  },"34": {
+  },"46": {
     "doc": "首页",
     "title": "工程分析工具",
     "content": "(我们如何验证、测量与分析材料和产品) . 工程决策依赖数据与验证。 . 包括： . | SEM（扫描电子显微镜） | XRD（X射线衍射） | MTS（材料测试系统） | XPS / FTIR | TEM（透射电子显微镜） | 可靠性测试 | 失效分析方法 | . ",
     "url": "/#%E5%B7%A5%E7%A8%8B%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7",
     
     "relUrl": "/#工程分析工具"
-  },"35": {
+  },"47": {
     "doc": "首页",
     "title": "首页",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"36": {
-    "doc": "制造技术",
-    "title": "制造技术",
-    "content": "Manufacturing Technology . Material proproties . CNC . Adhesive Bonding . ",
-    "url": "/06_manufacturing_technology/",
+  },"48": {
+    "doc": "Ch. 13 Rolling",
+    "title": "Chapter 13: Metal-rolling Processes and Equipment",
+    "content": "第十三章：金属轧制工艺与设备 . | Flat-rolling (平轧) | Shape-rolling (型材轧制) | Rolling Mills (轧机) | . ",
+    "url": "/03_Manufacturing/Part_III_Forming/Chapter_13_Rolling/#chapter-13-metal-rolling-processes-and-equipment",
     
-    "relUrl": "/06_manufacturing_technology/"
-  },"37": {
-    "doc": "GD&T",
-    "title": "GD&T",
-    "content": "Geometric and Dimensional Tolerance Here we introduce different functions and roles in CM . ",
-    "url": "/03_GD&T/",
-    
-    "relUrl": "/03_GD&T/"
-  },"38": {
-    "doc": "统计制程控制",
-    "title": "统计制程控制",
-    "content": "Statistical Process control . ",
-    "url": "/04_SPC/",
-    
-    "relUrl": "/04_SPC/"
-  },"39": {
-    "doc": "果链语言",
-    "title": "三种语言",
-    "content": "苹果供应链中使用三种基础语言：GD&amp;T、统计学、英语。 . | GD&amp;T：几何尺寸与公差（Geometric Dimensioning &amp; Tolerancing）。GD&amp;T 是一种用于在工程图纸上表达设计意图的符号语言。 . | 统计学：统计学是理解、测量和控制变异的语言。GD&amp;T 定义了几何上的“可接受标准”，而统计学则决定生产过程是否能够稳定且持续地达到这一标准。 . | 英语：英语是国际工程环境中的工作语言。清晰、准确的技术英语能够减少歧义，提高效率，并增强全球团队之间的协作。 . | . ",
-    "url": "/02_languages/#%E4%B8%89%E7%A7%8D%E8%AF%AD%E8%A8%80",
-    
-    "relUrl": "/02_languages/#三种语言"
-  },"40": {
-    "doc": "果链语言",
-    "title": "果链语言",
+    "relUrl": "/03_Manufacturing/Part_III_Forming/Chapter_13_Rolling/#chapter-13-metal-rolling-processes-and-equipment"
+  },"49": {
+    "doc": "Ch. 13 Rolling",
+    "title": "Ch. 13 Rolling",
     "content": " ",
-    "url": "/02_languages/",
+    "url": "/03_Manufacturing/Part_III_Forming/Chapter_13_Rolling/",
     
-    "relUrl": "/02_languages/"
-  },"41": {
-    "doc": "English In Use",
-    "title": "English In Use",
+    "relUrl": "/03_Manufacturing/Part_III_Forming/Chapter_13_Rolling/"
+  },"50": {
+    "doc": "Ch. 16 Sheet Metal",
+    "title": "Chapter 16: Sheet-metal Forming Processes and Equipment",
+    "content": "第十六章：板金成形工艺与设备 . | Shearing (剪切) | Bending (弯曲) | Deep Drawing (深拉深) | Stamping (冲压) | . ",
+    "url": "/03_Manufacturing/Part_III_Forming/Chapter_16_Sheet_Metal/#chapter-16-sheet-metal-forming-processes-and-equipment",
+    
+    "relUrl": "/03_Manufacturing/Part_III_Forming/Chapter_16_Sheet_Metal/#chapter-16-sheet-metal-forming-processes-and-equipment"
+  },"51": {
+    "doc": "Ch. 16 Sheet Metal",
+    "title": "Ch. 16 Sheet Metal",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_III_Forming/Chapter_16_Sheet_Metal/",
+    
+    "relUrl": "/03_Manufacturing/Part_III_Forming/Chapter_16_Sheet_Metal/"
+  },"52": {
+    "doc": "Ch. 15 Extrusion & Drawing",
+    "title": "Chapter 15: Metal Extrusion and Drawing Processes and Equipment",
+    "content": "第十五章：金属挤压与拉拔工艺与设备 . | Extrusion (挤压): Direct, Indirect | Drawing (拉拔): Wire drawing | . ",
+    "url": "/03_Manufacturing/Part_III_Forming/Chapter_15_Extrusion_Drawing/#chapter-15-metal-extrusion-and-drawing-processes-and-equipment",
+    
+    "relUrl": "/03_Manufacturing/Part_III_Forming/Chapter_15_Extrusion_Drawing/#chapter-15-metal-extrusion-and-drawing-processes-and-equipment"
+  },"53": {
+    "doc": "Ch. 15 Extrusion & Drawing",
+    "title": "Ch. 15 Extrusion & Drawing",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_III_Forming/Chapter_15_Extrusion_Drawing/",
+    
+    "relUrl": "/03_Manufacturing/Part_III_Forming/Chapter_15_Extrusion_Drawing/"
+  },"54": {
+    "doc": "Ch. 17 Powder Metallurgy",
+    "title": "Chapter 17: Powder-metal Processes and Equipment",
+    "content": "第十七章：粉末冶金工艺与设备 . | Powder Production (粉末制备) | Compaction (压制) | Sintering (烧结) | MIM (Metal Injection Molding, 金属注射成形) - Critical for Consumer Electronics | . ",
+    "url": "/03_Manufacturing/Part_III_Forming/Chapter_17_Powder_Metallurgy/#chapter-17-powder-metal-processes-and-equipment",
+    
+    "relUrl": "/03_Manufacturing/Part_III_Forming/Chapter_17_Powder_Metallurgy/#chapter-17-powder-metal-processes-and-equipment"
+  },"55": {
+    "doc": "Ch. 17 Powder Metallurgy",
+    "title": "Ch. 17 Powder Metallurgy",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_III_Forming/Chapter_17_Powder_Metallurgy/",
+    
+    "relUrl": "/03_Manufacturing/Part_III_Forming/Chapter_17_Powder_Metallurgy/"
+  },"56": {
+    "doc": "Ch. 20 Additive Mfg",
+    "title": "Chapter 20: Additive Manufacturing",
+    "content": "第二十章：增材制造 (3D打印) . | FDM (Fused Deposition Modeling, 熔融沉积) | SLA (Stereolithography,以此光固化) | SLS (Selective Laser Sintering, 选择性激光烧结) | SLM (Selective Laser Melting, 选择性激光熔化) | . ",
+    "url": "/03_Manufacturing/Part_III_Forming/Chapter_20_Additive_Manufacturing/#chapter-20-additive-manufacturing",
+    
+    "relUrl": "/03_Manufacturing/Part_III_Forming/Chapter_20_Additive_Manufacturing/#chapter-20-additive-manufacturing"
+  },"57": {
+    "doc": "Ch. 20 Additive Mfg",
+    "title": "Ch. 20 Additive Mfg",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_III_Forming/Chapter_20_Additive_Manufacturing/",
+    
+    "relUrl": "/03_Manufacturing/Part_III_Forming/Chapter_20_Additive_Manufacturing/"
+  },"58": {
+    "doc": "Ch. 18 Ceramics/Glass",
+    "title": "Chapter 18: Ceramics, Glasses, and Superconductors: Processing and Equipment",
+    "content": "第十八章：陶瓷、玻璃与超导体的加工与设备 . | Slip Casting (注浆成形) | Glass Blowing (玻璃吹制) | Float Glass (浮法玻璃) | . ",
+    "url": "/03_Manufacturing/Part_III_Forming/Chapter_18_Ceramics_Glass_Processing/#chapter-18-ceramics-glasses-and-superconductors-processing-and-equipment",
+    
+    "relUrl": "/03_Manufacturing/Part_III_Forming/Chapter_18_Ceramics_Glass_Processing/#chapter-18-ceramics-glasses-and-superconductors-processing-and-equipment"
+  },"59": {
+    "doc": "Ch. 18 Ceramics/Glass",
+    "title": "Ch. 18 Ceramics/Glass",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_III_Forming/Chapter_18_Ceramics_Glass_Processing/",
+    
+    "relUrl": "/03_Manufacturing/Part_III_Forming/Chapter_18_Ceramics_Glass_Processing/"
+  },"60": {
+    "doc": "Ch. 14 Forging",
+    "title": "Chapter 14: Metal-forging Processes and Equipment",
+    "content": "第十四章：金属锻造工艺与设备 . | Open-die Forging (自由锻) | Impression-die Forging (模锻) | Upsetting (镦粗) | . ",
+    "url": "/03_Manufacturing/Part_III_Forming/Chapter_14_Forging/#chapter-14-metal-forging-processes-and-equipment",
+    
+    "relUrl": "/03_Manufacturing/Part_III_Forming/Chapter_14_Forging/#chapter-14-metal-forging-processes-and-equipment"
+  },"61": {
+    "doc": "Ch. 14 Forging",
+    "title": "Ch. 14 Forging",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_III_Forming/Chapter_14_Forging/",
+    
+    "relUrl": "/03_Manufacturing/Part_III_Forming/Chapter_14_Forging/"
+  },"62": {
+    "doc": "Part III: Forming",
+    "title": "Part III: Forming and Shaping Processes and Equipment",
+    "content": "第三部分：成形与整形工艺与设备 . | Chapter 13: Metal-rolling (轧制) | Chapter 14: Metal-forging (锻造) | Chapter 15: Metal Extrusion and Drawing (挤压与拉拔) | Chapter 16: Sheet-metal Forming (板金成形) | Chapter 17: Powder Metal Processes (粉末冶金) | Chapter 18: Ceramics, Glasses, and Superconductors Processing (陶瓷玻璃加工) | Chapter 19: Plastics and Composite Materials Forming (塑料复材成形) | Chapter 20: Additive Manufacturing (增材制造/3D打印) | . ",
+    "url": "/03_Manufacturing/Part_III_Forming/#part-iii-forming-and-shaping-processes-and-equipment",
+    
+    "relUrl": "/03_Manufacturing/Part_III_Forming/#part-iii-forming-and-shaping-processes-and-equipment"
+  },"63": {
+    "doc": "Part III: Forming",
+    "title": "Part III: Forming",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_III_Forming/",
+    
+    "relUrl": "/03_Manufacturing/Part_III_Forming/"
+  },"64": {
+    "doc": "Part V: Micromanufacturing",
+    "title": "Part V: Micromanufacturing and Fabrication of Microelectronic Devices",
+    "content": "第五部分：微纳制造与微电子器件制造 . | Chapter 28: Fabrication of Microelectronic Devices (微电子器件制造 - 光刻/蚀刻) | Chapter 29: Fabrication of MEMS and Nanoscale Manufacturing (MEMS与纳米制造) | . ",
+    "url": "/03_Manufacturing/Part_V_Micromanufacturing/#part-v-micromanufacturing-and-fabrication-of-microelectronic-devices",
+    
+    "relUrl": "/03_Manufacturing/Part_V_Micromanufacturing/#part-v-micromanufacturing-and-fabrication-of-microelectronic-devices"
+  },"65": {
+    "doc": "Part V: Micromanufacturing",
+    "title": "Part V: Micromanufacturing",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_V_Micromanufacturing/",
+    
+    "relUrl": "/03_Manufacturing/Part_V_Micromanufacturing/"
+  },"66": {
+    "doc": "Joining Processes",
+    "title": "Joining Processes (Chapter 32)",
+    "content": "连接工艺（第32章） . Brazing, Soldering, Adhesive-bonding, and Mechanical Fastening Processes. 钎焊、软钎焊、胶接和机械紧固工艺。 . ",
+    "url": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/#joining-processes-chapter-32",
+    
+    "relUrl": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/#joining-processes-chapter-32"
+  },"67": {
+    "doc": "Joining Processes",
+    "title": "Cases (案例)",
+    "content": ". | Preventing Glue Overflow in Lens Bonding (防止镜片粘接溢胶) | . ",
+    "url": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/#cases-%E6%A1%88%E4%BE%8B",
+    
+    "relUrl": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/#cases-案例"
+  },"68": {
+    "doc": "Joining Processes",
+    "title": "1. Adhesive Bonding (胶接)",
+    "content": "Using glue (adhesive) to join two surfaces. 使用胶水（粘合剂）连接两个表面。 . Common Adhesives (常用胶水) . | PSA (Pressure Sensitive Adhesive): Double-sided tape. Easy to apply, reworkable. | 压敏胶（双面胶）。易于使用，可返工。 | . | Epoxy (环氧树脂): Strong structural bond, requires curing time. | 强结构粘接，需要固化时间。 | . | UV Glue (UV 胶): Cures instantly under UV light. Used for glass bonding. | 在紫外光下瞬间固化。用于玻璃粘接。 | . | . Process Control (制程控制) . | Surface Energy (表面能): Dyne pen test. | 达因笔测试。 | . | Plasma Treatment (等离子处理): Cleans and activates surface to improve adhesion. | 清洁并活化表面以提高附着力。 | . | Dispensing Path (点胶路径): Controlled by robot. | 由机器人控制。 | . | . ",
+    "url": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/#1-adhesive-bonding-%E8%83%B6%E6%8E%A5",
+    
+    "relUrl": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/#1-adhesive-bonding-胶接"
+  },"69": {
+    "doc": "Joining Processes",
+    "title": "2. Mechanical Fastening (机械紧固)",
+    "content": "Key Concepts (关键概念) . | Torque (扭矩): The rotational force applied to the screw. | 施加在螺丝上的旋转力。 | . | Preload (预紧力): The tension created in the screw that holds parts together. | 螺丝中产生的将零件保持在一起的张力。 | . | Threadlocker (螺纹锁固剂): Loctite. Prevents loosening due to vibration. | 乐泰胶。防止因振动而松动。 | . | . Failure Modes (失效模式) . | Stripping (滑牙): Internal threads are damaged. | 内螺纹损坏。 | . | Cam-out (滑头): Driver slips out of the screw head. | 批头从螺丝头滑出。 | . | . ",
+    "url": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/#2-mechanical-fastening-%E6%9C%BA%E6%A2%B0%E7%B4%A7%E5%9B%BA",
+    
+    "relUrl": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/#2-mechanical-fastening-机械紧固"
+  },"70": {
+    "doc": "Joining Processes",
+    "title": "3. Brazing &amp; Soldering (钎焊与软钎焊)",
+    "content": "(Content to be added based on Chapter 32) . (待补充第32章内容) . ",
+    "url": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/#3-brazing--soldering-%E9%92%8E%E7%84%8A%E4%B8%8E%E8%BD%AF%E9%92%8E%E7%84%8A",
+    
+    "relUrl": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/#3-brazing--soldering-钎焊与软钎焊"
+  },"71": {
+    "doc": "Joining Processes",
+    "title": "Joining Processes",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/",
+    
+    "relUrl": "/03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/"
+  },"72": {
+    "doc": "Part VI: Joining",
+    "title": "Part VI: Joining Processes and Equipment",
+    "content": "第六部分：连接工艺与设备 . | Chapter 30: Fusion Welding Processes (熔焊工艺) | Chapter 31: Solid-state Welding Processes (固相焊工艺) | Chapter 32: Brazing, Soldering, Adhesive-bonding, and Mechanical Fastening (钎焊、胶接与机械紧固) | . ",
+    "url": "/03_Manufacturing/Part_VI_Joining_Processes/#part-vi-joining-processes-and-equipment",
+    
+    "relUrl": "/03_Manufacturing/Part_VI_Joining_Processes/#part-vi-joining-processes-and-equipment"
+  },"73": {
+    "doc": "Part VI: Joining",
+    "title": "Sub-Sections",
+    "content": ". | Joining Processes (连接工艺) | . ",
+    "url": "/03_Manufacturing/Part_VI_Joining_Processes/#sub-sections",
+    
+    "relUrl": "/03_Manufacturing/Part_VI_Joining_Processes/#sub-sections"
+  },"74": {
+    "doc": "Part VI: Joining",
+    "title": "Part VI: Joining",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_VI_Joining_Processes/",
+    
+    "relUrl": "/03_Manufacturing/Part_VI_Joining_Processes/"
+  },"75": {
+    "doc": "Ch. 11 Casting Processes",
+    "title": "Chapter 11: Metal-casting Processes and Equipment",
+    "content": "第十一章：金属铸造工艺与设备 . | Sand Casting (砂型铸造) | Investment Casting (熔模铸造/失蜡法) | Die Casting (压铸): Hot chamber, Cold chamber | . ",
+    "url": "/03_Manufacturing/Part_II_Casting/Chapter_11_Casting_Processes/#chapter-11-metal-casting-processes-and-equipment",
+    
+    "relUrl": "/03_Manufacturing/Part_II_Casting/Chapter_11_Casting_Processes/#chapter-11-metal-casting-processes-and-equipment"
+  },"76": {
+    "doc": "Ch. 11 Casting Processes",
+    "title": "Ch. 11 Casting Processes",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_II_Casting/Chapter_11_Casting_Processes/",
+    
+    "relUrl": "/03_Manufacturing/Part_II_Casting/Chapter_11_Casting_Processes/"
+  },"77": {
+    "doc": "Ch. 12 Casting Design",
+    "title": "Chapter 12: Metal Casting: Design, Materials, and Economics",
+    "content": "第十二章：金属铸造：设计、材料与经济性 . | Design Considerations (设计考量): Draft angles (拔模角), Parting line (分型面) | Casting Alloys (铸造合金) | . ",
+    "url": "/03_Manufacturing/Part_II_Casting/Chapter_12_Casting_Design/#chapter-12-metal-casting-design-materials-and-economics",
+    
+    "relUrl": "/03_Manufacturing/Part_II_Casting/Chapter_12_Casting_Design/#chapter-12-metal-casting-design-materials-and-economics"
+  },"78": {
+    "doc": "Ch. 12 Casting Design",
+    "title": "Ch. 12 Casting Design",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_II_Casting/Chapter_12_Casting_Design/",
+    
+    "relUrl": "/03_Manufacturing/Part_II_Casting/Chapter_12_Casting_Design/"
+  },"79": {
+    "doc": "NPI 开发指南",
+    "title": "New Product Introduction (NPI) Guide",
+    "content": "新产品导入指南 . The NPI phase is a critical process for a product from concept to mass production. As process engineers, we have specific deliverables at each stage. NPI 阶段是产品从概念到量产的关键过程。作为工艺工程师，我们在每个阶段都有特定的交付物。 . ",
+    "url": "/01_NPI_Guide/#new-product-introduction-npi-guide",
+    
+    "relUrl": "/01_NPI_Guide/#new-product-introduction-npi-guide"
+  },"80": {
+    "doc": "NPI 开发指南",
+    "title": "Stage Overview (阶段概览)",
+    "content": "1. EVT (Engineering Validation Test) . 工程验证测试 . | Objective (目标): Verify design feasibility &amp; Identify major process risks. | 验证设计可行性 &amp; 识别主要工艺风险。 | . | Deliverables (交付物): DFM (Design for Manufacturing) Report. | DFM（可制造性设计）报告。 | . | . 2. DVT (Design Validation Test) . 设计验证测试 . | Objective: Verify design maturity &amp; Lock process parameters (DOE). | 验证设计成熟度 &amp; 锁定工艺参数（DOE）。 | . | Key Actions (关键动作): Verify molds/fixtures. | 模具/治具验证。 | . | . 3. PVT (Production Validation Test) . 生产验证测试 . | Objective: Verify mass production capability &amp; Yield Ramp. | 验证量产能力 &amp; 良率爬坡。 | . | Focus (重点): CT (Cycle Time) optimization. | 生产节拍（CT）优化。 | . | . 4. MP (Mass Production) . 量产 . | Focus: Continuous improvement &amp; Exception handling. | 持续改进 &amp; 异常处理。 | . | . ",
+    "url": "/01_NPI_Guide/#stage-overview-%E9%98%B6%E6%AE%B5%E6%A6%82%E8%A7%88",
+    
+    "relUrl": "/01_NPI_Guide/#stage-overview-阶段概览"
+  },"81": {
+    "doc": "NPI 开发指南",
+    "title": "NPI 开发指南",
+    "content": " ",
+    "url": "/01_NPI_Guide/",
+    
+    "relUrl": "/01_NPI_Guide/"
+  },"82": {
+    "doc": "Part II: Casting",
+    "title": "Part II: Metal-casting Processes and Equipment",
+    "content": "第二部分：金属铸造工艺与设备 . | Chapter 10: Fundamentals of Metal Casting (金属铸造基础) | Chapter 11: Metal-casting Processes and Equipment (铸造工艺与设备) | Chapter 12: Metal Casting: Design, Materials, and Economics (铸造设计与经济性) | . ",
+    "url": "/03_Manufacturing/Part_II_Casting/#part-ii-metal-casting-processes-and-equipment",
+    
+    "relUrl": "/03_Manufacturing/Part_II_Casting/#part-ii-metal-casting-processes-and-equipment"
+  },"83": {
+    "doc": "Part II: Casting",
+    "title": "Part II: Casting",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_II_Casting/",
+    
+    "relUrl": "/03_Manufacturing/Part_II_Casting/"
+  },"84": {
+    "doc": "Ch. 08 Ceramics",
+    "title": "Chapter 8: Ceramics, Glass, Graphite, Diamond, and Nanomaterials",
+    "content": "第八章：陶瓷、玻璃、石墨、金刚石与纳米材料 . | Alumina (氧化铝) | Zirconia (氧化锆) | Glass (玻璃) | . ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_08_Ceramics/#chapter-8-ceramics-glass-graphite-diamond-and-nanomaterials",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_08_Ceramics/#chapter-8-ceramics-glass-graphite-diamond-and-nanomaterials"
+  },"85": {
+    "doc": "Ch. 08 Ceramics",
+    "title": "Ch. 08 Ceramics",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_08_Ceramics/",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_08_Ceramics/"
+  },"86": {
+    "doc": "Ch. 04 Metal Alloys",
+    "title": "Chapter 4: Metal Alloys: Structure and Strengthening by Heat Treatment",
+    "content": "第四章：金属合金：结构与热处理强化 . | Phase Diagrams (相图) | Iron-Carbon System (铁碳相图) | Annealing (退火) | Hardening (淬火) | Tempering (回火) | . ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_04_Metal_Alloys/#chapter-4-metal-alloys-structure-and-strengthening-by-heat-treatment",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_04_Metal_Alloys/#chapter-4-metal-alloys-structure-and-strengthening-by-heat-treatment"
+  },"87": {
+    "doc": "Ch. 04 Metal Alloys",
+    "title": "Ch. 04 Metal Alloys",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_04_Metal_Alloys/",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_04_Metal_Alloys/"
+  },"88": {
+    "doc": "Ch. 01 Structure of Metals",
+    "title": "Chapter 1: The Structure of Metals",
+    "content": "第一章：金属的结构 . ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_01_Structure_of_Metals/#chapter-1-the-structure-of-metals",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_01_Structure_of_Metals/#chapter-1-the-structure-of-metals"
+  },"89": {
+    "doc": "Ch. 01 Structure of Metals",
+    "title": "1.1 Introduction",
+    "content": "(Content to be added) . ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_01_Structure_of_Metals/#11-introduction",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_01_Structure_of_Metals/#11-introduction"
+  },"90": {
+    "doc": "Ch. 01 Structure of Metals",
+    "title": "1.2 Types of Atomic Bonds",
+    "content": ". | Ionic bond (离子键) | Covalent bond (共价键) | Metallic bond (金属键) | . ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_01_Structure_of_Metals/#12-types-of-atomic-bonds",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_01_Structure_of_Metals/#12-types-of-atomic-bonds"
+  },"91": {
+    "doc": "Ch. 01 Structure of Metals",
+    "title": "1.3 Crystal Structure of Metals",
+    "content": ". | BCC (体心立方) | FCC (面心立方) | HCP (密排六方) | . ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_01_Structure_of_Metals/#13-crystal-structure-of-metals",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_01_Structure_of_Metals/#13-crystal-structure-of-metals"
+  },"92": {
+    "doc": "Ch. 01 Structure of Metals",
+    "title": "Ch. 01 Structure of Metals",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_01_Structure_of_Metals/",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_01_Structure_of_Metals/"
+  },"93": {
+    "doc": "Ch. 09 Composites",
+    "title": "Chapter 9: Composite Materials",
+    "content": "第九章：复合材料 . | Reinforced Plastics (增强塑料) | Carbon Fiber (碳纤维) | Fiberglass (玻璃纤维) | . ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_09_Composites/#chapter-9-composite-materials",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_09_Composites/#chapter-9-composite-materials"
+  },"94": {
+    "doc": "Ch. 09 Composites",
+    "title": "Ch. 09 Composites",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_09_Composites/",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_09_Composites/"
+  },"95": {
+    "doc": "Ch. 02 Mechanical Behavior",
+    "title": "Chapter 2: Mechanical Behavior, Testing, and Manufacturing Properties of Materials",
+    "content": "第二章：材料的机械行为、测试与制造性能 . ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_02_Mechanical_Behavior/#chapter-2-mechanical-behavior-testing-and-manufacturing-properties-of-materials",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_02_Mechanical_Behavior/#chapter-2-mechanical-behavior-testing-and-manufacturing-properties-of-materials"
+  },"96": {
+    "doc": "Ch. 02 Mechanical Behavior",
+    "title": "2.2 Tension (拉伸)",
+    "content": ". | Stress-Strain Curve (应力-应变曲线) | Yield Strength (屈服强度) | Ultimate Tensile Strength (抗拉强度) | Ductility (延展性) | . ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_02_Mechanical_Behavior/#22-tension-%E6%8B%89%E4%BC%B8",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_02_Mechanical_Behavior/#22-tension-拉伸"
+  },"97": {
+    "doc": "Ch. 02 Mechanical Behavior",
+    "title": "2.6 Hardness (硬度)",
+    "content": ". | Brinell (布氏) | Rockwell (洛氏) | Vickers (维氏) | . ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_02_Mechanical_Behavior/#26-hardness-%E7%A1%AC%E5%BA%A6",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_02_Mechanical_Behavior/#26-hardness-硬度"
+  },"98": {
+    "doc": "Ch. 02 Mechanical Behavior",
+    "title": "Ch. 02 Mechanical Behavior",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_02_Mechanical_Behavior/",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_02_Mechanical_Behavior/"
+  },"99": {
+    "doc": "Ch. 03 Physical Properties",
+    "title": "Chapter 3: Physical Properties of Materials",
+    "content": "第三章：材料的物理性能 . | Density (密度) | Melting Point (熔点) | Thermal Conductivity (热导率) | Thermal Expansion (热膨胀) | . ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_03_Physical_Properties/#chapter-3-physical-properties-of-materials",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_03_Physical_Properties/#chapter-3-physical-properties-of-materials"
+  },"100": {
+    "doc": "Ch. 03 Physical Properties",
+    "title": "Ch. 03 Physical Properties",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_03_Physical_Properties/",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_03_Physical_Properties/"
+  },"101": {
+    "doc": "Ch. 06 Nonferrous Metals",
+    "title": "Chapter 6: Nonferrous Metals and Alloys",
+    "content": "第六章：有色金属与合金 . | Aluminum (铝): 6061, 7075 | Titanium (钛): Ti-6Al-4V | Copper (铜) | Magnesium (镁) | . ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_06_Nonferrous_Metals/#chapter-6-nonferrous-metals-and-alloys",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_06_Nonferrous_Metals/#chapter-6-nonferrous-metals-and-alloys"
+  },"102": {
+    "doc": "Ch. 06 Nonferrous Metals",
+    "title": "Ch. 06 Nonferrous Metals",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_06_Nonferrous_Metals/",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_06_Nonferrous_Metals/"
+  },"103": {
+    "doc": "Ch. 05 Ferrous Metals",
+    "title": "Chapter 5: Ferrous Metals and Alloys",
+    "content": "第五章：黑色金属与合金 . | Carbon Steels (碳钢) | Alloy Steels (合金钢) | Stainless Steels (不锈钢): 304, 316, 17-4PH | Tool and Die Steels (工具钢与模具钢) | . ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_05_Ferrous_Metals/#chapter-5-ferrous-metals-and-alloys",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_05_Ferrous_Metals/#chapter-5-ferrous-metals-and-alloys"
+  },"104": {
+    "doc": "Ch. 05 Ferrous Metals",
+    "title": "Ch. 05 Ferrous Metals",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_05_Ferrous_Metals/",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_05_Ferrous_Metals/"
+  },"105": {
+    "doc": "Ch. 07 Polymers",
+    "title": "Chapter 7: Polymers: Structure, General Properties, and Applications",
+    "content": "第七章：聚合物：结构、性能与应用 . | Thermoplastics (热塑性塑料): PC, ABS, PP, PE | Thermosets (热固性塑料): Epoxy, Phenolic | Elastomers (弹性体/橡胶) | . ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_07_Polymers/#chapter-7-polymers-structure-general-properties-and-applications",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_07_Polymers/#chapter-7-polymers-structure-general-properties-and-applications"
+  },"106": {
+    "doc": "Ch. 07 Polymers",
+    "title": "Ch. 07 Polymers",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_I_Materials/Chapter_07_Polymers/",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/Chapter_07_Polymers/"
+  },"107": {
+    "doc": "Part I: Materials",
+    "title": "Part I: Fundamentals of Materials",
+    "content": "第一部分：材料基础：行为与制造性能 . | Chapter 1: The Structure of Metals (金属结构) | Chapter 2: Mechanical Behavior, Testing, and Manufacturing Properties (机械行为与测试) | Chapter 3: Physical Properties of Materials (物理性能) | Chapter 4: Metal Alloys: Structure and Strengthening (合金与热处理) | Chapter 5: Ferrous Metals and Alloys (黑色金属) | Chapter 6: Nonferrous Metals and Alloys (有色金属) | Chapter 7: Polymers (聚合物) | Chapter 8: Ceramics, Glass, Graphite, Diamond (陶瓷、玻璃、石墨、金刚石) | Chapter 9: Composite Materials (复合材料) | . ",
+    "url": "/03_Manufacturing/Part_I_Materials/#part-i-fundamentals-of-materials",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/#part-i-fundamentals-of-materials"
+  },"108": {
+    "doc": "Part I: Materials",
+    "title": "Part I: Materials",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_I_Materials/",
+    
+    "relUrl": "/03_Manufacturing/Part_I_Materials/"
+  },"109": {
+    "doc": "CNC Machining",
+    "title": "CNC Machining",
+    "content": "数控加工 . Computer Numerical Control (CNC) machining is a subtractive manufacturing process that typically uses computerized controls and machine tools to remove layers of material from a stock piece—known as the blank or workpiece—and produces a custom-designed part. 数控加工（CNC）是一种减材制造工艺，通常使用计算机控制和机床从毛坯（工件）上去除材料层，从而生产出定制设计的零件。 . ",
+    "url": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/",
+    
+    "relUrl": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/"
+  },"110": {
+    "doc": "CNC Machining",
+    "title": "Cases (案例)",
+    "content": ". | Eliminating Chatter on Aluminum Enclosure (消除铝合金外壳的铣削颤纹) | . ",
+    "url": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/#cases-%E6%A1%88%E4%BE%8B",
+    
+    "relUrl": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/#cases-案例"
+  },"111": {
+    "doc": "CNC Machining",
+    "title": "1. Working Principle (工作原理)",
+    "content": "The process starts with a 3D CAD model, which is converted into a series of computer instructions (G-code) that control the machine’s movement. 该过程从 3D CAD 模型开始，将其转换为一系列控制机床运动的计算机指令（G 代码）。 . Key Components (关键组件) . | Spindle (主轴): Holds and rotates the cutting tool. | 夹持并旋转刀具。 | . | Table (工作台): Holds the workpiece. | 固定工件。 | . | Axis (轴): Directions of movement (X, Y, Z, A, B, C). | 运动方向（X, Y, Z, A, B, C）。 | . | . ",
+    "url": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/#1-working-principle-%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86",
+    
+    "relUrl": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/#1-working-principle-工作原理"
+  },"112": {
+    "doc": "CNC Machining",
+    "title": "2. Equipment Types (设备类型)",
+    "content": "3-Axis CNC (三轴 CNC) . | Description: Moves in X, Y, and Z axes. Best for simple parts. | 描述：在 X、Y、Z 轴方向移动。最适合简单零件。 | . | Pros: Lower cost, simple programming. | 优点：成本低，编程简单。 | . | Cons: Multiple setups required for complex geometries. | 缺点：复杂几何形状需要多次装夹。 | . | . 5-Axis CNC (五轴 CNC) . | Description: Adds two rotary axes (A and B/C). Allows machining of complex shapes in a single setup. | 描述：增加了两个旋转轴（A 和 B/C）。允许在一次装夹中加工复杂形状。 | . | Application: Aerospace, medical implants, complex consumer electronics housings. | 应用：航空航天、医疗植入物、复杂的消费电子外壳。 | . | . Turn-Mill Center (车铣复合) . | Description: Combines turning (lathe) and milling capabilities. | 描述：结合了车削（车床）和铣削功能。 | . | Application: Cylindrical parts with milling features (e.g., shafts with slots). | 应用：带有铣削特征的圆柱形零件（例如带槽的轴）。 | . | . ",
+    "url": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/#2-equipment-types-%E8%AE%BE%E5%A4%87%E7%B1%BB%E5%9E%8B",
+    
+    "relUrl": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/#2-equipment-types-设备类型"
+  },"113": {
+    "doc": "CNC Machining",
+    "title": "3. Equipment Selection (设备选型)",
+    "content": "When selecting a CNC machine, consider the following parameters: . 选择 CNC 机床时，请考虑以下参数： . | Travel Range (行程范围): Does the workpiece fit within the machine’s working envelope? . | 工件是否在机床的工作范围内？ | . | Spindle Speed (主轴转速): High speed (20k+ RPM) for small tools/aluminum; Low speed, high torque for steel/titanium. | 高转速（20k+ RPM）适用于小刀具/铝合金；低速大扭矩适用于钢/钛合金。 | . | Accuracy &amp; Repeatability (精度与重复定位精度): Critical for tight tolerance parts (e.g., +/- 0.005mm). | 对于紧公差零件（如 +/- 0.005mm）至关重要。 | . | Tool Magazine Capacity (刀库容量): Number of tools required for the operation. | 加工所需的刀具数量。 | . | . ",
+    "url": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/#3-equipment-selection-%E8%AE%BE%E5%A4%87%E9%80%89%E5%9E%8B",
+    
+    "relUrl": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/#3-equipment-selection-设备选型"
+  },"114": {
+    "doc": "CNC Machining",
+    "title": "4. Key Process Parameters (关键工艺参数)",
+    "content": ". | Cutting Speed (Vc): The speed at which the cutting edge moves relative to the workpiece. | 切削速度：切削刃相对于工件移动的速度。 | . | Feed Rate (f): The distance the tool travels during one revolution of the spindle. | 进给率：主轴旋转一周刀具移动的距离。 | . | Depth of Cut (ap): The thickness of material removed in one pass. | 切削深度：一次走刀去除的材料厚度。 | . | . ",
+    "url": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/#4-key-process-parameters-%E5%85%B3%E9%94%AE%E5%B7%A5%E8%89%BA%E5%8F%82%E6%95%B0",
+    
+    "relUrl": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/#4-key-process-parameters-关键工艺参数"
+  },"115": {
+    "doc": "CNC Machining",
+    "title": "5. Common Defects &amp; Troubleshooting (常见缺陷与排查)",
+    "content": "| Defect (缺陷) | Possible Cause (可能原因) | Solution (解决方案) | . | Chatter (颤纹) | Tool overhang too long, unstable fixture | Shorten tool, improve fixture rigidity | . | Burrs (毛刺) | Dull tool, incorrect feeds/speeds | Change tool, optimize parameters | . | Dimensional Variation (尺寸变异) | Thermal expansion, tool wear | Warm-up machine, implement tool life management | . ",
+    "url": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/#5-common-defects--troubleshooting-%E5%B8%B8%E8%A7%81%E7%BC%BA%E9%99%B7%E4%B8%8E%E6%8E%92%E6%9F%A5",
+    
+    "relUrl": "/03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/#5-common-defects--troubleshooting-常见缺陷与排查"
+  },"116": {
+    "doc": "Part IV: Machining",
+    "title": "Part IV: Machining Processes and Machine Tools",
+    "content": "第四部分：切削加工工艺与机床 . | Chapter 21: Fundamentals of Machining (切削基础) | Chapter 22: Cutting-tool Materials and Cutting Fluids (刀具材料与切削液) | Chapter 23: Machining Processes: Turning and Hole Making (车削与孔加工) | Chapter 24: Machining Processes: Milling, Broaching, Sawing, Filing (铣削、拉削、锯削、锉削) | Chapter 25: Machining Centers, Machine-tool Structures (加工中心与机床结构) | Chapter 26: Abrasive Machining and Finishing (磨削与光整加工) | Chapter 27: Advanced Machining Processes (特种加工 - EDM/Laser) | . ",
+    "url": "/03_Manufacturing/Part_IV_Machining/#part-iv-machining-processes-and-machine-tools",
+    
+    "relUrl": "/03_Manufacturing/Part_IV_Machining/#part-iv-machining-processes-and-machine-tools"
+  },"117": {
+    "doc": "Part IV: Machining",
+    "title": "Sub-Sections",
+    "content": ". | CNC Machining (数控加工) | . ",
+    "url": "/03_Manufacturing/Part_IV_Machining/#sub-sections",
+    
+    "relUrl": "/03_Manufacturing/Part_IV_Machining/#sub-sections"
+  },"118": {
+    "doc": "Part IV: Machining",
+    "title": "Part IV: Machining",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_IV_Machining/",
+    
+    "relUrl": "/03_Manufacturing/Part_IV_Machining/"
+  },"119": {
+    "doc": "Part VIII: Quality",
+    "title": "Part VIII: Engineering Metrology, Instrumentation, and Quality Assurance",
+    "content": "第八部分：工程计量、仪器与质量保证 . | Chapter 35: Engineering Metrology and Instrumentation (工程计量与仪器) | Chapter 36: Quality Assurance, Testing, and Inspection (质量保证、测试与检验) | . ",
+    "url": "/03_Manufacturing/Part_VIII_Quality_Assurance/#part-viii-engineering-metrology-instrumentation-and-quality-assurance",
+    
+    "relUrl": "/03_Manufacturing/Part_VIII_Quality_Assurance/#part-viii-engineering-metrology-instrumentation-and-quality-assurance"
+  },"120": {
+    "doc": "Part VIII: Quality",
+    "title": "Part VIII: Quality",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_VIII_Quality_Assurance/",
+    
+    "relUrl": "/03_Manufacturing/Part_VIII_Quality_Assurance/"
+  },"121": {
+    "doc": "制造技术 (Manufacturing)",
+    "title": "Manufacturing Technology",
+    "content": "制造技术 . Structure based on Manufacturing Engineering and Technology (Kalpakjian &amp; Schmid). 本板块结构参考《制造工程与技术》（Kalpakjian &amp; Schmid）教材。 . ",
+    "url": "/03_Manufacturing/#manufacturing-technology",
+    
+    "relUrl": "/03_Manufacturing/#manufacturing-technology"
+  },"122": {
+    "doc": "制造技术 (Manufacturing)",
+    "title": "Part I: Fundamentals of Materials (材料基础)",
+    "content": ". | Chapter 1-9: Properties of Metals, Polymers, Ceramics, Composites. | 金属、聚合物、陶瓷、复合材料的性能。 | . | . ",
+    "url": "/03_Manufacturing/#part-i-fundamentals-of-materials-%E6%9D%90%E6%96%99%E5%9F%BA%E7%A1%80",
+    
+    "relUrl": "/03_Manufacturing/#part-i-fundamentals-of-materials-材料基础"
+  },"123": {
+    "doc": "制造技术 (Manufacturing)",
+    "title": "Part II: Metal-casting Processes (铸造工艺)",
+    "content": ". | Chapter 10-12: Sand casting, Die casting, Investment casting. | 砂型铸造、压铸、熔模铸造。 | . | . ",
+    "url": "/03_Manufacturing/#part-ii-metal-casting-processes-%E9%93%B8%E9%80%A0%E5%B7%A5%E8%89%BA",
+    
+    "relUrl": "/03_Manufacturing/#part-ii-metal-casting-processes-铸造工艺"
+  },"124": {
+    "doc": "制造技术 (Manufacturing)",
+    "title": "Part III: Forming and Shaping (成形工艺)",
+    "content": ". | Chapter 13-16: Rolling, Forging, Extrusion, Sheet-metal forming. | 轧制、锻造、挤压、板金成形。 | . | . ",
+    "url": "/03_Manufacturing/#part-iii-forming-and-shaping-%E6%88%90%E5%BD%A2%E5%B7%A5%E8%89%BA",
+    
+    "relUrl": "/03_Manufacturing/#part-iii-forming-and-shaping-成形工艺"
+  },"125": {
+    "doc": "制造技术 (Manufacturing)",
+    "title": "Part IV: Machining Processes (切削加工)",
+    "content": ". | Chapter 21-29: Machining (切削加工) . | Turning, Milling, Drilling, CNC. | 车削、铣削、钻削、数控加工。 | . | . ",
+    "url": "/03_Manufacturing/#part-iv-machining-processes-%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5",
+    
+    "relUrl": "/03_Manufacturing/#part-iv-machining-processes-切削加工"
+  },"126": {
+    "doc": "制造技术 (Manufacturing)",
+    "title": "Part V: Micromanufacturing (微纳制造)",
+    "content": ". | Chapter 28-29: Microelectronic devices, MEMS, Nanofabrication. | 微电子器件、MEMS、纳米制造。 | . | . ",
+    "url": "/03_Manufacturing/#part-v-micromanufacturing-%E5%BE%AE%E7%BA%B3%E5%88%B6%E9%80%A0",
+    
+    "relUrl": "/03_Manufacturing/#part-v-micromanufacturing-微纳制造"
+  },"127": {
+    "doc": "制造技术 (Manufacturing)",
+    "title": "Part VI: Joining Processes (连接工艺)",
+    "content": ". | Chapter 30-31: Fusion welding, Solid-state welding. | 熔焊、固相焊。 | . | Chapter 32: Brazing, Soldering, Adhesive-bonding (钎焊、胶接) . | Adhesive bonding, Mechanical fastening. | 胶接、机械紧固。 | . | . ",
+    "url": "/03_Manufacturing/#part-vi-joining-processes-%E8%BF%9E%E6%8E%A5%E5%B7%A5%E8%89%BA",
+    
+    "relUrl": "/03_Manufacturing/#part-vi-joining-processes-连接工艺"
+  },"128": {
+    "doc": "制造技术 (Manufacturing)",
+    "title": "Part VII: Surface Technology (表面技术)",
+    "content": ". | Chapter 33: Surface roughness, Tribology. | 表面粗糙度、摩擦学。 | . | Chapter 34: Surface Treatments (表面处理) . | Anodizing, PVD, Painting, Cleaning (Plasma). | 阳极氧化、PVD、喷涂、清洁（等离子）。 | . | . ",
+    "url": "/03_Manufacturing/#part-vii-surface-technology-%E8%A1%A8%E9%9D%A2%E6%8A%80%E6%9C%AF",
+    
+    "relUrl": "/03_Manufacturing/#part-vii-surface-technology-表面技术"
+  },"129": {
+    "doc": "制造技术 (Manufacturing)",
+    "title": "Part VIII: Metrology &amp; Quality Assurance (计量与质量保证)",
+    "content": ". | Chapter 35: Engineering Metrology (Dimensional measurement). | 工程计量（尺寸测量）。 | . | Chapter 36: Quality Assurance, Testing, Inspection (SPC). | 质量保证、测试、检验（SPC）。 | . | . ",
+    "url": "/03_Manufacturing/#part-viii-metrology--quality-assurance-%E8%AE%A1%E9%87%8F%E4%B8%8E%E8%B4%A8%E9%87%8F%E4%BF%9D%E8%AF%81",
+    
+    "relUrl": "/03_Manufacturing/#part-viii-metrology--quality-assurance-计量与质量保证"
+  },"130": {
+    "doc": "制造技术 (Manufacturing)",
+    "title": "制造技术 (Manufacturing)",
+    "content": " ",
+    "url": "/03_Manufacturing/",
+    
+    "relUrl": "/03_Manufacturing/"
+  },"131": {
+    "doc": "Ch. 10 Casting Fundamentals",
+    "title": "Chapter 10: Fundamentals of Metal Casting",
+    "content": "第十章：金属铸造基础 . | Solidification of Metals (金属凝固) | Fluid Flow (流体流动) | Heat Transfer (热传递) | Defects (缺陷): Porosity (气孔), Shrinkage (缩孔) | . ",
+    "url": "/03_Manufacturing/Part_II_Casting/Chapter_10_Casting_Fundamentals/#chapter-10-fundamentals-of-metal-casting",
+    
+    "relUrl": "/03_Manufacturing/Part_II_Casting/Chapter_10_Casting_Fundamentals/#chapter-10-fundamentals-of-metal-casting"
+  },"132": {
+    "doc": "Ch. 10 Casting Fundamentals",
+    "title": "Ch. 10 Casting Fundamentals",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_II_Casting/Chapter_10_Casting_Fundamentals/",
+    
+    "relUrl": "/03_Manufacturing/Part_II_Casting/Chapter_10_Casting_Fundamentals/"
+  },"133": {
+    "doc": "图纸与公差 (GD&T)",
+    "title": "图纸与公差 (GD&T)",
+    "content": "Geometric and Dimensional Tolerance Here we introduce different functions and roles in CM . ",
+    "url": "/02_GD_T/",
+    
+    "relUrl": "/02_GD_T/"
+  },"134": {
+    "doc": "案例分析",
+    "title": "Cross-Functional Case Studies",
+    "content": "综合案例分析 . This section contains complex cases that involve multiple domains (e.g., Design + Manufacturing + Quality) or general engineering challenges. For specific technology cases, please refer to the respective sections in Manufacturing Technology. 本节包含涉及多个领域（如设计+制造+质量）的复杂案例或通用工程挑战。对于特定技术的案例，请参阅制造技术中的相应部分。 . ",
+    "url": "/07_Case_Studies/#cross-functional-case-studies",
+    
+    "relUrl": "/07_Case_Studies/#cross-functional-case-studies"
+  },"135": {
+    "doc": "案例分析",
+    "title": "Index (索引)",
+    "content": "Yield Improvement (良率提升) . | (Pending: Add cases about yield ramp-up) . | (待添加：关于良率爬坡的案例) | . | . Failure Analysis (失效分析) . | (Pending: Add cases about complex failure modes) . | (待添加：关于复杂失效模式的案例) | . | . ",
+    "url": "/07_Case_Studies/#index-%E7%B4%A2%E5%BC%95",
+    
+    "relUrl": "/07_Case_Studies/#index-索引"
+  },"136": {
+    "doc": "案例分析",
+    "title": "案例分析",
+    "content": " ",
+    "url": "/07_Case_Studies/",
+    
+    "relUrl": "/07_Case_Studies/"
+  },"137": {
+    "doc": "工程英语 (English)",
+    "title": "工程英语 (English)",
     "content": "Hello Here is the daily english used in real working. ",
-    "url": "/10_english_in_use/",
+    "url": "/06_English/",
     
-    "relUrl": "/10_english_in_use/"
-  },"42": {
-    "doc": "失效分析",
-    "title": "失效分析",
+    "relUrl": "/06_English/"
+  },"138": {
+    "doc": "制程控制 (Process Control)",
+    "title": "Process Control",
+    "content": "控制生产过程的稳定性是量产的关键。 . | DOE (Design of Experiments)：参数优化 | SPC (Statistical Process Control)：过程监控 | GR&amp;R (Gage R&amp;R)：量测系统分析 | . ",
+    "url": "/04_Process_Control/#process-control",
+    
+    "relUrl": "/04_Process_Control/#process-control"
+  },"139": {
+    "doc": "制程控制 (Process Control)",
+    "title": "制程控制 (Process Control)",
+    "content": " ",
+    "url": "/04_Process_Control/",
+    
+    "relUrl": "/04_Process_Control/"
+  },"140": {
+    "doc": "失效分析 (FA)",
+    "title": "失效分析 (FA)",
     "content": "失效分析工具 . SEM XRD MTS XPS FTIR RIB TEM . ",
     "url": "/05_FA/",
     
     "relUrl": "/05_FA/"
+  },"141": {
+    "doc": "Plasma Treatment",
+    "title": "Plasma Treatment",
+    "content": "等离子处理 . A surface modification technique that uses ionized gas (plasma) to clean, activate, or coat surfaces. 一种使用电离气体（等离子体）来清洁、活化或涂覆表面的表面改性技术。 . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/01_Plasma/",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/01_Plasma/"
+  },"142": {
+    "doc": "Plasma Treatment",
+    "title": "1. Types (类型)",
+    "content": ". | Atmospheric Plasma (常压等离子): Uses a nozzle to spray plasma jet. Suitable for inline processing of specific areas. | 使用喷嘴喷射等离子流。适用于特定区域的在线处理。 | . | Vacuum Plasma (真空等离子): Parts are placed in a vacuum chamber. Suitable for batch processing of complex 3D shapes. | 零件放置在真空腔体中。适用于复杂 3D 形状的批量处理。 | . | . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/01_Plasma/#1-types-%E7%B1%BB%E5%9E%8B",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/01_Plasma/#1-types-类型"
+  },"143": {
+    "doc": "Plasma Treatment",
+    "title": "2. Mechanism (机理)",
+    "content": ". | Cleaning (清洁): Removes organic contaminants (oils, release agents) at the molecular level. | 在分子水平上去除有机污染物（油污、脱模剂）。 | . | Activation (活化): Increases surface energy (dyne level) by introducing polar groups (e.g., -OH, -COOH). | 通过引入极性基团（如 -OH, -COOH）提高表面能（达因值）。 | . | . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/01_Plasma/#2-mechanism-%E6%9C%BA%E7%90%86",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/01_Plasma/#2-mechanism-机理"
+  },"144": {
+    "doc": "Plasma Treatment",
+    "title": "3. Applications (应用)",
+    "content": ". | Pre-bonding (粘接前处理): Essential for bonding low-surface-energy plastics like PP, PE. | 对于粘接 PP、PE 等低表面能塑料至关重要。 | . | Pre-printing (印刷前处理): Ensures ink adhesion on glass or metal. | 确保油墨在玻璃或金属上的附着力。 | . | . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/01_Plasma/#3-applications-%E5%BA%94%E7%94%A8",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/01_Plasma/#3-applications-应用"
+  },"145": {
+    "doc": "Plasma Treatment",
+    "title": "4. Validation (验证)",
+    "content": ". | Dyne Pen Test (达因笔测试): Quick check. The ink should spread evenly without beading up. Standard: &gt; 38 dyne/cm. | 快速检查。墨水应均匀铺展而不聚珠。标准：&gt; 38 dyne/cm。 | . | Water Contact Angle (水滴角测试): Lab measurement. Lower angle = Higher surface energy. | 实验室测量。角度越小 = 表面能越高。 | . | . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/01_Plasma/#4-validation-%E9%AA%8C%E8%AF%81",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/01_Plasma/#4-validation-验证"
+  },"146": {
+    "doc": "Plasma Treatment",
+    "title": "5. Critical Considerations (关键考量)",
+    "content": ". | Aging Effect (时效效应): The activation effect decays over time. Bonding should be done within a specific time window (e.g., 24 hours). | 活化效果随时间衰减。粘接应在特定时间窗口内完成（例如 24 小时）。 | . | . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/01_Plasma/#5-critical-considerations-%E5%85%B3%E9%94%AE%E8%80%83%E9%87%8F",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/01_Plasma/#5-critical-considerations-关键考量"
+  },"147": {
+    "doc": "Surface Treatments",
+    "title": "Surface Treatments (Chapter 34)",
+    "content": "表面处理（第34章） . Surface treatment is a process applied to the surface of a material to make it better in some way, for example by making it more resistant to corrosion or wear, or improving its appearance. 表面处理是应用于材料表面的工艺，旨在以某种方式改善其性能，例如提高耐腐蚀性或耐磨性，或改善其外观。 . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/#surface-treatments-chapter-34",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/#surface-treatments-chapter-34"
+  },"148": {
+    "doc": "Surface Treatments",
+    "title": "Sub-Technologies (子技术)",
+    "content": ". | Plasma Treatment (等离子处理) . | Surface activation and cleaning for better adhesion. | 表面活化与清洁，以增强附着力。 | . | . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/#sub-technologies-%E5%AD%90%E6%8A%80%E6%9C%AF",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/#sub-technologies-子技术"
+  },"149": {
+    "doc": "Surface Treatments",
+    "title": "Cases (案例)",
+    "content": ". | Anodizing Color Matching for Space Grey (深空灰阳极氧化色差管控) | . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/#cases-%E6%A1%88%E4%BE%8B",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/#cases-案例"
+  },"150": {
+    "doc": "Surface Treatments",
+    "title": "1. Anodizing (阳极氧化)",
+    "content": "An electrochemical process that converts the metal surface into a decorative, durable, corrosion-resistant, anodic oxide finish. Commonly used for Aluminum. 一种电化学过程，将金属表面转化为装饰性、耐用、耐腐蚀的阳极氧化膜。通常用于铝合金。 . Types (类型) . | Type II (Decorative): Thinner layer, easy to dye colors. | II 型（装饰性）：膜层较薄，易于染色。 | . | Type III (Hard): Thicker, harder layer, excellent wear resistance. | III 型（硬质）：膜层较厚、较硬，耐磨性极佳。 | . | . Key Parameters (关键参数) . | Bath Temperature (槽液温度) | Current Density (电流密度) | Time (时间) | . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/#1-anodizing-%E9%98%B3%E6%9E%81%E6%B0%A7%E5%8C%96",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/#1-anodizing-阳极氧化"
+  },"151": {
+    "doc": "Surface Treatments",
+    "title": "2. PVD (Physical Vapor Deposition)",
+    "content": "物理气相沉积 . A vacuum coating process that produces a brilliant decorative and functional finish. 一种真空镀膜工艺，可产生光亮、装饰性和功能性的涂层。 . | Applications (应用): Smartphone frames, watch cases, cutting tools. | 智能手机边框、手表外壳、切削刀具。 | . | Advantages (优点): High hardness, scratch resistance, metallic colors. | 高硬度、耐刮擦、金属质感颜色。 | . | . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/#2-pvd-physical-vapor-deposition",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/#2-pvd-physical-vapor-deposition"
+  },"152": {
+    "doc": "Surface Treatments",
+    "title": "3. Sandblasting (喷砂)",
+    "content": "The operation of forcibly propelling a stream of abrasive material against a surface under high pressure to smooth a rough surface or roughen a smooth surface. 在高压下强制推动磨料流撞击表面，以平滑粗糙表面或粗化光滑表面的操作。 . | Media (磨料): Glass beads, ceramic beads, aluminum oxide. | 玻璃珠、陶瓷珠、氧化铝。 | . | Effect (效果): Matte finish, hides machining marks. | 哑光效果，遮盖加工刀纹。 | . | . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/#3-sandblasting-%E5%96%B7%E7%A0%82",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/#3-sandblasting-喷砂"
+  },"153": {
+    "doc": "Surface Treatments",
+    "title": "4. Painting &amp; Coating (喷涂)",
+    "content": ". | Liquid Painting (液体喷涂): PU, UV paints. High gloss or soft-touch effects. | PU漆、UV漆。高光或触感效果。 | . | Powder Coating (粉末喷涂): Dry powder applied electrostatically and cured under heat. Thicker and more durable. | 静电喷涂干粉并在热作用下固化。更厚、更耐用。 | . | . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/#4-painting--coating-%E5%96%B7%E6%B6%82",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/#4-painting--coating-喷涂"
+  },"154": {
+    "doc": "Surface Treatments",
+    "title": "Surface Treatments",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/"
+  },"155": {
+    "doc": "Part VII: Surface Technology",
+    "title": "Part VII: Surface Technology",
+    "content": "第七部分：表面技术 . | Chapter 33: Surface Roughness and Measurement; Friction, Wear, and Lubrication (表面粗糙度、摩擦与磨损) | Chapter 34: Surface Treatments, Coatings, and Cleaning (表面处理、涂层与清洁) | . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/"
+  },"156": {
+    "doc": "Part VII: Surface Technology",
+    "title": "Sub-Sections",
+    "content": ". | Surface Treatments (表面处理) | . ",
+    "url": "/03_Manufacturing/Part_VII_Surface_Technology/#sub-sections",
+    
+    "relUrl": "/03_Manufacturing/Part_VII_Surface_Technology/#sub-sections"
+  },"157": {
+    "doc": "Ch. 19 Plastics Forming",
+    "title": "Chapter 19: Plastics and Composite Materials: Forming and Shaping",
+    "content": "第十九章：塑料与复合材料：成形与整形 . | Injection Molding (注塑) | Extrusion (挤出) | Blow Molding (吹塑) | Thermoforming (热成形) | . ",
+    "url": "/03_Manufacturing/Part_III_Forming/Chapter_19_Plastics_Processing/#chapter-19-plastics-and-composite-materials-forming-and-shaping",
+    
+    "relUrl": "/03_Manufacturing/Part_III_Forming/Chapter_19_Plastics_Processing/#chapter-19-plastics-and-composite-materials-forming-and-shaping"
+  },"158": {
+    "doc": "Ch. 19 Plastics Forming",
+    "title": "Ch. 19 Plastics Forming",
+    "content": " ",
+    "url": "/03_Manufacturing/Part_III_Forming/Chapter_19_Plastics_Processing/",
+    
+    "relUrl": "/03_Manufacturing/Part_III_Forming/Chapter_19_Plastics_Processing/"
   }
 }

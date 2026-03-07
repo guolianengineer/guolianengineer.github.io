@@ -1,0 +1,106 @@
+site_name: 果链工程师 (Guolian Engineer)
+site_url: https://www.guoliangongchengshi.com
+site_description: Apple Supply Chain Engineering Knowledge Base
+site_author: Chris Chen
+
+repo_name: guolianengineer/guolianengineer.github.io
+repo_url: https://github.com/guolianengineer/guolianengineer.github.io
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: zh
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+  - awesome-pages
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - 首页: index.md
+  - NPI 开发指南: 01_NPI_Guide/index.md
+  - 图纸与公差: 02_GD_T/index.md
+  - 制造技术: 
+      - 概览: 03_Manufacturing/index.md
+      - "Part I: Materials": 
+          - 概览: 03_Manufacturing/Part_I_Materials/index.md
+          - "Ch. 1 Structure of Metals": 03_Manufacturing/Part_I_Materials/Chapter_01_Structure_of_Metals/index.md
+          - "Ch. 2 Mechanical Behavior": 03_Manufacturing/Part_I_Materials/Chapter_02_Mechanical_Behavior/index.md
+          - "Ch. 3 Physical Properties": 03_Manufacturing/Part_I_Materials/Chapter_03_Physical_Properties/index.md
+          - "Ch. 4 Metal Alloys": 03_Manufacturing/Part_I_Materials/Chapter_04_Metal_Alloys/index.md
+          - "Ch. 5 Ferrous Metals": 03_Manufacturing/Part_I_Materials/Chapter_05_Ferrous_Metals/index.md
+          - "Ch. 6 Nonferrous Metals": 03_Manufacturing/Part_I_Materials/Chapter_06_Nonferrous_Metals/index.md
+          - "Ch. 7 Polymers": 03_Manufacturing/Part_I_Materials/Chapter_07_Polymers/index.md
+          - "Ch. 8 Ceramics": 03_Manufacturing/Part_I_Materials/Chapter_08_Ceramics/index.md
+          - "Ch. 9 Composites": 03_Manufacturing/Part_I_Materials/Chapter_09_Composites/index.md
+      - "Part II: Casting":
+          - 概览: 03_Manufacturing/Part_II_Casting/index.md
+          - "Ch. 10 Casting Fundamentals": 03_Manufacturing/Part_II_Casting/Chapter_10_Casting_Fundamentals/index.md
+          - "Ch. 11 Casting Processes": 03_Manufacturing/Part_II_Casting/Chapter_11_Casting_Processes/index.md
+          - "Ch. 12 Casting Design": 03_Manufacturing/Part_II_Casting/Chapter_12_Casting_Design/index.md
+      - "Part III: Forming":
+          - 概览: 03_Manufacturing/Part_III_Forming/index.md
+          - "Ch. 13 Rolling": 03_Manufacturing/Part_III_Forming/Chapter_13_Rolling/index.md
+          - "Ch. 14 Forging": 03_Manufacturing/Part_III_Forming/Chapter_14_Forging/index.md
+          - "Ch. 15 Extrusion Drawing": 03_Manufacturing/Part_III_Forming/Chapter_15_Extrusion_Drawing/index.md
+          - "Ch. 16 Sheet Metal": 03_Manufacturing/Part_III_Forming/Chapter_16_Sheet_Metal/index.md
+          - "Ch. 17 Powder Metallurgy": 03_Manufacturing/Part_III_Forming/Chapter_17_Powder_Metallurgy/index.md
+          - "Ch. 18 Ceramics Glass": 03_Manufacturing/Part_III_Forming/Chapter_18_Ceramics_Glass_Processing/index.md
+          - "Ch. 19 Plastics": 03_Manufacturing/Part_III_Forming/Chapter_19_Plastics_Processing/index.md
+          - "Ch. 20 Additive Mfg": 03_Manufacturing/Part_III_Forming/Chapter_20_Additive_Manufacturing/index.md
+      - "Part IV: Machining":
+          - 概览: 03_Manufacturing/Part_IV_Machining/index.md
+          - CNC Machining: 03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/index.md
+      - "Part V: Micromanufacturing":
+          - 概览: 03_Manufacturing/Part_V_Micromanufacturing/index.md
+      - "Part VI: Joining":
+          - 概览: 03_Manufacturing/Part_VI_Joining_Processes/index.md
+          - Joining Processes: 03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/index.md
+      - "Part VII: Surface Tech":
+          - 概览: 03_Manufacturing/Part_VII_Surface_Technology/index.md
+          - Surface Treatments: 03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/index.md
+      - "Part VIII: Quality":
+          - 概览: 03_Manufacturing/Part_VIII_Quality_Assurance/index.md
+  - 制程控制: 04_Process_Control/index.md
+  - 失效分析: 05_FA/index.md
+  - 工程英语: 06_English/index.md
+  - 案例分析: 07_Case_Studies/index.md
