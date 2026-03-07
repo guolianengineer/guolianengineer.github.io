@@ -1,58 +1,84 @@
-# 果链工程师手册
-记录如下一些内容：
-- 果链的工程师需要的技能、学习资源、一些Case。
-- 其他暂时还没想到的内容。
+---
+hide:
+  - navigation
+  - toc
+---
+
+<div class="hero">
+  <h1>Guolian Engineer</h1>
+  <p>The Comprehensive Knowledge Base for Apple Supply Chain Engineering</p>
+  <p>From NPI to Mass Production, Blueprint to Process — The Ultimate Field Guide for Engineers.</p>
+  
+  <a href="03_Manufacturing/" class="md-button md-button--primary">
+    Explore Knowledge Base
+  </a>
+  <a href="blog/" class="md-button">
+    Read Blog
+  </a>
+</div>
+
+<div class="grid cards" markdown>
+
+-   :material-book-open-page-variant: **Manufacturing Technology**
+    
+    ---
+    
+    A complete manufacturing process system based on Kalpakjian's classic textbook, covering eight major modules including materials, casting, forming, machining, micromanufacturing, joining, and surface treatment.
+    
+    [:octicons-arrow-right-24: Start Learning](03_Manufacturing/index.md)
+
+-   :material-rocket-launch: **NPI Guide**
+    
+    ---
+    
+    Practical guide for New Product Introduction (NPI), analyzing key milestones and deliverables from EVT, DVT, PVT to MP.
+    
+    [:octicons-arrow-right-24: View Guide](01_NPI_Guide/index.md)
+
+-   :material-ruler-square: **GD&T**
+    
+    ---
+    
+    In-depth analysis of ASME Y14.5 standards, mastering the essence of Geometric Dimensioning and Tolerancing to communicate design intent precisely.
+    
+    [:octicons-arrow-right-24: Learn GD&T](02_GD_T/index.md)
+
+-   :material-post: **Engineering Blog**
+    
+    ---
+    
+    Sharing the latest industry trends, engineering insights, Failure Analysis (FA) cases, and first-hand experience from the Apple supply chain.
+    
+    [:octicons-arrow-right-24: Read Articles](blog/index.md)
+
+</div>
+
+## :material-star: Featured Content
+
+<div class="grid cards" markdown>
+
+-   **Process Control**
+    
+    CPK, SPC, DOE... Master the core statistical tools for process control.
+    
+    [Learn More](04_Process_Control/index.md)
+
+-   **Case Studies**
+    
+    Real-world engineering case studies, learning from failures.
+    
+    [Read Cases](07_Case_Studies/index.md)
+
+-   **Engineering English**
+    
+    Professional terminology, meeting communication, email writing — enhance your soft skills.
+    
+    [Improve Skills](06_English/index.md)
+
+</div>
 
 ---
-## 果链基本介绍  
-- 果链是什么  
-- 苹果与果链企业如何合作  
-- 供应商如何运营（以果链龙头立讯为例，包括企业架构，职能角色等）  
 
----
-## 新产品开发流程  
-
-包括：  
-- 团队角色（PM、ME、EE、SQE、DQE 等）  
-- 设计流程  
-- 开发阶段（EVT / DVT / PVT / MP）  
-- 实际项目中使用的模板（FMEA / 成本模型 / 良率分析等）
-
----
-## 三种语言  
-苹果供应链中使用三种基础语言：GD&T、统计学、英语。  
-
-- **GD&T**：几何尺寸与公差（Geometric Dimensioning & Tolerancing）。GD&T 是一种用于在工程图纸上表达设计意图的符号语言。  
-- **统计学**：统计学是理解、测量和控制变异的语言。GD&T 定义了几何上“什么是可接受的”，而统计学则决定生产过程是否能够稳定且持续地达到这一标准。  
-- **英语**：英语是国际工程环境中的工作语言。清晰、准确的技术英语可以减少歧义，提高效率，并增强全球团队之间的协作。
-
----
-## 制造技术  
-*(产品如何被实际制造与装配)*
-
-理解产品如何被制造，是做好设计的前提。  
-本部分聚焦于生产工艺与实际制造约束。
-
-包括：  
-- 焊接  
-- 粘接 / 胶黏技术  
-- 紧固系统  
-- 机加工与成形  
-- 表面处理  
-
----
-## 工程分析工具  
-*(我们如何验证、测量与分析材料和产品)*
-
-工程决策依赖数据与验证。
-
-包括：  
-- SEM（扫描电子显微镜）  
-- XRD（X射线衍射）  
-- MTS（材料测试系统）  
-- XPS / FTIR  
-- TEM（透射电子显微镜）  
-- 可靠性测试  
-- 失效分析方法  
-
----
+<p align="center">
+  <small>Created by <strong>Guolian Engineer</strong> with :material-heart: using <strong>MkDocs Material</strong></small>
+</p>

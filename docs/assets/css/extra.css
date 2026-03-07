@@ -1,0 +1,61 @@
+:root {
+  --md-primary-fg-color:        #5e35b1;
+  --md-primary-fg-color--light: #7e57c2;
+  --md-primary-fg-color--dark:  #4527a0;
+  --md-accent-fg-color:         #7e57c2;
+}
+
+/* Hero section for homepage */
+.md-typeset .hero {
+  background: var(--md-primary-fg-color);
+  color: #fff;
+  padding: 4rem 2rem;
+  margin: -2rem -2rem 2rem -2rem;
+  text-align: center;
+}
+
+.md-typeset .hero h1 {
+  color: #fff;
+  margin-top: 0;
+  font-weight: 700;
+}
+
+.md-typeset .hero p {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 1.2rem;
+  max-width: 800px;
+  margin: 0 auto 2rem auto;
+}
+
+.md-typeset .hero .md-button {
+  background-color: #fff;
+  color: var(--md-primary-fg-color);
+  font-weight: bold;
+  border: none;
+  margin: 0 0.5rem;
+}
+
+.md-typeset .hero .md-button:hover {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: var(--md-primary-fg-color--dark);
+}
+
+.md-typeset .hero .md-button--primary {
+  background-color: var(--md-accent-fg-color);
+  color: #fff;
+}
+
+.md-typeset .hero .md-button--primary:hover {
+  background-color: var(--md-primary-fg-color--light);
+}
+
+/* Feature cards */
+.grid.cards > ul > li {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.5rem;
+  transition: box-shadow 0.2s;
+}
+
+.grid.cards > ul > li:hover {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}

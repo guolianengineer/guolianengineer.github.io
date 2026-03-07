@@ -1,15 +1,21 @@
-site_name: 果链工程师 (Guolian Engineer)
+site_name: Guolian Engineer
 site_url: https://www.guoliangongchengshi.com
 site_description: Apple Supply Chain Engineering Knowledge Base
-site_author: Chris Chen
+site_author: Guolian Engineer
 
 repo_name: guolianengineer/guolianengineer.github.io
 repo_url: https://github.com/guolianengineer/guolianengineer.github.io
 edit_uri: edit/main/docs/
 
+# Copyright
+copyright: Copyright &copy; 2024 - 2026 Guolian Engineer
+
 theme:
   name: material
-  language: zh
+  language: en
+  logo: assets/images/site_logo.png
+  favicon: assets/images/site_logo.png
+  
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -34,19 +40,46 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - navigation.footer
     - toc.follow
     - search.suggest
     - search.highlight
     - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+    - header.autohide
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/guolianengineer
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/your-profile
+    - icon: material/email
+      link: mailto:your-email@example.com
+
+extra_css:
+  - assets/css/extra.css
 
 plugins:
   - search
   - awesome-pages
+  - blog:
+      post_dir: blog/posts
+      archive_url: blog/archive
+      categories_url: blog/categories
+      tags_url: blog/tags
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
   - pymdownx.tabbed:
       alternate_style: true
   - attr_list
@@ -54,15 +87,18 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
-  - 首页: index.md
-  - NPI 开发指南: 01_NPI_Guide/index.md
-  - 图纸与公差: 02_GD_T/index.md
-  - 制造技术: 
-      - 概览: 03_Manufacturing/index.md
+  - Home: index.md
+  - NPI Guide: 01_NPI_Guide/index.md
+  - GD&T: 02_GD_T/index.md
+  - Manufacturing: 
+      - Overview: 03_Manufacturing/index.md
       - "Part I: Fundamentals of Materials: Behavior and Manufacturing Properties": 
-          - 概览: 03_Manufacturing/Part_I_Materials/index.md
+          - Overview: 03_Manufacturing/Part_I_Materials/index.md
           - "Chapter 1: The Structure of Metals": 03_Manufacturing/Part_I_Materials/Chapter_01_Structure_of_Metals/index.md
           - "Chapter 2: Mechanical Behavior, Testing, and Manufacturing Properties of Materials": 03_Manufacturing/Part_I_Materials/Chapter_02_Mechanical_Behavior/index.md
           - "Chapter 3: Physical Properties of Materials": 03_Manufacturing/Part_I_Materials/Chapter_03_Physical_Properties/index.md
@@ -73,12 +109,12 @@ nav:
           - "Chapter 8: Ceramics, Glass, Graphite, Diamond, and Nanomaterials": 03_Manufacturing/Part_I_Materials/Chapter_08_Ceramics/index.md
           - "Chapter 9: Composite Materials": 03_Manufacturing/Part_I_Materials/Chapter_09_Composites/index.md
       - "Part II: Metal-casting Processes and Equipment":
-          - 概览: 03_Manufacturing/Part_II_Casting/index.md
+          - Overview: 03_Manufacturing/Part_II_Casting/index.md
           - "Chapter 10: Fundamentals of Metal Casting": 03_Manufacturing/Part_II_Casting/Chapter_10_Casting_Fundamentals/index.md
           - "Chapter 11: Metal-casting Processes and Equipment": 03_Manufacturing/Part_II_Casting/Chapter_11_Casting_Processes/index.md
           - "Chapter 12: Metal Casting: Design, Materials, and Economics": 03_Manufacturing/Part_II_Casting/Chapter_12_Casting_Design/index.md
       - "Part III: Forming and Shaping Processes and Equipment":
-          - 概览: 03_Manufacturing/Part_III_Forming/index.md
+          - Overview: 03_Manufacturing/Part_III_Forming/index.md
           - "Chapter 13: Metal-rolling Processes and Equipment": 03_Manufacturing/Part_III_Forming/Chapter_13_Rolling/index.md
           - "Chapter 14: Metal-forging Processes and Equipment": 03_Manufacturing/Part_III_Forming/Chapter_14_Forging/index.md
           - "Chapter 15: Metal Extrusion and Drawing Processes and Equipment": 03_Manufacturing/Part_III_Forming/Chapter_15_Extrusion_Drawing/index.md
@@ -88,7 +124,7 @@ nav:
           - "Chapter 19: Plastics and Composite Materials: Forming and Shaping": 03_Manufacturing/Part_III_Forming/Chapter_19_Plastics_Processing/index.md
           - "Chapter 20: Additive Manufacturing": 03_Manufacturing/Part_III_Forming/Chapter_20_Additive_Manufacturing/index.md
       - "Part IV: Machining Processes and Machine Tools":
-          - 概览: 03_Manufacturing/Part_IV_Machining/index.md
+          - Overview: 03_Manufacturing/Part_IV_Machining/index.md
           - "Chapter 21: Fundamentals of Machining": 03_Manufacturing/Part_IV_Machining/Chapter_21_Fundamentals_Machining/index.md
           - "Chapter 22: Cutting-tool Materials and Cutting Fluids": 03_Manufacturing/Part_IV_Machining/Chapter_22_Cutting_Tools/index.md
           - "Chapter 23: Machining Processes: Turning and Hole Making": 03_Manufacturing/Part_IV_Machining/Chapter_23_Turning_Hole_Making/index.md
@@ -96,25 +132,27 @@ nav:
           - "Chapter 25: Machining Centers, Machine-tool Structures, and Machining Economics": 03_Manufacturing/Part_IV_Machining/Chapter_25_Machining_Centers/index.md
           - "Chapter 26: Abrasive Machining and Finishing Operations": 03_Manufacturing/Part_IV_Machining/Chapter_26_Abrasive_Machining/index.md
           - "Chapter 27: Advanced Machining Processes": 03_Manufacturing/Part_IV_Machining/Chapter_27_Advanced_Machining/index.md
-          - "CNC Machining (数控加工)": 03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/index.md
+          - "CNC Machining": 03_Manufacturing/Part_IV_Machining/Chapter_21_29_Machining/index.md
       - "Part V: Micromanufacturing and Fabrication of Microelectronic Devices":
-          - 概览: 03_Manufacturing/Part_V_Micromanufacturing/index.md
+          - Overview: 03_Manufacturing/Part_V_Micromanufacturing/index.md
           - "Chapter 28: Fabrication of Microelectronic Devices": 03_Manufacturing/Part_V_Micromanufacturing/Chapter_28_Microelectronics/index.md
           - "Chapter 29: Fabrication of Microelectromechanical Devices and Systems (MEMS)": 03_Manufacturing/Part_V_Micromanufacturing/Chapter_29_MEMS/index.md
       - "Part VI: Joining Processes and Equipment":
-          - 概览: 03_Manufacturing/Part_VI_Joining_Processes/index.md
+          - Overview: 03_Manufacturing/Part_VI_Joining_Processes/index.md
           - "Chapter 30: Fusion Welding Processes": 03_Manufacturing/Part_VI_Joining_Processes/Chapter_30_Fusion_Welding/index.md
           - "Chapter 31: Solid-State Welding Processes": 03_Manufacturing/Part_VI_Joining_Processes/Chapter_31_Solid_State_Welding/index.md
           - "Chapter 32: Brazing, Soldering, Adhesive-bonding, and Mechanical Fastening": 03_Manufacturing/Part_VI_Joining_Processes/Chapter_32_Joining/index.md
       - "Part VII: Surface Technology":
-          - 概览: 03_Manufacturing/Part_VII_Surface_Technology/index.md
+          - Overview: 03_Manufacturing/Part_VII_Surface_Technology/index.md
           - "Chapter 33: Surface Roughness and Measurement; Friction, Wear, and Lubrication": 03_Manufacturing/Part_VII_Surface_Technology/Chapter_33_Surface_Roughness/index.md
           - "Chapter 34: Surface Treatments, Coatings, and Cleaning": 03_Manufacturing/Part_VII_Surface_Technology/Chapter_34_Surface_Treatment/index.md
       - "Part VIII: Engineering Metrology, Instrumentation, and Quality Assurance":
-          - 概览: 03_Manufacturing/Part_VIII_Quality_Assurance/index.md
+          - Overview: 03_Manufacturing/Part_VIII_Quality_Assurance/index.md
           - "Chapter 35: Engineering Metrology and Instrumentation": 03_Manufacturing/Part_VIII_Quality_Assurance/Chapter_35_Metrology/index.md
           - "Chapter 36: Quality Assurance, Testing, and Inspection": 03_Manufacturing/Part_VIII_Quality_Assurance/Chapter_36_Quality_Assurance/index.md
-  - 制程控制: 04_Process_Control/index.md
-  - 失效分析: 05_FA/index.md
-  - 工程英语: 06_English/index.md
-  - 案例分析: 07_Case_Studies/index.md
+  - Process Control: 04_Process_Control/index.md
+  - Failure Analysis: 05_FA/index.md
+  - Engineering English: 06_English/index.md
+  - Case Studies: 07_Case_Studies/index.md
+  - Blog: 
+      - blog/index.md
